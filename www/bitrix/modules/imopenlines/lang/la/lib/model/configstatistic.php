@@ -1,0 +1,9 @@
+<?
+$MESS["CONFIG_STATISTIC_ENTITY_ID_FIELD"] = "ID";
+$MESS["CONFIG_STATISTIC_ENTITY_CONFIG_ID_FIELD"] = "ID de configuración";
+$MESS["CONFIG_STATISTIC_ENTITY_SESSION_FIELD"] = "Número de sesiones";
+$MESS["CONFIG_STATISTIC_ENTITY_MESSAGE_FIELD"] = "Número de comunicaciones";
+$MESS["CONFIG_STATISTIC_ENTITY_CLOSED_FIELD"] = "Número de comunicaciones cerradas";
+$MESS["CONFIG_STATISTIC_ENTITY_IN_WORK_FIELD"] = "Comunicaciones activas";
+$MESS["CONFIG_STATISTIC_ENTITY_LEADS_FIELD"] = "Número de prospectos ";
+?>

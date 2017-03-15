@@ -1,0 +1,44 @@
+<?
+$MESS["CRM_ALL"] = "Total";
+$MESS["CRM_ACTION_SHOW"] = "Ver la actividad";
+$MESS["CRM_ACTION_EDIT"] = "Editar actividad";
+$MESS["CRM_ACTION_MARK_AS_NOT_COMPLETED"] = "Marcar como asuntos pendientes";
+$MESS["CRM_ACTION_MARK_AS_COMPLETED"] = "Marcar como terminado";
+$MESS["CRM_ACTION_DELETE"] = "Eliminar";
+$MESS["CRM_ACTION_STATUS_COMPLETED"] = "Terminado";
+$MESS["CRM_ACTION_STATUS_NOT_COMPLETED"] = "Pendiente";
+$MESS["CRM_ACTION_IMPORTANT"] = "Muy importante";
+$MESS["CRM_ACTION_TYPE_MEETING"] = "Reunión con un cliente";
+$MESS["CRM_ACTION_TYPE_CALL_OUTGOING"] = "Llamada a un cliente";
+$MESS["CRM_ACTION_TYPE_CALL_INCOMING"] = "Llamada telefónica de un cliente";
+$MESS["CRM_ACTION_TYPE_EMAIL_OUTGOING"] = "Correo electrónico a un cliente";
+$MESS["CRM_ACTION_TYPE_EMAIL_INCOMING"] = "Correo electrónico de un cliente";
+$MESS["CRM_ACTION_TYPE_TASK"] = "Tarea";
+$MESS["CRM_ACTION_COMPLETED"] = "Completado";
+$MESS["CRM_ACTION_NOT_COMPLETED"] = "No completado";
+$MESS["CRM_ACTION_CLICK_TO_COMPLETE"] = "Haga clic para marcar como completada";
+$MESS["CRM_ACTION_CONVERTING_OF_CALENDAR_EVENTS"] = "Hay eventos del calendario asociados con CRM pero no visible en la lista.
+Usted puede <a href=\"#URL_EXECUTE_CONVERTING#\">add them to the list</a> or <a href=\"#URL_SKIP_CONVERTING#\">skip</a>.";
+$MESS["CRM_ACTION_CONVERTING_OF_TASKS"] = "Hay tareas asociadas con CRM pero no visible en la lista. Usted puede <a href=\"#URL_EXECUTE_CONVERTING#\">add them to the list</a> or <a href=\"#URL_SKIP_CONVERTING#\">skip</a>.";
+$MESS["CRM_ACTION_QUICK_FILTER_SEARCH_RESULT"] = "Resultados de búsqueda";
+$MESS["CRM_ACTION_QUICK_FILTER_TITLE"] = "Mostrar";
+$MESS["CRM_ACTION_QUICK_FILTER_ALL"] = "Todo";
+$MESS["CRM_ACTIVITY_LIST_ADD_TASK"] = "Nueva tarea";
+$MESS["CRM_ACTIVITY_LIST_ADD_CALL"] = "Nueva llamada";
+$MESS["CRM_ACTIVITY_LIST_ADD_MEETING"] = "Nueva reunión";
+$MESS["CRM_ACTIVITY_LIST_ADD_EMAIL"] = "Enviar mensaje";
+$MESS["CRM_ACTIVITY_LIST_ADD_TASK_SHORT"] = "Tarea";
+$MESS["CRM_ACTIVITY_LIST_ADD_CALL_SHORT"] = "Llamada";
+$MESS["CRM_ACTIVITY_LIST_ADD_MEETING_SHORT"] = "Reunión";
+$MESS["CRM_ACTIVITY_LIST_ADD_EMAIL_SHORT"] = "Correo electrónico";
+$MESS["CRM_ACTIVITY_LIST_ADD_EVENT_SHORT"] = "Evento";
+$MESS["CRM_ACTIVITY_LIST_ADD_EVENT"] = "Agregar evento";
+$MESS["CRM_ACTIVITY_LIST_SHOW_FILTER_SHORT"] = "Filtro";
+$MESS["CRM_ACTIVITY_LIST_SHOW_FILTER"] = "Mostrar/ocultar filtro";
+$MESS["CRM_ACTIVITY_LIST_WAIT_FOR_RELOAD"] = "Por favor espere mientras la lista de actividades se actualiza";
+$MESS["CRM_SHOW_ROW_COUNT"] = "Mostrar la cantidad";
+$MESS["CRM_ACTION_ASSIGN_TO"] = "Asignar persona responsable";
+$MESS["CRM_WIDGET_COUNTER_MISMATCH_NOTIFY"] = "Los informes están diseñados para incluir todas las actividades de los clientes, incluyendo aquellos que pueden no tener derechos de acceso. Esta es la razón por la que el número de las actividades mostradas en esta página pueden diferir de la cantidad de actividades que se enumeran en los informes.";
+$MESS["CRM_ACTIVITY_LIST_FILTER_NAV_BUTTON_LIST"] = "Lista";
+$MESS["CRM_ACTIVITY_LIST_FILTER_NAV_BUTTON_WIDGET"] = "Reportes";
+?>

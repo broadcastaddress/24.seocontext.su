@@ -1,0 +1,34 @@
+<?
+$MESS["BLOG_BUTTON_SEND"] = "Enviar";
+$MESS["BLOG_BUTTON_CANCEL"] = "Cancelar";
+$MESS["BLOG_BUTTON_DRAFT"] = "Guardar como borrador";
+$MESS["BLOG_TITLE"] = "Tema";
+$MESS["BLOG_P_PHOTO"] = "Foto:";
+$MESS["BLOG_GRATMEDAL_1"] = "Agregar empleado";
+$MESS["BLOG_GRATMEDAL_2"] = "Agregar más";
+$MESS["BLOG_TITLE_GRAT"] = "Destinatario:";
+$MESS["BLOG_TITLE_GRAT_OTHER"] = "otro";
+$MESS["BLOG_GRAT_POPUP_TITLE"] = "Elegir uno";
+$MESS["BLOG_TAB_POST"] = "Mensaje";
+$MESS["BLOG_TAB_VOTE"] = "Encuesta";
+$MESS["BLOG_TAB_GRAT"] = "Apreciación";
+$MESS["BLOG_TAB_FILE"] = "Archivo";
+$MESS["BLOG_LINK_SHOW_NEW"] = "Enviar mensaje &hellip;";
+$MESS["BLOG_UPLOAD"] = "Cargar archivo o imagen";
+$MESS["BLOG_DIALOG"] = "Seleccione el archivo desde una librería";
+$MESS["BLOG_DRAG"] = "o arrastrar y soltar archivos a este espacio";
+$MESS["BLOG_DIALOG_ALT"] = "abrir lista de documentos de la biblioteca de Bitrix24";
+$MESS["BLOG_PICKUP"] = "Seleccione el archivo desde el equipo local";
+$MESS["SBPE_MORE"] = "Más";
+$MESS["SBPE_IMPORTANT_MESSAGE"] = "Anuncio";
+$MESS["SBPE_CALENDAR_EVENT"] = "Evento";
+$MESS["BLOG_POST_AUTOSAVE"] = "Datos del mensaje del blog no se han guardado.";
+$MESS["BLOG_TAB_LISTS"] = "Procesos";
+$MESS["BLOG_POST_AUTOSAVE2"] = "¿Revertir a los valores guardados automáticamente?";
+$MESS["LISTS_CATALOG_PROCESSES_ACCESS_DENIED"] = "Sin accesos";
+$MESS["BLOG_TAB_TASK"] = "Tarea";
+$MESS["BLOG_POST_EDIT_T_CREATE_TASK_SUCCESS_TITLE"] = "Se ha creado una tarea";
+$MESS["BLOG_POST_EDIT_T_CREATE_TASK_SUCCESS_DESCRIPTION"] = "Ahora puede ver y editar la tarea.";
+$MESS["BLOG_POST_EDIT_T_CREATE_TASK_BUTTON_TITLE"] = "Ver tarea";
+$MESS["MPF_DRAG_ATTACHMENTS2"] = "¿Cargar archivos?";
+?>

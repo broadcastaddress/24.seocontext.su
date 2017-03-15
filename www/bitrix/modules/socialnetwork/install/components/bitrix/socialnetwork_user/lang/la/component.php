@@ -1,0 +1,37 @@
+<?
+$MESS["SONET_MODULE_NOT_INSTALL"] = "El módulo Socila Network no está instalado.";
+$MESS["SONET_LOADING"] = "Cargando...";
+$MESS["FL_FORUM_CHAIN"] = "Foro";
+$MESS["FL_FORUM_USER_CHAIN"] = "Foro";
+$MESS["FL_FORUM_GROUP_CHAIN"] = "Discuciones";
+$MESS["SONET_PANEL_REINDEX_TITLE"] = "Volver a indexar búsqueda de base de datos de Social Network";
+$MESS["SONET_PANEL_REINDEX"] = "Volver a indexar ";
+$MESS["SONET_LOG_TEMPLATE_AUTHOR"] = "Autor: <a href=\"#URL#\">#TITLE#</a>.";
+$MESS["SONET_LOG_TEMPLATE_GUEST"] = "Autor: Invitado.";
+$MESS["SONET_LOG_TEMPLATE_AUTHOR_MAIL"] = "\\bAutor: #TITLE# (#URL#).";
+$MESS["SONET_ACCESS_DENIED"] = "Acceso denegado.";
+$MESS["SONET_CREATE_WEBDAV"] = "Crear la Biblioteca";
+$MESS["IBLOCK_DEFAULT_UF"] = "La galería predeterminada";
+$MESS["SONET_FILES"] = "Archivo";
+$MESS["SONET_GROUP"] = "Grupo";
+$MESS["SONET_GROUP_PREFIX"] = "Grupo:";
+$MESS["SONET_WEBDAV_NOT_EXISTS"] = "No hay documentos.";
+$MESS["SONET_GALLERY_NOT_FOUND"] = "Ninguna foto.";
+$MESS["SONET_PHOTO"] = "Foto";
+$MESS["SONET_FILES_IS_NOT_ACTIVE"] = "La característica de \"archivos\" no está habilitada.";
+$MESS["SONET_PHOTO_IS_NOT_ACTIVE"] = "La característica de las \"Fotos\" no está habilitada.";
+$MESS["SONET_WD_MODULE_IS_NOT_INSTALLED"] = "El módulo del documento de la biblioteca no está instalada.";
+$MESS["SONET_GROUP_NOT_EXISTS"] = "El grupo no existe.";
+$MESS["SONET_IBLOCK_ID_EMPTY"] = "El módulo del block de información no está especificado.";
+$MESS["SONET_IB_MODULE_IS_NOT_INSTALLED"] = "El módulo del block de información no está instalado.";
+$MESS["SONET_P_MODULE_IS_NOT_INSTALLED"] = "El módulo de la galería de fotos no está instalada.";
+$MESS["SONET_GALLERIES_IS_NOT_ACTIVE"] = "Sus galerías de fotos se encuentran actualmente inactivos. Por favor contacte al administrador.";
+$MESS["SONET_GALLERY_IS_NOT_ACTIVE"] = "Su galería de fotos está actualmente inactiva. Por favor contacte al administrador.";
+$MESS["SONET_PHOTO_LOG_1"] = "#AUTHOR_NAME# agregado al archivo #TITLE#";
+$MESS["SONET_PHOTO_LOG_2"] = "Fotos (#COUNT#)";
+$MESS["SONET_PHOTO_LOG_TEXT"] = "Nuevas fotos: <div class='notificationlog'>#LINKS#</div> <a href=\"#HREF#\">Open album</a>.";
+$MESS["SONET_PHOTO_LOG_MAIL_TEXT"] = "Nuevas fotos: #LINKS# y otros.";
+$MESS["SONET_LOG_GUEST"] = "Invitado";
+$MESS["SONET_NAME_TEMPLATE_DEFAULT"] = "#NOBR##NAME# #LAST_NAME##/NOBR#";
+$MESS["SONET_CONTENT_SEARCH_CHAIN"] = "Buscar";
+?>

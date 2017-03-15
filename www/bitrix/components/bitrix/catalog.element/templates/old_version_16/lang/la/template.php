@@ -1,0 +1,31 @@
+<?
+$MESS["CT_BCE_QUANTITY"] = "Cantidad";
+$MESS["CT_BCE_CATALOG_ADD"] = "Agregar al carrito";
+$MESS["CT_BCE_CATALOG_COMPARE"] = "Compare";
+$MESS["CT_BCE_CATALOG_BUY"] = "Comprar";
+$MESS["CT_BCE_CATALOG_NOT_AVAILABLE"] = "No disponible en stock";
+$MESS["CT_BCE_CATALOG_TITLE_ERROR"] = "Error";
+$MESS["CT_BCE_CATALOG_TITLE_BASKET_PROPS"] = "Propiedades de los elementos para pasar al carrito de compras";
+$MESS["CT_BCE_CATALOG_BASKET_UNKNOWN_ERROR"] = "Error desconocido añadir un elemento al carrito";
+$MESS["CT_BCE_CATALOG_BTN_SEND_PROPS"] = "Seleccionar";
+$MESS["CT_BCE_CATALOG_BTN_MESSAGE_CLOSE"] = "Cerrar";
+$MESS["CT_BCE_CATALOG_BTN_MESSAGE_BASKET_REDIRECT"] = "Ver carrito de compras";
+$MESS["CT_BCE_CATALOG_ADD_TO_BASKET_OK"] = "Agregar a su carrito de compras";
+$MESS["CT_BCE_CATALOG_BTN_MESSAGE_CLOSE_POPUP"] = "Continuar comprando";
+$MESS["CT_BCE_CATALOG_MESS_COMPARE_OK"] = "El producto se ha agregado a la tabla comparativa";
+$MESS["CT_BCE_CATALOG_MESS_COMPARE_TITLE"] = "Comparación de producto";
+$MESS["CT_BCE_CATALOG_MESS_COMPARE_UNKNOWN_ERROR"] = "Error al agregar el producto a tabla de comparación";
+$MESS["CT_BCE_CATALOG_BTN_MESSAGE_COMPARE_REDIRECT"] = "Comparar producto";
+$MESS["CT_BCE_CATALOG_PRODUCT_GIFT_LABEL"] = "Regalo";
+$MESS["CT_BCE_CATALOG_ECONOMY_INFO2"] = "Descuento #ECONOMY#";
+$MESS["CT_BCE_CATALOG_DESCRIPTION"] = "Descripción";
+$MESS["CT_BCE_CATALOG_PROPERTIES"] = "Propiedades";
+$MESS["CT_BCE_CATALOG_COMMENTARY"] = "Comentarios";
+$MESS["CT_BCE_CATALOG_MESS_PRICE_TOTAL_PREFIX"] = "total";
+$MESS["CT_BCE_CATALOG_DESCRIPTION_TAB"] = "Descripción";
+$MESS["CT_BCE_CATALOG_PROPERTIES_TAB"] = "Propiedades";
+$MESS["CT_BCE_CATALOG_COMMENTS_TAB"] = "Comentarios";
+$MESS["CT_BCE_CATALOG_SHOW_MAX_QUANTITY"] = "Stock";
+$MESS["CT_BCE_CATALOG_RELATIVE_QUANTITY_MANY"] = "en stock";
+$MESS["CT_BCE_CATALOG_RELATIVE_QUANTITY_FEW"] = "sólo quedan unos pocos";
+?>

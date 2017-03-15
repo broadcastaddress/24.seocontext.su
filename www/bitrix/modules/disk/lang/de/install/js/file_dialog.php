@@ -1,0 +1,5 @@
+<?
+$MESS["DISK_JS_FILE_DIALOG_OAUTH_NOTICE"] = "Um eine Datei von einem externen Laufwerk zu laden, <br/> loggen Sie sich bitte in Ihrem Account <a id=\"bx-js-disk-run-oauth-modal\" href=\"#\">#SERVICE#</a> ein.";
+$MESS["DISK_JS_FILE_DIALOG_OAUTH_NOTICE_DETAIL"] = "<p>Die Datei wird im Upload-Ordner von Bitrix24.Drive gespeichert. Weitere Änderungen dieser externen Datei werden nicht mehr verfolgt.</p> <p>Nachdem Ihr externer Account zu Bitrix24 hinzugefügt wurde, können alle Funktionen auf diesen Account zugreifen, welche  dort verwendet werden können.</p>";
+$MESS["DISK_JS_FILE_DIALOG_OAUTH_NOTICE_DETAIL_B24"] = "<p>Die Datei wird im Upload-Ordner von Bitrix24.Drive gespeichert. Weitere Änderungen dieser externen Datei werden nicht mehr verfolgt.</p> <p>Nachdem Ihr externer Account zu Bitrix24 hinzugefügt wurde, können alle Funktionen auf diesen Account zugreifen, welche  dort verwendet werden können.</p><p>Benutzen Sie Ihre Bitrix24.Identifizierungsseite, um die Verbindung zu externen Services zu trennen.</p>";
+?>

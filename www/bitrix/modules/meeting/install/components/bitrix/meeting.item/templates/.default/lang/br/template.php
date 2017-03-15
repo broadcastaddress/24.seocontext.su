@@ -1,0 +1,33 @@
+<?
+$MESS["ME_LIST_TITLE"] = "Voltar para reuniões";
+$MESS["ME_FILES"] = "Arquivos";
+$MESS["MI_EDIT"] = "Editar";
+$MESS["MI_EDIT_FINISH"] = "Finalizar Edição";
+$MESS["MI_SAVE"] = "Salvar";
+$MESS["MI_CANCEL"] = "Cancelar";
+$MESS["MI_REPORTS"] = "Relatórios";
+$MESS["MI_REPORT"] = "Relatório";
+$MESS["MI_REPORT_MEETING"] = "Tema da reunião";
+$MESS["MI_REPORT_DATE_START"] = "Data";
+$MESS["MI_REPORT_STATE"] = "Status";
+$MESS["MI_REPORT_RESPONSIBLES"] = "Pessoas responsáveis";
+$MESS["MI_REPORT_RESPONSIBLE"] = "Responsável";
+$MESS["MI_REPORT_NO_RESPONSIBLE"] = "nenhum";
+$MESS["MI_REPORT_NO_REPORT"] = "Nenhum";
+$MESS["MI_REPORT_DEADLINE"] = "Devido por";
+$MESS["MI_HISTORY_SHOW"] = "Mostrar história tópico (#CNT#)";
+$MESS["MI_HISTORY_HIDE"] = "Ocultar histórico do tópico";
+$MESS["MI_TASKS"] = "Tarefas";
+$MESS["MI_TASK_ADD"] = "Adicionar nova tarefa";
+$MESS["MI_TASK_ATTACH"] = "Anexar a tarefa existente";
+$MESS["MI_COMMENTS"] = "Comentários";
+$MESS["MI_TASK_DETACH"] = "Retirar tarefa";
+$MESS["MI_EDIT_TITLE"] = "Tópico";
+$MESS["MI_EDIT_DESCRIPTION"] = "Descrição";
+$MESS["MI_MEETING_TITLE"] = "Não. #ID#: #TITLE#";
+$MESS["MI_SAVING"] = "Salvando...";
+$MESS["MI_SAVED"] = "Relatório salvo as #TIME#";
+$MESS["MI_BLOCK_TITLE"] = "Descrição Tópico";
+$MESS["MI_TASK_DETACH_TITLE"] = "Retirar tarefa do tópico";
+$MESS["ME_BACK"] = "Voltar para reunião";
+?>

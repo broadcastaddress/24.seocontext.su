@@ -1,0 +1,3 @@
+<?
+$MESS["CRM_REQUISITE_LIST_ROW_COUNT"] = "Gesamt: #ROW_COUNT#";
+?>

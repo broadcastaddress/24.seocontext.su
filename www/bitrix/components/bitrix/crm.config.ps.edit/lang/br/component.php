@@ -1,0 +1,35 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "O módulo de CRM não está instalado. ";
+$MESS["CRM_SALE_MODULE_NOT_INSTALLED"] = "O módulo de e-Store não está instalado. ";
+$MESS["CRM_PERMISSION_DENIED"] = "Acesso negado";
+$MESS["CRM_PS_NOT_FOUND"] = "O sistema de pagamento não foi encontrado.";
+$MESS["CRM_PS_SECTION_MAIN"] = "Sistema de pagamento";
+$MESS["CRM_PS_FIELD_NAME"] = "Nome";
+$MESS["CRM_PS_FIELD_ACTIVE"] = "Ativo";
+$MESS["CRM_PS_FIELD_SORT"] = "Classificação";
+$MESS["CRM_PS_FIELD_NEW_WINDOW"] = "Abrir em uma nova janela";
+$MESS["CRM_PS_FIELD_ENCODING"] = "Tabela de caracteres";
+$MESS["CRM_PS_FIELD_PERSON_TYPE_ID"] = "Tipo de cliente";
+$MESS["CRM_PS_FIELD_DESCRIPTION"] = "Descrição";
+$MESS["CRM_PS_FIELD_ACTION_FILE"] = "Encarregado";
+$MESS["CRM_PS_FIELD_LOGOTIP"] = "Logo do sistema de pagamento";
+$MESS["CRM_PS_LOGOTIP_DEL"] = "Deletar arquivo";
+$MESS["CRM_PS_ACT_PROPERTIES"] = "Propriedades do encarregado";
+$MESS["CRM_PS_ADD_UNKNOWN_ERROR"] = "Erro ao criar um sistema de pagamento.";
+$MESS["CRM_PS_UPDATE_UNKNOWN_ERROR"] = "Erro ao atualizar o sistema de pagamento.";
+$MESS["CRM_PS_DELETE_UNKNOWN_ERROR"] = "Erro ao deletar o sistema de pagamento.";
+$MESS["CRM_PS_TYPES_OTHER"] = "Outro";
+$MESS["CRM_PS_TYPES_USER"] = "Parâmetros do usuário";
+$MESS["CRM_PS_TYPES_ORDER"] = "Parâmetros do pedido";
+$MESS["CRM_PS_TYPES_PROPERTY"] = "Propriedades do pedido";
+$MESS["CRM_PS_JCOUNTRY"] = "país";
+$MESS["CRM_PS_JCITY"] = "cidade";
+$MESS["CRM_PS_ERROR_NO_NAME"] = "O nome do sistema de pagamento está faltando.";
+$MESS["CRM_PS_EMPTY_SCRIPT"] = "O script do encarregado do sistema de pagamento não está especificado.";
+$MESS["CRM_PS_NO_SCRIPT"] = "O script do encarregado do sistema de pagamento não existe.";
+$MESS["CRM_PS_ERROR_UPDATE"] = "Ocorreu um erro ao atualizar os parâmetros do encarregado do sistema de pagamento.";
+$MESS["CRM_PS_ERROR_ADD"] = "Erro ao adicionar um encarregado do sistema de pagamento.";
+$MESS["CRM_PS_SHOW_FIELDS"] = "Mostrar todos os campos";
+$MESS["CRM_PS_HIDE_FIELDS"] = "Ocultar campos extras";
+$MESS["CRM_PS_DEL_FILE"] = "Deletar arquivo";
+?>

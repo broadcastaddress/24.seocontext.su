@@ -1,0 +1,5 @@
+<?
+$MESS["CRM_JS_STATUS_ACTION_SUCCESS"] = "Erfolgreich";
+$MESS["CRM_JS_STATUS_ACTION_ERROR"] = "Fehler";
+$MESS["CRM_PRODUCT_SECTION_TREE_TITLE"] = "Bereiche";
+?>

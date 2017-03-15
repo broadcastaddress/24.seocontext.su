@@ -1,0 +1,4 @@
+<?
+$MESS["SERVICES_MENU_OPENLINES_PERMISSIONS"] = "Права доступу";
+$MESS["SERVICES_MENU_OPENLINES_STATISTICS"] = "Статистика";
+?>

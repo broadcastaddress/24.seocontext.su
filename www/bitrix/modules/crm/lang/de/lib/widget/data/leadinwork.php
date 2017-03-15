@@ -1,0 +1,5 @@
+<?
+$MESS["CRM_LEAD_IN_WORK_PRESET_OVERALL_COUNT"] = "Anzahl der aktiven Leads";
+$MESS["CRM_LEAD_IN_WORK_PRESET_OVERALL_COUNT_SHORT"] = "Anzahl der Leads";
+$MESS["CRM_LEAD_IN_WORK_CATEGORY"] = "Aktive Leads";
+?>

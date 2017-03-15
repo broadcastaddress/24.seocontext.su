@@ -1,0 +1,29 @@
+<?
+$MESS["DISK_JS_STATUS_ACTION_SUCCESS"] = "Erfolgreich";
+$MESS["DISK_JS_STATUS_ACTION_ERROR"] = "Fehler";
+$MESS["DISK_JS_SHARING_LABEL_RIGHTS_FOLDER"] = "Freigegebener Ordner";
+$MESS["DISK_JS_SHARING_LABEL_NAME_RIGHTS_USER"] = "Nutzer";
+$MESS["DISK_JS_SHARING_LABEL_NAME_RIGHTS"] = "Zugriffsrechte";
+$MESS["DISK_JS_SHARING_LABEL_NAME_ADD_RIGHTS_USER"] = "Mehr hinzufügen";
+$MESS["DISK_JS_SHARING_LABEL_NAME_ALLOW_SHARING_RIGHTS_USER"] = "Diesen Nutzern erlauben, Freigabe-Parameter zu ändern";
+$MESS["DISK_JS_SHARING_LABEL_RIGHT_READ"] = "Lesen";
+$MESS["DISK_JS_SHARING_LABEL_RIGHT_EDIT"] = "Bearbeiten";
+$MESS["DISK_JS_SHARING_LABEL_RIGHT_FULL"] = "Voller Zugriff";
+$MESS["DISK_JS_SHARING_LABEL_TOOLTIP_SHARING"] = "Alle Nutzer, für die dieser Ordner freigegeben ist,<br/>können diesen Ordner mit anderen Nutzern teilen";
+$MESS["DISK_JS_SHARING_LABEL_OWNER"] = "Besitzer";
+$MESS["DISK_JS_SHARING_LABEL_TITLE_MODAL"] = "Freigabe-Parameter";
+$MESS["DISK_JS_BTN_CLOSE"] = "Schließen";
+$MESS["DISK_JS_BTN_SAVE"] = "Speichern";
+$MESS["DISK_JS_SHARING_LABEL_TITLE_MODAL_2"] = "Freigeben";
+$MESS["DISK_JS_SERVICE_CHOICE_TITLE_SMALL"] = "Dokumentenverwaltung";
+$MESS["DISK_JS_SERVICE_CHOICE_TITLE"] = "Wählen Sie, wie Sie Ihre Dokumente verwalten möchten";
+$MESS["DISK_JS_SERVICE_CHANGE_TEXT"] = "Sie können Ihre Wahl später per Klick auf den Link \"Mehr\" oder in den Drive-Einstellungen ändern.";
+$MESS["DISK_JS_SERVICE_LOCAL_TITLE"] = "Lokal";
+$MESS["DISK_JS_SERVICE_LOCAL_TEXT"] = "Sie werden Dokumente in der auf Ihrem Computer installierten Anwendung bearbeiten";
+$MESS["DISK_JS_SERVICE_CLOUD_TITLE"] = "In der Cloud";
+$MESS["DISK_JS_SERVICE_CLOUD_TEXT"] = "Sie werden auf Dokumente via Google Docs oder MS Office Web App zugreifen";
+$MESS["DISK_JS_SERVICE_HELP_TEXT"] = "Sie können Ihre Wahl später per Klick auf den Link \"Mehr\" ändern.";
+$MESS["DISK_JS_SERVICE_HELP_TEXT_2"] = "Sie können Ihre Wahl später in den Einstellungen ändern.";
+$MESS["DISK_JS_SHARING_LABEL_RIGHT_ADD"] = "Hinzufügen";
+$MESS["DISK_JS_USER_LOCKED_DOCUMENT"] = "Gesperrt durch";
+?>

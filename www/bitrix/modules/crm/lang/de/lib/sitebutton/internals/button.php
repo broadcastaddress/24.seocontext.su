@@ -1,0 +1,10 @@
+<?
+$MESS["CRM_BUTTON_LOCATION_TOP_LEFT"] = "Oben links";
+$MESS["CRM_BUTTON_LOCATION_TOP_MIDDLE"] = "Oben in der Mitte";
+$MESS["CRM_BUTTON_LOCATION_TOP_RIGHT"] = "Oben rechts";
+$MESS["CRM_BUTTON_LOCATION_BOTTOM_RIGHT"] = "Unten rechts";
+$MESS["CRM_BUTTON_LOCATION_BOTTOM_MIDDLE"] = "Unten in der Mitte";
+$MESS["CRM_BUTTON_LOCATION_BOTTOM_LEFT"] = "Unten links";
+$MESS["CRM_BUTTON_FIELD_NAME_EMPTY"] = "Name der Schaltfläche";
+$MESS["CRM_BUTTON_FIELD_NAME_TITLE"] = "Widget-Name";
+?>

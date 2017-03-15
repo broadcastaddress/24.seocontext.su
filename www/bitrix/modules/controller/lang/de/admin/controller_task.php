@@ -1,0 +1,34 @@
+<?
+$MESS["CTRLR_TASK_FLT_CLIENT"] = "Client";
+$MESS["CTRLR_TASK_FLT_OPERATION"] = "Operation";
+$MESS["CTRLR_TASK_FLT_EXECUTED"] = "Letzter Durchlauf";
+$MESS["CTRLR_TASK_FLT_MODYFIED"] = "Geändert";
+$MESS["CTRLR_TASK_FLT_CREATED"] = "Erstellt";
+$MESS["CTRLR_TASK_ERR_DELETE"] = "Fehler beim Abbrechen der Aufgabe";
+$MESS["CTRLR_TASK_NAV"] = "Aufgaben";
+$MESS["CTRLR_TASK_COLUMN_TASK"] = "Aufgabe";
+$MESS["CTRLR_TASK_COLUMN_STATUS"] = "Status";
+$MESS["CTRLR_TASK_COLUMN_EXEC"] = "Ausgeführt";
+$MESS["CTRLR_TASK_COLUMN_ARGS"] = "Argument";
+$MESS["CTRLR_TASK_COLUMN_RESULT"] = "Ergebnis";
+$MESS["CTRLR_TASK_COLUMN_URL"] = "Client-URL:";
+$MESS["CTRLR_TASK_COLUMN_DATE_MOD"] = "Geändert";
+$MESS["CTRLR_TASK_COLUMN_DATE_CRE"] = "Erstellt";
+$MESS["CTRLR_TASK_MENU_REPEAT"] = "Wiederholen";
+$MESS["CTRLR_TASK_MENU_REPEAT_CONFIRM"] = "Die Aufgabe wird nochmal ausgeführt. Fortsetzen?";
+$MESS["CTRLR_TASK_MENU_CANCEL"] = "Abbrechen";
+$MESS["CTRLR_TASK_MENU_CANCEL_CONFIRM"] = "Die Aufgabe wird entfert. Fortführen?";
+$MESS["CTRLR_TASK_REPEAT"] = "Wiederholen";
+$MESS["CTRLR_TASK_TITLE"] = "Clientaufgaben per Fernzugriff";
+$MESS["CTRLR_TASK_FLR_ST"] = "Ausführungsstatus";
+$MESS["CTRLR_TASK_FLR_ANY"] = "(beliebig)";
+$MESS["CTRLR_TASK_PROGRESS"] = "Aufgabenbearbeitung";
+$MESS["CTRLR_TASK_PROGRESS_BAR"] = "Fertig:";
+$MESS["CTRLR_TASK_PROGRESS_BAR_FROM"] = "von";
+$MESS["CTRLR_TASK_REP_DELETE"] = "Fehler beim Wiederholen der Aufgabe";
+$MESS["CTRLR_TASK_BUTTON_START"] = "Starten";
+$MESS["CTRLR_TASK_ERR_LOCK"] = "Datenbankfehler beim Versuch die Aufgaben zu sperren:";
+$MESS["CTRLR_TASK_ERR_LOCK_ADVICE"] = "Bitte wenden Sie sich an den Datenbank-Administrator um Zugriffsrechte für dbms_lock zu bekommen.";
+$MESS["CTRLR_TASK_MENU_LOG"] = "Protokoll anzeigen";
+$MESS["CTRLR_TASK_FLT_ID"] = "ID";
+?>

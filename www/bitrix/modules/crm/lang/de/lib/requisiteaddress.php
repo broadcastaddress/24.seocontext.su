@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_REQUISITE_ADDRESS_TYPE_HOME"] = "Registrierte Adresse";
+$MESS["CRM_REQUISITE_ADDRESS_TYPE_BENEFICIARY"] = "Empfängeradresse";
+?>

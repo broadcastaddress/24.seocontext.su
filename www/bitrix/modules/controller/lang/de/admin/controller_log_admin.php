@@ -1,0 +1,22 @@
+<?
+$MESS["CTRL_LOG_ADMIN_FILTER_ANY"] = "(beliebig)";
+$MESS["CTRL_LOG_ADMIN_FILTER_CLIENT"] = "Client";
+$MESS["CTRL_LOG_ADMIN_FILTER_IDCLIENT"] = "Client-ID";
+$MESS["CTRL_LOG_ADMIN_FILTER_CREATED"] = "Erstellt";
+$MESS["CTRL_LOG_ADMIN_COLUMN_CREATED"] = "Erstellt";
+$MESS["CTRL_LOG_ADMIN_MENU_DEL"] = "Löschen";
+$MESS["CTRL_LOG_ADMIN_FILTER_DESC"] = "Beschreibung";
+$MESS["CTRL_LOG_ADMIN_MENU_DETAIL"] = "Detailiert";
+$MESS["CTRL_LOG_ADMIN_COLUMN_STATUS_ERR"] = "Fehler";
+$MESS["CTRL_LOG_ADMIN_ERR_DELETE"] = "Fehler beim Löschen des Eintrags";
+$MESS["CTRL_LOG_ADMIN_PAGETITLE"] = "Protokolleinträge";
+$MESS["CTRL_LOG_ADMIN_COLUMN_NAME"] = "Name";
+$MESS["CTRL_LOG_ADMIN_TITLE"] = "Site Controller Protokoll";
+$MESS["CTRL_LOG_ADMIN_FILTER_STATUS"] = "Status";
+$MESS["CTRL_LOG_ADMIN_COLUMN_STATUS_OK"] = "Erfolg";
+$MESS["CTRL_LOG_ADMIN_FILTER_TASK"] = "Aufgabe";
+$MESS["CTRL_LOG_ADMIN_FILTER_TASKID"] = "Aufgaben-ID";
+$MESS["CTRL_LOG_ADMIN_MENU_DEL_CONFIRM"] = "Der Eintrag wird von der Liste gelöscht. Fortführen?";
+$MESS["CTRL_LOG_ADMIN_COLUMN_USER"] = "Benutzer";
+$MESS["CTRL_LOG_ADMIN_FILTER_ID"] = "ID";
+?>

@@ -1,0 +1,29 @@
+<?
+$MESS["IM_EVENT_RATING_BLOG_POST_LIKE"] = "Me gusta su mensaje #LINK#";
+$MESS["IM_EVENT_RATING_BLOG_COMMENT_LIKE"] = "Me gusta su #A_START#comentario#A_END# en \"#TITLE#\"";
+$MESS["IM_EVENT_RATING_FORUM_TOPIC_LIKE"] = "Me gusta su tema \"#LINK#\"";
+$MESS["IM_EVENT_RATING_FORUM_POST_LIKE"] = "Me gusta su #A_START#comentario#A_END# en \"#TITLE#\"";
+$MESS["IM_EVENT_RATING_ELSE_LIKE"] = "Me gusta #LINK#";
+$MESS["IM_EVENT_RATING_BLOG_POST_DISLIKE"] = "Ya no me gusta su mensaje #LINK#";
+$MESS["IM_EVENT_RATING_BLOG_COMMENT_DISLIKE"] = "Ya no me gusta su #A_START#comentario#A_END# en \"#TITLE#\"";
+$MESS["IM_EVENT_RATING_FORUM_TOPIC_DISLIKE"] = "Ya no me gusta su tema #LINK#";
+$MESS["IM_EVENT_RATING_FORUM_POST_DISLIKE"] = "Ya no me gusta su #A_START#comentario#A_END# en \"#TITLE#\"";
+$MESS["IM_EVENT_RATING_ELSE_DISLIKE"] = "Ya no me gusta #LINK#";
+$MESS["IM_EVENT_RATING_COMMENT_LIKE"] = "Me gusta su #A_START#comentario#A_END# \"#TITLE#\"";
+$MESS["IM_EVENT_RATING_FILE_LIKE"] = "Me gusta su #A_START#archivo#A_END# \"#TITLE#\"";
+$MESS["IM_EVENT_RATING_PHOTO_LIKE"] = "Me gusta su #A_START#foto#A_END# \"#TITLE#\"";
+$MESS["IM_EVENT_RATING_PHOTO1_LIKE"] = "Me gusta su #A_START#foto#A_END#";
+$MESS["IM_EVENT_RATING_COMMENT_DISLIKE"] = "Ya no me gusta su #A_START#comentario#A_END# \"#TITLE#\"";
+$MESS["IM_EVENT_RATING_FILE_DISLIKE"] = "Ya no me gusta su #A_START#archivo#A_END# \"#TITLE#\"";
+$MESS["IM_EVENT_RATING_PHOTO_DISLIKE"] = "Ya no me gusta su #A_START#foto#A_END# \"#TITLE#\"";
+$MESS["IM_EVENT_RATING_PHOTO1_DISLIKE"] = "Ya no me gusta su #A_START#foto#A_END#";
+$MESS["IM_EVENT_RATING_BLOG_POST_MENTION_LIKE"] = "Me gusta el mensaje \"#LINK#\" en el que se me menciona";
+$MESS["IM_EVENT_RATING_BLOG_COMMENT_MENTION_LIKE"] = "Me gusta el #A_START#comentario#A_END# \"#TITLE#\" en el que se me menciona";
+$MESS["IM_EVENT_RATING_COMMENT_MENTION_LIKE"] = "Me gusta el #A_START#comentario#A_END# \"#TITLE#\" en el que usted es mencionado";
+$MESS["IM_EVENT_RATING_BLOG_POST_MENTION_DISLIKE"] = "Ya no me gusta su mensaje \\\"#LINK#\\\" en el que usted es mencionado";
+$MESS["IM_EVENT_RATING_BLOG_COMMENT_MENTION_DISLIKE"] = "Ya no me gusta su #A_START#comentario#A_END# \"#TITLE#\" en el que usted es mencionado";
+$MESS["DESKTOP_APPLICATION_NAME"] = "Aplicación de escritorio";
+$MESS["DESKTOP_APPLICATION_DESC"] = "Cree aquí una contraseña especial para el acceso seguro a la aplicación de escritorio.";
+$MESS["IM_EVENT_RATING_LISTS_NEW_ELEMENT_LIKE"] = "Me gusta #A_START# su mensaje sobre la ejecución del flujo de trabajo \"#TITLE#\"#A_END#";
+$MESS["IM_EVENT_ERROR_CHANGE_PASSWORD_FOR_BOT"] = "No se puede recuperar la contraseña para el usuario de chat bot.";
+?>

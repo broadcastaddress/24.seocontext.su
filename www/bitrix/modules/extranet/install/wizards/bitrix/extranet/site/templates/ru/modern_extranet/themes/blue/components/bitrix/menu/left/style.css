@@ -1,0 +1,33 @@
+
+.left-menu div
+{
+	margin:9px 9px 9px 5px;
+}
+
+.left-menu div.separator
+{
+	width:100%;
+	height:1px;
+	font-size:1px;
+	margin:0;
+	background:url(images/menu-items-separator.gif) left repeat-x;
+}
+
+.left-menu div.directory
+{
+	background:url(images/arrow.gif) right 65% no-repeat;
+}
+
+.left-menu a
+{
+	font-size:12px;
+	text-decoration:none;
+	color:#072838;
+	font-weight:bold;
+
+}
+
+.left-menu a.selected
+{
+	color:#c30808;
+}

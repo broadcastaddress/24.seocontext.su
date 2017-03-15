@@ -1,0 +1,34 @@
+<?
+$MESS["mnu_sender_report"] = "Statistik";
+$MESS["mnu_sender_report_alt"] = "Statistik";
+$MESS["mnu_sender_group"] = "Empfängergruppen";
+$MESS["mnu_sender_group_alt"] = "E-Mail-Empfänger verwalten";
+$MESS["mnu_sender_contact_admin"] = "Adressen";
+$MESS["mnu_sender_contact_admin_alt"] = "Absicht und Import von Adressen";
+$MESS["mnu_sender_template_admin"] = "Meine Vorlagen";
+$MESS["mnu_sender_template_admin_alt"] = "Hinzugefügte Vorlagen bearbeiten";
+$MESS["mnu_sender_mailing_admin"] = "Alle Newsletters";
+$MESS["mnu_sender_mailing_admin_alt"] = "Newsletters verwalten";
+$MESS["mnu_sender_site_mailing"] = "Newsletters der Website";
+$MESS["mnu_sender_site_mailing_alt"] = "Newsletters der Website";
+$MESS["mnu_sender_site_mailing_one_alt"] = "Newsletter";
+$MESS["mnu_sender_site_mailing_chain"] = "Ausgaben";
+$MESS["mnu_sender_site_mailing_chain_alt"] = "Ausgaben";
+$MESS["mnu_sender_site_mailing_stat"] = "Statistik der Ausgaben";
+$MESS["mnu_sender_site_mailing_stat_alt"] = "Statistik der Ausgaben";
+$MESS["mnu_sender_site_mailing_addr"] = "Adressen";
+$MESS["mnu_sender_site_mailing_addr_alt"] = "Adressen";
+$MESS["mnu_sender_sect"] = "E-Mail-Marketing";
+$MESS["mnu_sender_sect_title"] = "E-Mail-Marketing";
+$MESS["mnu_sender_mailing_trig_admin"] = "Liste";
+$MESS["mnu_sender_mailing_admin_trig_alt"] = "Trigger-Mailings verwalten";
+$MESS["mnu_sender_mailing_trig"] = "Trigger-Mailings";
+$MESS["mnu_sender_mailing_trig_alt"] = "Trigger-Mailings anzeigen und verwalten";
+$MESS["mnu_sender_site_mailing_trig"] = "Mailings von der Website";
+$MESS["mnu_sender_site_mailing_trig_alt"] = "Mailings von der Website";
+$MESS["mnu_sender_site_mailing_trig_one_alt"] = "Trigger-Mailings";
+$MESS["mnu_sender_site_mailing_trig_chain"] = "Mails";
+$MESS["mnu_sender_site_mailing_trig_chain_alt"] = "Mail-Bearbeitung und Testversand";
+$MESS["mnu_sender_site_mailing_trig_stat"] = "Statistik";
+$MESS["mnu_sender_site_mailing_trig_stat_alt"] = "Statistik";
+?>

@@ -1,0 +1,33 @@
+<?
+$MESS["CRM_ALL"] = "Total";
+$MESS["CRM_QUOTE_SHOW_TITLE"] = "Ver orçamento";
+$MESS["CRM_QUOTE_SHOW"] = "Visualizar";
+$MESS["CRM_QUOTE_TASK_TITLE"] = "Nova tarefa";
+$MESS["CRM_QUOTE_TASK"] = "Nova tarefa";
+$MESS["CRM_QUOTE_EDIT_TITLE"] = "Editar orçamento";
+$MESS["CRM_QUOTE_EDIT"] = "Editar";
+$MESS["CRM_QUOTE_COPY_TITLE"] = "Copiar";
+$MESS["CRM_QUOTE_COPY"] = "Copiar";
+$MESS["CRM_QUOTE_EVENT_TITLE"] = "Adicionar novo evento";
+$MESS["CRM_QUOTE_EVENT"] = "Adicionar evento";
+$MESS["CRM_QUOTE_DELETE_TITLE"] = "Excluir orçamento";
+$MESS["CRM_QUOTE_DELETE"] = "Excluir";
+$MESS["CRM_QUOTE_DELETE_CONFIRM"] = "Tem certeza de que deseja excluir o item?";
+$MESS["CRM_QUOTE_CALENDAR_TITLE"] = "Adicionar novas informações para o calendário";
+$MESS["CRM_QUOTE_CALENDAR"] = "Adicionar chamada ou evento";
+$MESS["CRM_STATUS_INIT"] = "- Status do Orçamento -";
+$MESS["CRM_QUOTE_SET_STATUS"] = "Definir status";
+$MESS["CRM_QUOTE_ASSIGN_TO"] = "Atribuir responsável";
+$MESS["CRM_QUOTE_ADD_CALL_TITLE"] = "Criar nova chamada";
+$MESS["CRM_QUOTE_ADD_CALL"] = "Nova chamada";
+$MESS["CRM_QUOTE_ADD_MEETING_TITLE"] = "Criar nova reunião";
+$MESS["CRM_QUOTE_ADD_MEETING"] = "Nova reunião";
+$MESS["CRM_QUOTE_ADD_INVOICE_TITLE"] = "Criar fatura";
+$MESS["CRM_QUOTE_ADD_INVOICE"] = "Criar fatura";
+$MESS["CRM_QUOTE_LIST_ADD_SHORT"] = "Orçamento";
+$MESS["CRM_QUOTE_LIST_ADD"] = "Criar um novo orçamento";
+$MESS["CRM_QUOTE_MARK_AS_OPENED"] = "Tornar público";
+$MESS["CRM_QUOTE_MARK_AS_OPENED_YES"] = "Sim";
+$MESS["CRM_QUOTE_MARK_AS_OPENED_NO"] = "Não";
+$MESS["CRM_QUOTE_REBUILD_ACCESS_ATTRS"] = "As permissões de acesso atualizadas exigem que você atualize os atuais atributos de acesso usando a <a id=\"#ID#\" target=\"_blank\" href= \"#URL#\">página de gerenciamento de permissões</a>.";
+?>

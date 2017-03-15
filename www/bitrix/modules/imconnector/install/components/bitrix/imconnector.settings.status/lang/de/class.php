@@ -1,0 +1,2 @@
+<?
+$MESS["IMCONNECTOR_COMPONENT_SETTINGS_STATUS_CONFIG_MODULE_NOT_INSTALLED"] = "Das Modul IM Connectors ist nicht installiert";

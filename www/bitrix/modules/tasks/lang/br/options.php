@@ -1,0 +1,31 @@
+<?
+$MESS["TASKS_SETTINGS"] = "Configurações";
+$MESS["TASKS_SETTINGS_TITLE"] = "Configurações de Módulo Global";
+$MESS["LEARNING_SITE_PATH_SITE"] = "Caminho do modelo para o site &quot;#SITE#&quot;";
+$MESS["MAIN_OPT_SAVE_TITLE"] = "Salvar e retornar";
+$MESS["MAIN_OPT_APPLY"] = "Aplicar";
+$MESS["MAIN_OPT_APPLY_TITLE"] = "Salvar alterações e ficar no formulário";
+$MESS["MAIN_OPT_CANCEL"] = "Cancelar";
+$MESS["MAIN_OPT_CANCEL_TITLE"] = "Não salvar as alterações e retornar";
+$MESS["TASKS_OPTION_PATHS"] = "Ligações";
+$MESS["TASKS_PATHS_USER"] = "Modelo de URL da página de perfil do usuário";
+$MESS["TASKS_PATHS_TASK_USER"] = "Modelo de URL da página de tarefas de usuário";
+$MESS["TASKS_PATHS_TASK_GROUP"] = "Group Tasks Page URL Template";
+$MESS["TASKS_RESTORE_DEFAULTS"] = "Padrão";
+$MESS["TASKS_SUBTAB_TITLE_SITE"] = "Configurações de WebSite";
+$MESS["TASKS_PATHS_TASK_USER_EDIT"] = "Modelo de propriedades de tarefas de usuário";
+$MESS["TASKS_PATHS_TASK_GROUP_EDIT"] = "Modelo de propriedades de tarefas de grupo.";
+$MESS["TASKS_PATHS_TASK_USER_ENTRY"] = "Visualizar link do modelo de tarefas";
+$MESS["TASKS_PATHS_TASK_USER_ACTION"] = "Modelo de link de página de tarefas do usuário";
+$MESS["TASKS_PATHS_TASK_GROUP_ENTRY"] = "Modelo de link de visualização da tarefa de grupo de trabalho";
+$MESS["TASKS_PATHS_TASK_GROUP_ACTION"] = "Modelo de link de ação da tarefa do grupo de usuário";
+$MESS["TASKS_COMMENTS_FORUM"] = "Comentários de tarefas do forum";
+$MESS["TASKS_COMMENTS_ALLOW_EDIT"] = "Usuários podem ediar comentários";
+$MESS["TASKS_HTML_SANITIZE_LEVEL"] = "Nível de remoção do HTML na descrição da tarefa";
+$MESS["TASKS_HTML_SANITIZE_LEVEL_NONE"] = "Não remover";
+$MESS["TASKS_HTML_SANITIZE_LEVEL_LOW"] = "Baixo";
+$MESS["TASKS_HTML_SANITIZE_LEVEL_MIDDLE"] = "Médio";
+$MESS["TASKS_HTML_SANITIZE_LEVEL_HIGH"] = "Alto";
+$MESS["TASKS_COMMENTS_ALLOW_REMOVE"] = "Permitir que os usuários apaguem comentários";
+$MESS["TASKS_MAX_UPLOAD_FILES_IN_COMMENTS"] = "Máximo de arquivos em um comentário";
+?>

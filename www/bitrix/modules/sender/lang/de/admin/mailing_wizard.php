@@ -1,0 +1,34 @@
+<?
+$MESS["sender_wizard_title"] = "Assistent zum Erstellen von Newsletters";
+$MESS["sender_wizard_step_mailing_title"] = "Newsletter auswählen oder erstellen";
+$MESS["sender_wizard_step_mailing_title_sub"] = "Allgemeine Newsletter-Parameter";
+$MESS["sender_wizard_step_mailing_group_title"] = "Gruppe auswählen oder erstellen";
+$MESS["sender_wizard_step_mailing_group_title_sub"] = "Empfängergruppe auswählen";
+$MESS["sender_wizard_step_group_title"] = "Adressgruppe erstellen";
+$MESS["sender_wizard_step_chain_title"] = "Ausgabe hinzufügen";
+$MESS["sender_wizard_step_chain_title_sub"] = "Nachrichtenvorlage";
+$MESS["sender_wizard_step_chain_title_sub_desc"] = "Eine Nachrichtenvorlage ermöglicht es, eine neue E-Mail schnell zu erstellen und zu versenden. Dafür müssen Sie bestimmte zusammenhängende Blöcke erstellen. Wenn Sie diese Vorlage speichern, erscheint sie im Ordner «Meine Vorlagen», sodass sie in Zukunft benutzt werden kann.";
+$MESS["sender_wizard_step_chain_send_type_title"] = "Versand-Zeitplan";
+$MESS["sender_wizard_step_mailing_bnt_next"] = "Nächster Schritt";
+$MESS["sender_wizard_step_mailing_bnt_end"] = "Speichern und ausführen";
+$MESS["sender_wizard_status_mailing"] = "Newsletter auswählen <br>oder erstellen";
+$MESS["sender_wizard_status_group"] = "Gruppe auswählen <br>oder erstellen";
+$MESS["sender_wizard_status_chain"] = "Ausgabe <br>erstellen";
+$MESS["sender_wizard_status_chain_send_type"] = "Versand-Zeitplan";
+$MESS["sender_wizard_status_final"] = "Bereit zum Senden!";
+$MESS["sender_wizard_text"] = "Der Assistent hilft Ihnen Schritt für Schritt einen Newsletter zu erstellen. Sie können einen neuen Newsletter erstellen oder einen bereits existierenden auswählen.";
+$MESS["sender_wizard_step_mailing_existed_not_selected"] = "Sie haben keinen Newsletter ausgewählt.";
+$MESS["sender_wizard_step_mailing_field_new"] = "Neuen Newsletter erstellen";
+$MESS["sender_wizard_step_mailing_field_exist"] = "Newsletter auswählen";
+$MESS["sender_wizard_step_mailing_field_exist_list"] = "Aus der Liste auswählen ...";
+$MESS["sender_wizard_step_mailing_group_field_bnt_add"] = "Neue Gruppe erstellen";
+$MESS["sender_group_conn_cnt"] = "Ausgewählt";
+$MESS["sender_wizard_access_denied"] = "Sie können den Assistenten nicht starten, weil Ihre Zugriffsrechte nur Lesen erlauben.";
+$MESS["sender_wizard_step_trig_mailing_title"] = "Trigger-Mailing erstellen";
+$MESS["sender_wizard_step_trig_mailing_title_sub"] = "Vorgefertigte Newsletters auswählen";
+$MESS["sender_wizard_step_trig_mailing_group_title"] = "Versand-Parameter";
+$MESS["sender_wizard_status_trig_mailing"] = "Newsletter erstellen oder bearbeiten";
+$MESS["sender_wizard_status_trig_mailing_group"] = "Startbedingungen";
+$MESS["sender_wizard_status_trig_chain"] = "Einstellungen der E-Mails";
+$MESS["sender_wizard_step_trig_mailing_exist_title"] = "Trigger-Mailing ändern";
+?>

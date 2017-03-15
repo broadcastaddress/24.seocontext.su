@@ -1,0 +1,212 @@
+/*Root ul element*/
+#horizontal-multilevel-menu
+{
+	margin:0;
+	padding:0;
+	background:#f4373b url(images/header_menu_bg.gif) repeat-x;
+	min-height:30px;
+	width:100%;
+	list-style:none;
+	font-size:12px;
+	float:left;
+	height:30px;
+}
+
+/*Other ul elements*/
+#horizontal-multilevel-menu ul
+{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+/*Links*/
+#horizontal-multilevel-menu a
+{
+	display:block;
+	padding:4px 10px 5px 10px;
+	text-decoration:none;
+	text-align:center;
+	font-size:12px;
+}
+
+#horizontal-multilevel-menu li
+{
+	float:left;
+}
+
+/*Root items*/
+#horizontal-multilevel-menu li a.root-item
+{
+	color:white;
+	font-weight:bold;
+	font-size:12px;
+	white-space:nowrap;
+	padding:8px 10px;
+}
+
+#horizontal-multilevel-menu div.root-separator
+{
+	width:1px;
+	height:30px;
+	float:left;
+	background:#f77477 url(images/separator.gif) center top no-repeat;
+}
+
+/*Root menu selected*/
+#horizontal-multilevel-menu li a.root-item-selected
+{
+	background:#d22f33 url(images/hover.gif) repeat-x;
+	color:white;
+	font-weight:bold;
+	font-size:12px;
+	padding:8px 10px;
+	
+}
+
+/*Root items: hover*/
+#horizontal-multilevel-menu li:hover a.root-item, #horizontal-multilevel-menu li.jshover a.root-item
+{
+	background:#d22f33 url(images/hover.gif) repeat-x;
+	color:white;
+	font-size:12px;
+	padding:8px 10px;
+}
+
+/*Item-parents*/
+#horizontal-multilevel-menu a.parent
+{
+	background: url(images/arrow.gif) center right no-repeat;
+}
+
+/*Denied items*/
+#horizontal-multilevel-menu a.denied
+{
+	background: url(images/lock.gif) center right no-repeat;
+}
+
+/*Child-items: hover*/
+#horizontal-multilevel-menu li li:hover, #horizontal-multilevel-menu li li.jshover
+{
+	background:#e0e0e0;
+	color:#fff;
+}
+
+/*Child-items selected*/
+#horizontal-multilevel-menu li li.item-selected
+{
+	background:#e0e0e0;
+	color:#fff;
+}
+
+/*Last item in subbox*/
+#horizontal-multilevel-menu li li.item-last
+{
+	border-bottom:none;
+}
+
+/*Sub-menu box*/
+#horizontal-multilevel-menu li ul
+{
+	position:absolute;
+	width:200px;
+	top:auto;
+	display:none;
+	z-index:500;
+	height:auto;
+	background:#f8f8f8;
+	border:1px solid #a1a1a1;
+}
+
+/*Sub-menu item box*/
+#horizontal-multilevel-menu li li 
+{
+	width:100%;
+	border-bottom:1px solid #c3c3c3;
+}
+
+/*Item link*/
+#horizontal-multilevel-menu li ul a
+{
+	text-align:left;
+}
+
+#horizontal-multilevel-menu li.left-margin
+{
+	width:17px;
+}
+
+/*Items text color & size */
+#horizontal-multilevel-menu li a,
+#horizontal-multilevel-menu li:hover li a,
+#horizontal-multilevel-menu li.jshover li a,
+#horizontal-multilevel-menu li:hover li:hover li a,
+#horizontal-multilevel-menu li.jshover li.jshover li a,
+#horizontal-multilevel-menu li:hover li:hover li:hover li a,
+#horizontal-multilevel-menu li.jshover li.jshover li.jshover li a,
+#horizontal-multilevel-menu li:hover li:hover li:hover li:hover li a,
+#horizontal-multilevel-menu li.jshover li.jshover li.jshover li.jshover li a,
+#horizontal-multilevel-menu li:hover li:hover li:hover li:hover li:hover li a,
+#horizontal-multilevel-menu li.jshover li.jshover li.jshover li.jshover li.jshover li a
+{
+	color:black;
+}
+
+/*Items text color & size: hover*/
+#horizontal-multilevel-menu li:hover li:hover a,
+#horizontal-multilevel-menu li.jshover li.jshover a,
+#horizontal-multilevel-menu li:hover li:hover li:hover a,
+#horizontal-multilevel-menu li.jshover li.jshover li.jshover a,
+#horizontal-multilevel-menu li:hover li:hover li:hover li:hover a,
+#horizontal-multilevel-menu li.jshover li.jshover li.jshover li.jshover a
+#horizontal-multilevel-menu li:hover li:hover li:hover li:hover li:hover a,
+#horizontal-multilevel-menu li.jshover li.jshover li.jshover li.jshover li.jshover a
+#horizontal-multilevel-menu li:hover li:hover li:hover li:hover li:hover li:hover a,
+#horizontal-multilevel-menu li.jshover li.jshover li.jshover li.jshover li.jshover li.jshover a
+{
+	color:black;
+}
+
+#horizontal-multilevel-menu li ul ul
+{
+	margin:-24px 0 0 197px;
+}
+
+#horizontal-multilevel-menu li:hover ul ul,
+#horizontal-multilevel-menu li.jshover ul ul,
+#horizontal-multilevel-menu li:hover ul ul ul,
+#horizontal-multilevel-menu li.jshover ul ul ul,
+#horizontal-multilevel-menu li:hover ul ul ul ul,
+#horizontal-multilevel-menu li.jshover ul ul ul ul,
+#horizontal-multilevel-menu li:hover ul ul ul ul ul,
+#horizontal-multilevel-menu li.jshover ul ul ul ul ul
+{
+	display:none;
+
+	/*For IE7 only (http://murphy.cz/ie7-hover-ghosts-bug/#drop-down-menu-ghosts-demo)*/
+	position:static;
+	width:auto;
+}
+
+#horizontal-multilevel-menu li:hover ul,
+#horizontal-multilevel-menu li.jshover ul,
+#horizontal-multilevel-menu li li:hover ul,
+#horizontal-multilevel-menu li li.jshover ul,
+#horizontal-multilevel-menu li li li:hover ul,
+#horizontal-multilevel-menu li li li.jshover ul,
+#horizontal-multilevel-menu li li li li:hover ul,
+#horizontal-multilevel-menu li li li li.jshover ul,
+#horizontal-multilevel-menu li li li li li:hover ul,
+#horizontal-multilevel-menu li li li li li.jshover ul
+{
+	display:block;
+	
+	/*For IE7 only*/
+	position:absolute;
+	width:200px;
+}
+
+div.menu-clear-left
+{
+	clear:left;
+}

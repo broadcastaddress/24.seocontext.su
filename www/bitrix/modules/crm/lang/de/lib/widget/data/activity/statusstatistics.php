@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_ACTIVITY_ACTIVITY_STATUS_STAT_TOTAL"] = "Anzahl der Anfragen";
+$MESS["CRM_ACTIVITY_ACTIVITY_STATUS_STAT_ANSWERED_QTY"] = "Anzahl der beantworteten Anfragen";
+$MESS["CRM_ACTIVITY_ACTIVITY_STATUS_STAT_UNANSWERED_QTY"] = "Anzahl der unbeantworteten Anfragen";
+$MESS["CRM_ACTIVITY_ACTIVITY_STATUS_STAT_GROUP_BY_STATUS"] = "Aktivitätsstatus";
+?>

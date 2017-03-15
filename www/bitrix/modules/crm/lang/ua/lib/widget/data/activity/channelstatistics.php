@@ -1,0 +1,3 @@
+<?
+$MESS["CRM_ACTIVITY_CHANNEL_STAT_PRESET_OVERALL_COUNT"] = "Кількість справ";
+?>

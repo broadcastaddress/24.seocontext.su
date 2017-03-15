@@ -1,0 +1,36 @@
+<?
+$MESS["WD_DROP_CONFIRM"] = "Möchten Sie den Ordner #NAME# wirklich unwiderruflich löschen?";
+$MESS["WD_NAME"] = "Name";
+$MESS["WD_DROP_SECTION"] = "Ordner #NAME# löschen";
+$MESS["WD_EDIT_SECTION"] = "Ordner #NAME# bearbeiten";
+$MESS["WD_ADD_SECTION"] = "Ordner erstellen";
+$MESS["WD_DROP"] = "Löschen";
+$MESS["WD_SAVE"] = "Erstellen";
+$MESS["WD_CANCEL"] = "Abbrechen";
+$MESS["WD_CLOSE"] = "Schließen";
+$MESS["WD_UPLOAD_TITLE"] = "Neues Dokument hochladen";
+$MESS["WD_UPLOAD_VERSION_TITLE"] = "Neue Document von \"#NAME#\" hochladen";
+$MESS["WD_UPLOAD_SUCCESS"] = "Die Datei wurde erfolgreich hochgeladen.";
+$MESS["File"] = "Wählen Sie eine Datei zum Hochladen aus";
+$MESS["Title"] = "Name";
+$MESS["Tags"] = "Tags";
+$MESS["Send"] = "Hochladen";
+$MESS["Send_Document"] = "Neues Dokument hochladen";
+$MESS["Send_Version"] = "Neue Version hochladen";
+$MESS["Description"] = "Beschreibung";
+$MESS["WD_UPLOAD_EXTENDED"] = "<a href=\"#LINK#\">Mehrere Dokumente hochladen</a>";
+$MESS["WD_UPLOAD_EXPAND_PROPS"] = "<a #LINK#>Dokumenteigenschaften</a> einstellen";
+$MESS["WD_UPLOAD_COLLAPSE_PROPS"] = "<a #LINK#>Dokumenteigenschaften</a> ausblenden";
+$MESS["WD_UPLOAD_INTERRUPT_BEWARE"] = "Das Dokument wird immer noch hochgeladen. Der Hochladeprozess wird unterbrochen, wenn Sie diese Seite verlassen.";
+$MESS["WD_UPLOAD_INTERRUPT_CONFIRM"] = "Das Dokument wird immer noch hochgeladen. Möchten Sie wirklich unterbrechen?";
+$MESS["WD_UPLOAD_NOT_DONE"] = "Das Dokument wurde noch nicht hochgeladen.";
+$MESS["WD_UPLOAD_NOT_DONE_ASK"] = "Das Dokument wurde noch nicht hochgeladen. Möchten Sie das Dialogfenster zum Hochladen schließen?";
+$MESS["WD_WARNING_SAME_NAME"] = "Eine Datei mit diesem Namen existiert bereits. Sie können entweder  <a #LINK#>den Dateinamen ändern</a>, oder eine neue Version hochladen, wenn Sie auf \"Hochladen\" klicken (so wird die vorherige Version in der Änderungshistory aufbewahrt).";
+$MESS["WD_ERROR_SAME_NAME"] = "Eine Datei mit diesem Namen existiert bereits.";
+$MESS["WD_ERROR_BAD_STATUS"] = "Sie sind nicht berechtigt, diese Datei zu speichern.";
+$MESS["WD_WARNING_EXTENSIONS_DONT_MATCH"] = "Der Typ der Datei, die Sie hochzuladen versuchen, entspricht nicht dem existierenden Dateityp.";
+$MESS["WD_UPLOAD_UNLOCK"] = "Dokument nach dem Hochladen freigeben";
+$MESS["WD_ERROR_BAD_SESSID"] = "Ihre Sitzung ist abgelaufen. Versuchen Sie bitte erneut.";
+$MESS["WD_WARNING_FIRST_DOT"] = "Der Name beginnt mit einem Punkt. Bei den aktuellen Einstellungen wird das Dokument in der Dokumentliste nicht angezeigt.";
+$MESS["WD_UPLOAD_DROPHERE"] = "Per Drag&Drop können Sie eine Datei von Ihrem Computer in dieses Fenster verschieben.";
+?>

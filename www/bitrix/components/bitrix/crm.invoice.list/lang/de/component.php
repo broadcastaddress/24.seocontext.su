@@ -1,0 +1,37 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "Das Modul CRM ist nicht installiert.";
+$MESS["CRM_MODULE_NOT_INSTALLED_SALE"] = "Das Modul Onlineshop ist nicht installiert.";
+$MESS["CRM_MODULE_NOT_INSTALLED_CATALOG"] = "Das Modul Kommerzieller Katalog ist nicht installiert.";
+$MESS["CRM_PERMISSION_DENIED"] = "Zugriff verweigert";
+$MESS["CRM_COLUMN_ID"] = "ID";
+$MESS["CRM_COLUMN_ACCOUNT_NUMBER"] = "Nummer";
+$MESS["CRM_COLUMN_ORDER_TOPIC"] = "Betreff";
+$MESS["CRM_COLUMN_STATUS_ID"] = "Status";
+$MESS["CRM_COLUMN_PRICE"] = "Betrag";
+$MESS["CRM_COLUMN_DATE_PAY_BEFORE"] = "Frist";
+$MESS["CRM_COLUMN_DATE_INSERT"] = "Erstellt am";
+$MESS["CRM_COLUMN_RESPONSIBLE"] = "Verantwortlich";
+$MESS["CRM_RESPONSIBLE_NOT_ASSIGNED"] = "[nicht definiert]";
+$MESS["CRM_COLUMN_ENTITIES_LINKS"] = "Verknüpft mit";
+$MESS["CRM_INVOICE_NAV_TITLE_EDIT"] = "Rechnung: #NAME#";
+$MESS["CRM_INVOICE_NAV_TITLE_ADD"] = "Rechnung erstellen";
+$MESS["CRM_INVOICE_NAV_TITLE_LIST"] = "Rechnungen";
+$MESS["CRM_COLUMN_COMMENTS"] = "Kommentar des verantwortlichen Mitarbeiters";
+$MESS["CRM_COLUMN_CURRENCY"] = "Währung";
+$MESS["CRM_COLUMN_DATE_BILL"] = "Rechnung erstellt am";
+$MESS["CRM_COLUMN_DATE_MARKED"] = "Abgelehnt am";
+$MESS["CRM_COLUMN_DATE_STATUS"] = "Status geändert am";
+$MESS["CRM_COLUMN_DATE_UPDATE"] = "Geändert am";
+$MESS["CRM_COLUMN_PAY_VOUCHER_DATE"] = "Zahlungsdatum";
+$MESS["CRM_COLUMN_PAY_VOUCHER_NUM"] = "Rechnung Nr.";
+$MESS["CRM_COLUMN_PERSON_TYPE_ID"] = "Kundengruppe";
+$MESS["CRM_COLUMN_REASON_MARKED"] = "Statuskommentar";
+$MESS["CRM_COLUMN_TAX_VALUE"] = "Steuer";
+$MESS["CRM_COLUMN_USER_DESCRIPTION"] = "Kommentar";
+$MESS["CRM_INVOICE_LIST_TB_LABEL_TEXT"] = "Rechnungen bezahlt: #num#; Gesamtbetrag: #sum#";
+$MESS["CRM_PRESET_NEUTRAL"] = "Meine ausgestellten Rechnungen";
+$MESS["CRM_PRESET_SUCCESS"] = "Meine bezahlten Rechnungen";
+$MESS["CRM_INVOICE_INTERNAL_ADD_BTN_TITLE"] = "Rechnung ausstellen";
+$MESS["CRM_COLUMN_UF_MYCOMPANY_ID"] = "Informationen zu Ihrem Unternehmen";
+$MESS["CRM_COLUMN_PAY_SYSTEM_ID"] = "Druckbares Rechnungsformular";
+?>

@@ -1,0 +1,34 @@
+<?
+$MESS["REST_UF_ID"] = "ID";
+$MESS["REST_UF_ENTITY_ID"] = "Objeto";
+$MESS["REST_UF_FIELD_NAME"] = "Código";
+$MESS["REST_UF_USER_TYPE_ID"] = "Tipo de datos";
+$MESS["REST_UF_XML_ID"] = "ID externo (XML ID)";
+$MESS["REST_UF_SORT"] = "Clasificar";
+$MESS["REST_UF_MULTIPLE"] = "Múltiple";
+$MESS["REST_UF_MANDATORY"] = "Requerido";
+$MESS["REST_UF_SHOW_FILTER"] = "Mostrar en el filtro";
+$MESS["REST_UF_SHOW_IN_LIST"] = "Mostrar en la lista";
+$MESS["REST_UF_EDIT_IN_LIST"] = "Editable por el usuario";
+$MESS["REST_UF_IS_SEARCHABLE"] = "Realizar búsqueda";
+$MESS["REST_UF_SETTINGS"] = "Propiedades adicionales (depende del tipo)";
+$MESS["REST_UF_EDIT_FORM_LABEL"] = "Editar etiquetas de formulario";
+$MESS["REST_UF_LIST_FILTER_LABEL"] = "Etiqueta del filtro";
+$MESS["REST_UF_ERROR_MESSAGE"] = "Mensaje de error";
+$MESS["REST_UF_HELP_MESSAGE"] = "Ayuda";
+$MESS["REST_UF_LIST"] = "Elementos de la lista";
+$MESS["REST_UF_DEFAULT_VALUE"] = "Valor por defecto";
+$MESS["REST_UF_VALUE"] = "Valor";
+$MESS["REST_UF_PRECISION"] = "Precisión";
+$MESS["REST_UF_DISPLAY"] = "Diseño";
+$MESS["REST_UF_IBLOCK_TYPE_ID"] = "ID del tipo de block de información";
+$MESS["REST_UF_IBLOCK_ID"] = "ID del block de información";
+$MESS["REST_UF_ENTITY_TYPE"] = "Entidad disponible";
+$MESS["REST_UF_CRM_LEAD"] = "Prospecto";
+$MESS["REST_UF_CRM_CONTACT"] = "Contacto";
+$MESS["REST_UF_CRM_COMPANY"] = "Compañía";
+$MESS["REST_UF_CRM_DEAL"] = "Negociación";
+$MESS["REST_UF_LIST_HEIGHT"] = "Alto de la lista";
+$MESS["REST_UF_ACTIVE_FILTER"] = "Mostrar sólo activos";
+$MESS["REST_UF_LIST_COLUMN_LABEL"] = "Texto de la columna en la lista";
+?>

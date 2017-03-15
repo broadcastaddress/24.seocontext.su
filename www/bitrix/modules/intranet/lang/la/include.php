@@ -1,0 +1,35 @@
+<?
+$MESS["INTR_HIRED"] = "Contratado";
+$MESS["INTR_OUTLOOK_PREFIX_CONTACTS"] = "Portal de Intranet";
+$MESS["INTR_OUTLOOK_TITLE_CONTACTS"] = "Empleados";
+$MESS["INTR_OUTLOOK_TITLE_CONTACTS_EXTRANET"] = "Contactos";
+$MESS["INTR_OUTLOOK_TITLE_TASKS"] = "Mis Tareas";
+$MESS["INTR_OUTLOOK_TASK_NO_TITLE"] = "(sin título)";
+$MESS["INTR_SET_WIZ_TITLE"] = "Ejecutar el asistente de configuración para cambiar el diseño del tema del Portal";
+$MESS["INTR_SET_WIZ_TEXT"] = "Asistente de Configuración";
+$MESS["INTR_SET_EXT_TITLE"] = "Ejecutar el Asistente de Configuración de Extranet";
+$MESS["INTR_SET_EXT_TEXT"] = "Asistente de Configuración de Extranet";
+$MESS["INTR_SET_CLEAN_TITLE"] = "Ejecutar el Asistente de limpieza de Datos Demo";
+$MESS["INTR_SET_CLEAN_TEXT"] = "Asistente de Limpieza";
+$MESS["INTR_SET_BUT_TITLE"] = "Ejecute el asistente de configuración para cambiar el tema del diseño del portal";
+$MESS["INTR_SET_BUT_TEXT"] = "Asistentes del Sitio";
+$MESS["INTR_SET_BUT_HINT"] = "Ejecutar el Asistente del Portal de Intranet para configurar su portal nuevamente.<br /><br />";
+$MESS["INTR_SET_BUT_HINT_EXTRANET"] = "El <b>Asistente de Extranet</b> le guiará a través de la creación del sitio de extranet y del proceso de configuración.<br /><br />";
+$MESS["INTR_SET_BUT_HINT_CLEARING"] = "El <b>Asistente de limpieza</b> le ayuda a limpiar la data demo de su portal antes de agregar el contenido real.";
+$MESS["INTR_SOCNET_LOG_NEWS"] = "Artículo de noticia";
+$MESS["INTR_SOCNET_LOG_NEWS_TITLE"] = "Item de noticia agregado o actualizado: \"#TITLE#\"";
+$MESS["INTR_SOCNET_LOG_NEWS_TITLE_MAIL"] = "Nuevos artículos \"#TITLE#\" se agregaron o actualizaron en el suministro de noticias de \"#ENTITY#\"";
+$MESS["INTR_SOCNET_LOG_NEWS_COMMENT_TITLE"] = "comentario en \"#TITLE#\"";
+$MESS["INTR_SOCNET_LOG_NEWS_COMMENT_TITLE_MAIL"] = "Un comentario en \"#TITLE#\" ha sido agregado al suministro de noticias de la \"#ENTITY#\"";
+$MESS["INTR_SOCNET_LOG_NEWS_SETTINGS"] = "Todos los eventos en este suministro de noticias";
+$MESS["INTR_SOCNET_LOG_NEWS_SETTINGS_1"] = "suministro de noticias #TITLE#";
+$MESS["INTR_SOCNET_LOG_NEWS_SETTINGS_2"] = "#TITLE# de las entradas  suministro de noticias";
+$MESS["INTR_SOCNET_LOG_LIST_N_ALL"] = "Todas las noticias";
+$MESS["INTR_SOCNET_LOG_N"] = "suministro de noticias";
+$MESS["INTR_SOCNET_LOG_XDI_N"] = "suministro de noticias";
+$MESS["INTR_SOCNET_LOG_ENTITY_MAIL"] = "suministro de noticias";
+$MESS["INTR_SONET_ADD_COMMENT_SOURCE_ERROR"] = "Hubo un error al agregar un comentario a la fuente del evento.";
+$MESS["INTR_SONET_LOG_DATA_TITLE_IMPORTANT_24"] = "Importante!";
+$MESS["INTR_IBLOCK_TOP_SECTION_WARNING"] = "La estructura de la empresa sólo puede contener una sección del nivel superior.";
+$MESS["INTR_IBLOCK_REQUIRED"] = "El módulo Intranet requiere el módulo Block de Información.";
+?>

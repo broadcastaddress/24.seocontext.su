@@ -1,0 +1,30 @@
+<?
+$MESS["TASKS_SETTINGS"] = "Einstellungen des Moduls Aufgaben";
+$MESS["TASKS_SETTINGS_TITLE"] = "Globale Einstellungen des Moduls Aufgaben";
+$MESS["LEARNING_SITE_PATH_SITE"] = "Pfadvorlagen für die Website &quot;#SITE#&quot;";
+$MESS["MAIN_OPT_SAVE_TITLE"] = "Änderungen speichern und zurückkehren";
+$MESS["MAIN_OPT_APPLY"] = "Anwenden";
+$MESS["MAIN_OPT_APPLY_TITLE"] = "Änderungen speichern und hier bleiben";
+$MESS["MAIN_OPT_CANCEL"] = "Abbrechen";
+$MESS["MAIN_OPT_CANCEL_TITLE"] = "Änderungen nicht speichern und zurückkehren";
+$MESS["TASKS_OPTION_PATHS"] = "Links";
+$MESS["TASKS_PATHS_USER"] = "Vorlage der Seiten-URL für den Nutzerprofil";
+$MESS["TASKS_PATHS_TASK_USER"] = "Vorlage der Seiten-URL für die Nutzeraufgaben";
+$MESS["TASKS_PATHS_TASK_GROUP"] = "Vorlage der Seiten-URL für die Gruppenaufgaben";
+$MESS["TASKS_RESTORE_DEFAULTS"] = "Standardmäßig";
+$MESS["TASKS_SUBTAB_TITLE_SITE"] = "Einstellungen für die Website";
+$MESS["TASKS_PATHS_TASK_USER_EDIT"] = "Aufgabenvorlage für Nutzer editieren";
+$MESS["TASKS_PATHS_TASK_GROUP_EDIT"] = "Aufgabenvorlage für Gruppen editieren";
+$MESS["TASKS_PATHS_TASK_USER_ENTRY"] = "Vorlage des Links zur Ansicht der Nutzeraufgabe";
+$MESS["TASKS_PATHS_TASK_USER_ACTION"] = "Vorlage des Links zur Seite der Nutzeraufgabe";
+$MESS["TASKS_PATHS_TASK_GROUP_ENTRY"] = "Vorlage des Links zur Ansicht der Arbeitsgruppenaufgabe";
+$MESS["TASKS_PATHS_TASK_GROUP_ACTION"] = "Vorlage des Links zur Seite der Arbeitsgruppenaufgabe";
+$MESS["TASKS_COMMENTS_FORUM"] = "Forum für Kommentare";
+$MESS["TASKS_HTML_SANITIZE_LEVEL"] = "HTML-Überprüfung in der Aufgabenbeschreibung";
+$MESS["TASKS_HTML_SANITIZE_LEVEL_NONE"] = "Überprüfung nicht verwenden";
+$MESS["TASKS_HTML_SANITIZE_LEVEL_LOW"] = "Niedrig";
+$MESS["TASKS_HTML_SANITIZE_LEVEL_MIDDLE"] = "Normal";
+$MESS["TASKS_HTML_SANITIZE_LEVEL_HIGH"] = "Hoch";
+$MESS["TASKS_COMMENTS_ALLOW_EDIT_REMOVE"] = "Nutzer können Kommentare bearbeiten und löschen";
+$MESS["TASKS_LIST_ALLOW_SORT_FILTER_UF"] = "Sortieren und Filtern nach benutzerdefinierten Feldern in der Aufgabenliste aktivieren";
+?>

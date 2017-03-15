@@ -1,0 +1,37 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "Das Modul CRM ist nicht installiert.";
+$MESS["CRM_PERMISSION_DENIED"] = "Zugriff verweigert";
+$MESS["INVOICE_ADD"] = "Rechnung erstellen";
+$MESS["INVOICE_ADD_TITLE"] = "Rechnung erstellen";
+$MESS["INVOICE_COPY"] = "Kopieren";
+$MESS["INVOICE_COPY_TITLE"] = "Rechnung kopieren";
+$MESS["INVOICE_ADD_ACTIVITY"] = "Hinzufügen";
+$MESS["INVOICE_ADD_ACTIVITY_TITLE"] = "Hinzufügen";
+$MESS["INVOICE_EDIT"] = "Bearbeiten";
+$MESS["INVOICE_EDIT_TITLE"] = "Rechnung bearbeiten";
+$MESS["INVOICE_SHOW"] = "Anzeigen";
+$MESS["INVOICE_SHOW_TITLE"] = "Rechnung anzeigen";
+$MESS["INVOICE_PAYMENT_HTML"] = "Drucken";
+$MESS["INVOICE_PAYMENT_HTML_TITLE"] = "Drucken";
+$MESS["INVOICE_PAYMENT_PDF"] = "Im PDF-Format anzeigen";
+$MESS["INVOICE_PAYMENT_PDF_TITLE"] = "Rechnung im PDF-Format anzeigen";
+$MESS["INVOICE_PAYMENT_EMAIL"] = "E-Mail senden";
+$MESS["INVOICE_PAYMENT_EMAIL_TITLE"] = "Rechnung per E-Mail senden";
+$MESS["INVOICE_DELETE"] = "Rechnung löschen";
+$MESS["INVOICE_DELETE_TITLE"] = "Rechnung löschen";
+$MESS["INVOICE_DELETE_DLG_TITLE"] = "Rechnung löschen";
+$MESS["INVOICE_DELETE_DLG_MESSAGE"] = "Möchten Sie das wirklich löschen?";
+$MESS["INVOICE_DELETE_DLG_BTNTITLE"] = "Löschen";
+$MESS["INVOICE_LIST"] = "Rechnungen";
+$MESS["INVOICE_LIST_TITLE"] = "Rechnungen";
+$MESS["INVOICE_EXPORT_CSV"] = "Rechnungen nach CSV exportieren";
+$MESS["INVOICE_EXPORT_CSV_TITLE"] = "Rechnungen nach CSV exportieren";
+$MESS["INVOICE_EXPORT_EXCEL"] = "Rechnungen nach Excel exportieren";
+$MESS["INVOICE_EXPORT_EXCEL_TITLE"] = "Rechnungen nach Excel exportieren";
+$MESS["INVOICE_PAYMENT_HTML_BLANK"] = "Blanko Rechnung ausdrucken";
+$MESS["INVOICE_PAYMENT_HTML_BLANK_TITLE"] = "Rechnung ohne Stempel oder Unterschriften ausdrucken";
+$MESS["INVOICE_PAYMENT_PDF_BLANK"] = "Blanko Rechnung in PDF herunterladen";
+$MESS["INVOICE_PAYMENT_PDF_BLANK_TITLE"] = "Rechnung in PDF ohne Stempel oder Unterschriften herunterladen";
+$MESS["INVOICE_PAYMENT_PUBLIC_LINK"] = "Link zur Rechnung";
+$MESS["INVOICE_PAYMENT_PUBLIC_LINK_TITLE"] = "Link zur Rechnung";
+?>

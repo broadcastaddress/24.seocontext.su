@@ -1,0 +1,1 @@
+<?$arTemplate = Array("NAME"=>"Красный", "DESCRIPTION"=>"Красная цветовая схема");?>

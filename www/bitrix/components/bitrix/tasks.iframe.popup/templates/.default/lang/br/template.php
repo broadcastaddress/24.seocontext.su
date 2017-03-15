@@ -1,0 +1,34 @@
+<?
+$MESS["TASKS_TASK_NUM"] = "Tarefa ##TASK_NUM#";
+$MESS["TASKS_TITLE_EDIT_TASK"] = "Editar Tarefa ##TASK_ID#";
+$MESS["TASKS_TITLE_CREATE_TASK"] = "Nova tarefa";
+$MESS["TASKS_TITLE"] = "Tarefa";
+$MESS["TASKS_DESCRIPTION"] = "Um componente para mostrar as tarefas";
+$MESS["TASKS_DEADLINE"] = "Prazo";
+$MESS["TASKS_PRIORITY"] = "Prioridade";
+$MESS["TASKS_PRIORITY_LOW"] = "Baixo";
+$MESS["TASKS_PRIORITY_NORMAL"] = "Média";
+$MESS["TASKS_PRIORITY_HIGH"] = "Alto";
+$MESS["TASKS_BTN_CREATE_TASK"] = "Adicionar tarefa";
+$MESS["TASKS_BTN_CREATE_TASK_AND_ONCE_MORE"] = "Adicionar tarefa e criar outra";
+$MESS["TASKS_BTN_CANCEL"] = "Cancelar";
+$MESS["TASKS_BTN_CONTINUE"] = "Continuar";
+$MESS["TASKS_BTN_SELECT"] = "Selecionar";
+$MESS["TASKS_TIT_CREATE_TASK_2"] = "Nova Tarefa";
+$MESS["TASKS_RESPONSIBLE"] = "Responsável";
+$MESS["TASKS_LINK_SHOW_FULL_CREATE_FORM"] = "Formulário completo de Tarefa";
+$MESS["TASKS_TASK_ACCOMPLICES"] = "Participantes";
+$MESS["TASKS_THERE_IS_NO_DEADLINE"] = "Não";
+$MESS["TASKS_GROUP"] = "Esta tarefa é em grupo (projeto)";
+$MESS["TASKS_UPLOAD_FILES"] = "Fazer upload de arquivos";
+$MESS["TASKS_DELETE_CONFIRM"] = "Excluir o arquivo?";
+$MESS["TASKS_TITLE_PLACEHOLDER"] = "O que fazer";
+$MESS["TASKS_CONFIRM_CLOSE_CREATE_DIALOG"] = "Fechar formulário de eduição de tarefa?";
+$MESS["TASKS_CONTROL_CHECKBOX"] = "Exigir aprovação para fechar tarefa";
+$MESS["TASKS_TASK_ALLOW_TIME_TRACKING"] = "Faixa tempo de gasto";
+$MESS["TASKS_TASK_ALLOW_TIME_TRACKING_DETAILS"] = "Faixa tempo de gasto;  tempo estimado necessário";
+$MESS["TASKS_TASK_TIME_TRACKING_HOURS"] = "hr";
+$MESS["TASKS_TASK_TIME_TRACKING_MINUTES"] = "min";
+$MESS["TASKS_TASK_CONFIRM_START_TIMER"] = "Controlador de tempo está sendo usado agora com a tarefa #TASK#. Esta tarefa será interrompida. Continuar? ";
+$MESS["TASKS_TASK_CONFIRM_START_TIMER_TITLE"] = "Controlador de tempo agora está sendo usado com outra tarefa ";
+?>

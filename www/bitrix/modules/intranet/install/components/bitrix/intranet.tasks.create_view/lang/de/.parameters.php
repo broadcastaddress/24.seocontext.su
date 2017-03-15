@@ -1,0 +1,32 @@
+<?
+$MESS["INTL_ACTION_VAR"] = "Variable für die Aktion ID";
+$MESS["INTL_TF_CREATED_BY"] = "Autor";
+$MESS["INTL_TF_DATE_CREATE"] = "Erstellt";
+$MESS["INTL_SET_NAVCHAIN"] = "Breadcrumb-Navigation aktivieren";
+$MESS["INTL_TF_DATE_ACTIVE_TO"] = "Ende";
+$MESS["INTL_TF_XML_ID"] = "Externe ID";
+$MESS["INTL_TF_IBLOCK_SECTION"] = "Ordner";
+$MESS["INTL_TASK_TYPE_GROUP"] = "Für die Gruppe";
+$MESS["INTL_TASK_TYPE_USER"] = "Für den Nutzer";
+$MESS["INTL_GROUP_VAR"] = "Variable für die Gruppen ID";
+$MESS["INTL_TF_ID"] = "ID";
+$MESS["INTL_IBLOCK"] = "Informationsblock";
+$MESS["INTL_IBLOCK_TYPE"] = "Informationsblocktyp";
+$MESS["INTL_ITEM_COUNT"] = "Einträge pro Seite";
+$MESS["INTL_TF_CODE"] = "Mnemonischer Code";
+$MESS["INTL_TF_MODIFIED_BY"] = "Geändert von";
+$MESS["INTL_OWNER_ID"] = "Besitzer ID";
+$MESS["INTL_PAGE_VAR"] = "Variable für die Seiten ID";
+$MESS["INTL_PATH_TO_GROUP_TASKS_TASK"] = "Pfad zur Aufgabe";
+$MESS["INTL_PATH_TO_GROUP_TASKS"] = "Pfad zur Liste mit Aufgaben";
+$MESS["INTL_PATH_TO_GROUP_TASKS_VIEW"] = "Pfad zur Ansicht";
+$MESS["INTL_TF_DATE_ACTIVE_FROM"] = "Anfang";
+$MESS["INTL_TF_DETAIL_TEXT"] = "Aufgabenbeschreibung";
+$MESS["INTL_TASK_VAR"] = "Variable für die Aufgaben ID";
+$MESS["INTL_TASKS_FIELDS_SHOW"] = "Aufgabeneigenschaften";
+$MESS["INTL_TASK_TYPE"] = "Aufgabentyp";
+$MESS["INTL_TF_NAME"] = "Überschrift";
+$MESS["INTL_USER_VAR"] = "Variable für die Nutzer ID";
+$MESS["INTL_VARIABLE_ALIASES"] = "Variablen-Alias:";
+$MESS["INTL_VIEW_VAR"] = "Variable für die Ansichts ID";
+?>

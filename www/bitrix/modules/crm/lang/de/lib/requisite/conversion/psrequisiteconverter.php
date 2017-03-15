@@ -1,0 +1,5 @@
+<?
+$MESS["CRM_PS_RQ_CONV_ACC_NUM_DEF_VAL"] = " ";
+$MESS["CRM_PS_RQ_CONV_PRESET_NAME"] = "Verkäufer";
+$MESS["CRM_PS_RQ_CONV_INTRO"] = "Informationen zu Ihrem Unternehmen sind für viele Elemente in Bitrix24 relevant. Rechnungen, Angebote, Zahlungssysteme und andere Bereiche in Bitrix24 erfordern es, dass die Informationen zum Unternehmen angegeben werden müssen.<br><br>Sie müssen aber nicht diese Informationen jedes Mal manuell eingeben. Machen Sie das nur einmal und dann können Sie das überall nutzen. <br><br> Um die bereits existierenden Informationen zu nutzen, konvertieren Sie Zahlungssysteme zu Informationen zum Unternehmen. Diese Informationen werden dann automatisch in alle existierenden Rechnungen eingefügt, sobald Konvertierung abgeschlossen wird.<br><br> <a id=\"#EXEC_ID#\" href=\"#EXEC_URL#\">Konvertieren</a> <a id=\"#SKIP_ID#\" href=\"#SKIP_URL#\">Überspringen</a>";
+?>

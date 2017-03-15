@@ -1,0 +1,32 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Firma", 
+		"#SITE_DIR#about/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Kontaktinformation", 
+		"#SITE_DIR#about/contacts.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Bankverbindung", 
+		"#SITE_DIR#about/bank_info.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Abonnement", 
+		"#SITE_DIR#about/subscribe.php", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

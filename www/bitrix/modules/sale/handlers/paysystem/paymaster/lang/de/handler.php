@@ -1,0 +1,15 @@
+<?
+$MESS["SALE_HPS_PAYMASTER_ERROR_PARAMS_VALUE"] = "Zahlungsparameter stimmen nicht überein  ;";
+$MESS["SALE_HPS_PAYMASTER_SIM_MODE_TEST"] = "Testmodus, kein Betrag in Wirklichkeit überwiesen; ";
+$MESS["SALE_HPS_PAYMASTER_DESC_MERCHANT_ID"] = "Geldbörse des Verkäufers - #MERCHANT_ID# ;";
+$MESS["SALE_HPS_PAYMASTER_DESC_SYS_INVS_NO"] = "Rechnungsnummer - #SYS_INVS_NO# ;";
+$MESS["SALE_HPS_PAYMASTER_DESC_SYS_TRANS_NO"] = "Zahlungsnummer - #SYS_TRANS_NO# ;";
+$MESS["SALE_HPS_PAYMASTER_DESC_SYS_TRANS_DATE"] = "Zahlungsdatum - #SYS_TRANS_DATE# ;";
+$MESS["SALE_HPS_PAYMASTER_DESC_PAY_SYSTEM"] = "Zahlungssystem - #PAY_SYSTEM# ;";
+$MESS["SALE_HPS_PAYMASTER_DESC_PAYER_PURSE"] = "Geldbörse des Kunden - #PAYER_PURSE# ;";
+$MESS["SALE_HPS_PAYMASTER_DESC_PAYER_WM"] = "WMId des Kunden - #PAYER_WM# ;";
+$MESS["SALE_HPS_PAYMASTER_DESC_PAYER_NUMBER"] = "VM-Karte # - #PAYMER_NUMBER# ;";
+$MESS["SALE_HPS_PAYMASTER_DESC_PAYER_EMAIL"] = "E-Mail-Adresse des Kunden auf paymer.com - #PAYMER_EMAIL# ;";
+$MESS["SALE_HPS_PAYMASTER_DESC_TELEPAT_PHONENUMBER"] = "Telefonnummer des Kunden - #TELEPAT_PHONENUMBER# ;";
+$MESS["SALE_HPS_PAYMASTER_DESC_TELEPAT_ORDERID"] = "Telepath-Zahlung - #TELEPAT_ORDERID# ;";
+?>

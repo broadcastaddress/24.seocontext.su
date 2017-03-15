@@ -1,0 +1,4 @@
+<?
+$MESS["MB_TASKS_TASK_EDIT_WO_GROUP"] = "Nenhum grupo";
+$MESS["MB_TASKS_TASK_EDIT_GROUPS_TABLE_TITLE"] = "Grupos";
+?>

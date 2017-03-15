@@ -1,0 +1,3 @@
+<?
+$MESS["CRM_ENTITY_RQ_CONV_INTRO"] = "Sie brauchen jetzt nicht mehr Informationen immer wieder einzugeben, wenn Sie eine neue Rechnung erstellen. Es reicht, dass Sie Informationen zum Kontakt einmal angeben, dann werden Sie auf diese Daten in jedem CRM-Element zugreifen können. Es wird empfohlen, dass Sie jetzt die vorher eingegebenen Daten konvertieren, indem Sie daraus neue Informationen erstellen. <b>Das Feld \"Adresse\" wird auch kopiert und übertragen, bleibt aber ausgeblendet.</b> <a id=\"#EXEC_ID#\" href=\"#EXEC_URL#\">Jetzt konvertieren</a> <a id=\"#SKIP_ID#\" href=\"#SKIP_URL#\">Überspringen</a>";
+?>

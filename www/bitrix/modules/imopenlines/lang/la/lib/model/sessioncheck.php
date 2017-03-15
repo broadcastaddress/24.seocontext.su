@@ -1,0 +1,5 @@
+<?
+$MESS["SESSION_CHECK_ENTITY_SESSION_ID_FIELD"] = "ID de sesión";
+$MESS["SESSION_CHECK_ENTITY_DATE_CLOSE_FIELD"] = "Cerrado el ";
+$MESS["SESSION_CHECK_ENTITY_DATE_QUEUE_FIELD"] = "Volver a poner en cola";
+?>

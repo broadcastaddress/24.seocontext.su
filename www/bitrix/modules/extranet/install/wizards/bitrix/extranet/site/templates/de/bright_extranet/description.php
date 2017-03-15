@@ -1,0 +1,1 @@
+<?$arTemplate = Array("NAME"=>"Extranet/Hell", "DESCRIPTION"=>"Template mit einer festen Breite");?>

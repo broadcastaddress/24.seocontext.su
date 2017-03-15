@@ -1,0 +1,25 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Home", 
+		"#SITE_DIR#index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Arbeitsgruppen", 
+		"#SITE_DIR#workgroups/", 
+		Array(), 
+		Array(), 
+		"CBXFeatures::IsFeatureEnabled('Workgroups')" 
+	),
+	Array(
+		"Kontakte", 
+		"#SITE_DIR#contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

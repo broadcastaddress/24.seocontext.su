@@ -1,0 +1,34 @@
+<?
+$MESS["TASKS_PRIORITY"] = "Prioridad";
+$MESS["TASKS_PRIORITY_0"] = "Baja";
+$MESS["TASKS_PRIORITY_1"] = "Normal";
+$MESS["TASKS_PRIORITY_2"] = "Alta";
+$MESS["TASKS_DEADLINE"] = "Fecha límite";
+$MESS["TASKS_RESPONSIBLE"] = "Responsable";
+$MESS["TASKS_CREATOR"] = "Creador";
+$MESS["TASKS_TEMPLATES"] = "Plantillas";
+$MESS["TASKS_REPORTS"] = "Reportes";
+$MESS["TASKS_EXPORT_EXCEL"] = "Exportar al Excel";
+$MESS["TASKS_EXPORT_OUTLOOK"] = "Exportar Al Outlook";
+$MESS["TASKS_EDIT_TEMPLATE"] = "Editar";
+$MESS["TASKS_DELETE_TEMPLATE"] = "Eliminar";
+$MESS["TASKS_DOUBLE_CLICK"] = "Doble click para editar";
+$MESS["TASKS_TITLE"] = "Plantillas";
+$MESS["TASKS_ADD_TEMPLATE"] = "Agregar plantilla";
+$MESS["TASKS_EDIT_TEMPLATE_EX"] = "Editar plantilla";
+$MESS["TASKS_NO_TEMPLATES"] = "ninguna plantilla";
+$MESS["TASKS_QUICK_TITLE"] = "Nombre de la tarea";
+$MESS["TASKS_ACCOMPLICE"] = "Participante";
+$MESS["TASKS_AUDITOR"] = "Observador";
+$MESS["TASKS_DEFAULT_SORT"] = "Orden de clasificación predeterminada";
+$MESS["TASKS_ADD_BACK_TO_TASKS_LIST"] = "Regresar a tareas";
+$MESS["TASKS_LIST_GROUP_ACTION_FOR_ALL"] = "Para todos";
+$MESS["TASKS_LIST_SUBMIT"] = "Aplicar";
+$MESS["TASKS_LIST_CONFIRM_ACTION_FOR_ALL_TEMPLATE_ITEMS"] = "¿Aplicar la acción a todas las plantillas de la lista incluyendo subplantillas, en todas las páginas?";
+$MESS["TASKS_LIST_TOOLTIP_FOR_ALL_TEMPLATE_ITEMS"] = "Compruebe las plantillas y subplantillas en todas las páginas";
+$MESS["TASKS_LIST_CONFIRM_REMOVE_FOR_SELECTED_TEMPLATE_ITEMS"] = "¿Quieres eliminar las plantillas seleccionadas?";
+$MESS["TASKS_LIST_CONFIRM_REMOVE_FOR_ALL_TEMPLATE_ITEMS"] = "¿Quieres eliminar todas las plantillas y subplantillas en todas las páginas?";
+$MESS["TASKS_ADD_BACK_TO_TEMPLATE_LIST"] = "Volver a las plantillas";
+$MESS["TASKS_TEMPLATE_TITLE"] = "Nombre";
+$MESS["TASKS_ADD_SUB_TEMPLATE"] = "Agregar subtarea";
+?>

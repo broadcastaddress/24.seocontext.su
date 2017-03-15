@@ -1,0 +1,37 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "El módulo CRM no está instalado.";
+$MESS["CRM_MODULE_NOT_INSTALLED_SALE"] = "El módulo e-Store no está instalado.";
+$MESS["CRM_MODULE_NOT_INSTALLED_CATALOG"] = "El módulo Commercial Catalog no está instalado.";
+$MESS["CRM_PERMISSION_DENIED"] = "Acceso denegado";
+$MESS["CRM_COLUMN_ID"] = "ID";
+$MESS["CRM_COLUMN_ACCOUNT_NUMBER"] = "#";
+$MESS["CRM_COLUMN_ORDER_TOPIC"] = "Asunto";
+$MESS["CRM_COLUMN_STATUS_ID"] = "Estados";
+$MESS["CRM_COLUMN_PRICE"] = "Total";
+$MESS["CRM_COLUMN_DATE_PAY_BEFORE"] = "Pagar antes de";
+$MESS["CRM_COLUMN_DATE_INSERT"] = "Creado en ";
+$MESS["CRM_COLUMN_RESPONSIBLE"] = "Persona responsable";
+$MESS["CRM_RESPONSIBLE_NOT_ASSIGNED"] = "[sin asignar]";
+$MESS["CRM_COLUMN_ENTITIES_LINKS"] = "Vinculado a";
+$MESS["CRM_INVOICE_NAV_TITLE_EDIT"] = "Factura: #NAME#";
+$MESS["CRM_INVOICE_NAV_TITLE_ADD"] = "Crear factura";
+$MESS["CRM_INVOICE_NAV_TITLE_LIST"] = "Facturas";
+$MESS["CRM_COLUMN_COMMENTS"] = "Comentario del representante de ventas";
+$MESS["CRM_COLUMN_CURRENCY"] = "Moneda";
+$MESS["CRM_COLUMN_DATE_BILL"] = "Fecha de factura";
+$MESS["CRM_COLUMN_DATE_MARKED"] = "Declinado el";
+$MESS["CRM_COLUMN_DATE_STATUS"] = "Estado modificado el";
+$MESS["CRM_COLUMN_DATE_UPDATE"] = "Modificado el";
+$MESS["CRM_COLUMN_PAY_SYSTEM_ID"] = "Método del pago";
+$MESS["CRM_COLUMN_PAY_VOUCHER_DATE"] = "Fecha de pago";
+$MESS["CRM_COLUMN_PAY_VOUCHER_NUM"] = "Factura #";
+$MESS["CRM_COLUMN_PERSON_TYPE_ID"] = "Tipo de pagador";
+$MESS["CRM_COLUMN_REASON_MARKED"] = "Comentario de estado";
+$MESS["CRM_COLUMN_TAX_VALUE"] = "Impuesto";
+$MESS["CRM_COLUMN_USER_DESCRIPTION"] = "Comentario";
+$MESS["CRM_INVOICE_LIST_TB_LABEL_TEXT"] = "Facturas pagadas: #num#; monto total: #sum#";
+$MESS["CRM_PRESET_NEUTRAL"] = "Mis facturas pendientes";
+$MESS["CRM_PRESET_SUCCESS"] = "Mis facturas pagadas";
+$MESS["CRM_INVOICE_INTERNAL_ADD_BTN_TITLE"] = "Crear factura";
+$MESS["CRM_COLUMN_UF_MYCOMPANY_ID"] = "Datos de su compañía";
+?>

@@ -1,0 +1,135 @@
+.bx-destination-input-box {
+	display : none;
+}
+.bx-destination-input {
+	background:#fff;
+	border:none; color:#555;
+	display:inline-block;
+	font-size:12px;
+	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+	margin:0 9px 9px 0;
+	height:20px;
+	min-width:108px;
+	outline:none;
+	padding:0;
+	vertical-align:middle;
+}
+.bx-destination-add {
+	background:url("images/sprite.png") no-repeat -148px -475px;
+	color:#2067b0; display:inline-block;
+	font-weight:bold;
+	font-size:12px;
+	margin:0 9px 9px 0;
+	line-height:20px;
+	vertical-align:middle;
+	padding-left:14px;
+}
+.bx-destination {line-height: 20px; border:1px solid; border-radius:2px; -moz-box-shadow:inset 0 2px 0 -1px rgba(255,255,255,0.6),0 1px 2px -1px rgba(164,164,164,0.6); -webkit-box-shadow:inset 0 2px 0 -1px rgba(255,255,255,0.6),0 1px 2px -1px rgba(164,164,164,0.6); box-shadow:inset 0 2px 0 -1px rgba(255,255,255,0.6),0 1px 2px -1px rgba(164,164,164,0.6); font-size:12px; display:inline-block; font-weight:bold; margin:0 9px 9px 0; overflow:hidden; text-shadow:0 1px 0 rgba(255, 255, 255, 0.8); padding:0 11px; position:relative; vertical-align:middle; z-index:2;}
+.bx-destination a:link, .bx-destination a:visited, .bx-destination a:active, .bx-destination a:hover {text-decoration:none;}
+.bx-destination-wrap-but .bx-destination {margin:9px 9px 0 0;}
+.bx-destination-wrap .bx-destination {padding-right:23px;}
+.bx-destination-del-but {background:url("images/sprite.png") no-repeat; cursor:pointer; right:0; top:0; height:20px; position:absolute; width:20px;}
+
+.bx-destination:hover {text-decoration:none;}
+.bx-destination-all-users {
+	background:#edf2d4;
+	background:linear-gradient(top, #f1f5de, #e6eec5);
+	background:-moz-linear-gradient(top, #f1f5de, #e6eec5);
+	background:-o-linear-gradient(top, #f1f5de, #e6eec5);
+	background:-ms-linear-gradient(top, #f1f5de, #e6eec5);
+	background:-webkit-gradient(linear, left top, left bottom,
+	from(#f1f5de), to(#e6eec5));
+	border-top-color:#a3ca26;
+	border-right-color:#99c220;
+	border-left-color:#99c220;
+	border-bottom-color:#8cb919;
+	color:#688617!important;
+}
+.bx-destination-all-users .bx-destination-del-but {background-position:-107px -39px;}
+.bx-destination-hover.bx-destination-all-users {
+	background-color:#f5f9e5;
+	background:linear-gradient(top, #f8faec, #f2f7dd);
+	background:-moz-linear-gradient(top, #f8faec, #f2f7dd);
+	background:-o-linear-gradient(top, #f8faec, #f2f7dd);
+	background:-ms-linear-gradient(top, #f8faec, #f2f7dd);
+	background:-webkit-gradient(linear, left top, left bottom, from(#f8faec), to(#f2f7dd));
+}
+.bx-destination-hover.bx-destination-all-users .bx-destination-del-but {background-position:-27px -60px;}
+.bx-destination-users {
+	background-color:#e6f0f5;
+	background:linear-gradient(top, #ecf4f7, #ddebf1);
+	background:-moz-linear-gradient(top, #ecf4f7, #ddebf1);
+	background:-o-linear-gradient(top, #ecf4f7, #ddebf1);
+	background:-ms-linear-gradient(top, #ecf4f7, #ddebf1);
+	background:-webkit-gradient(linear, left top, left bottom, from(#ecf4f7), to(#ddebf1));
+	border-top-color:#89c4dd;
+	border-right-color:#7cbad5;
+	border-left-color:#7cbad5;
+	border-bottom-color:#6aaac8;
+	color:#2067b0!important;
+}
+.bx-destination-users .bx-destination-del-but {background-position:-124px -40px;}
+.bx-destination-hover.bx-destination-users {
+	background-color:#f1f6f9;
+	background:linear-gradient(top, #f5f8fa, #edf3f7);
+	background:-moz-linear-gradient(top, #f5f8fa, #edf3f7);
+	background:-o-linear-gradient(top, #f5f8fa, #edf3f7);
+	background:-ms-linear-gradient(top, #f5f8fa, #edf3f7);
+	background:-webkit-gradient(linear, left top, left bottom, from(#f5f8fa), to(#edf3f7));
+}
+.bx-destination-hover.bx-destination-users .bx-destination-del-but {background-position:-74px -61px;}
+.bx-destination-sonetgroups {
+	background-color:#f6ebe2;
+	background:linear-gradient(top, #f8efe9, #f3e3d8);
+	background:-moz-linear-gradient(top, #f8efe9, #f3e3d8);
+	background:-o-linear-gradient(top, #f8efe9, #f3e3d8);
+	background:-ms-linear-gradient(top, #f8efe9, #f3e3d8);
+	background:-webkit-gradient(linear, left top, left bottom, from(#f8efe9), to(#f3e3d8));
+	border-top-color:#e4a878;
+	border-right-color:#e49a61;
+	border-left-color:#e49a61;
+	border-bottom-color:#e48d4a;
+	color:#b54515!important;
+}
+.bx-destination-sonetgroups .bx-destination-del-but {background-position:7px 6px;}
+.bx-destination-hover.bx-destination-sonetgroups {background-color:#faf5f2; background:linear-gradient(top, #fbf8f5, #f9f2ed); background:-moz-linear-gradient(top, #fbf8f5, #f9f2ed); background:-o-linear-gradient(top, #fbf8f5, #f9f2ed); background:-ms-linear-gradient(top, #fbf8f5, #f9f2ed); background:-webkit-gradient(linear, left top, left bottom, from(#fbf8f5), to(#f9f2ed));}
+.bx-destination-hover.bx-destination-sonetgroups .bx-destination-del-but {background-position:-42px -61px;}
+
+.bx-destination-department, .bx-destination-crm {
+	background-color:#e9eff1;
+	background:linear-gradient(top, #eef3f4, #f3e3d8);
+	background:-moz-linear-gradient(top, #eef3f4, #e1eaec);
+	background:-o-linear-gradient(top, #eef3f4, #e1eaec);
+	background:-ms-linear-gradient(top, #eef3f4, #e1eaec);
+	background:-webkit-gradient(linear, left top, left bottom, from(#eef3f4), to(#e1eaec));
+	border-top-color:#a9b6c6;
+	border-right-color:#9ca8b8;
+	border-left-color:#9ca8b8;
+	border-bottom-color:#8f9bab;
+	color:#5c6470!important;
+}
+.bx-destination-department .bx-destination-del-but,
+.bx-destination-crm .bx-destination-del-but {background-position:7px -20px;}
+.bx-destination-hover.bx-destination-department,
+.bx-destination-hover.bx-destination-crm {background-color:#f2f7f9; background:linear-gradient(top, #f5f9fa, #eef4f7); background:-moz-linear-gradient(top, #f5f9fa, #eef4f7); background:-o-linear-gradient(top, #f5f9fa, #eef4f7); background:-ms-linear-gradient(top, #f5f9fa, #eef4f7); background:-webkit-gradient(linear, left top, left bottom, from(#f5f9fa), to(#eef4f7));}
+.bx-destination-hover.bx-destination-department .bx-destination-del-but, .bx-destination-hover.bx-destination-crm .bx-destination-del-but {background-position:-58px -61px;}
+.tel-set-item-melody-link {
+	position: relative;
+}
+.tel-set-item-melody-link input {
+	position: absolute;
+	top:0;
+	left:0;
+	opacity: 0;
+}
+.tel-set-item-melody-link .webform-field-upload-list {
+	padding: 0;
+	margin: 0;
+}
+.tel-set-item-melody-link .webform-field-upload-list i {
+	display: inline-block;
+}
+
+
+
+

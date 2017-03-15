@@ -1,0 +1,26 @@
+<?
+$MESS["INTASK_TD_USER_GROUPS_ALL"] = "Alle Besucher";
+$MESS["INTASK_TD_USER_GROUPS_AUTHOR"] = "Autor";
+$MESS["INTASK_TD_OPERATIONS_COMMENT"] = "Kommentare";
+$MESS["INTASK_TD_FIELD_CREATED"] = "Erstellt von";
+$MESS["INTASK_TD_OPERATIONS_DELETE"] = "löschen";
+$MESS["INTASK_TD_FIELD_DATE_ACTIVE_TO"] = "Ende";
+$MESS["INTASK_TD_USER_GROUPS_FRIEND"] = "Freunde";
+$MESS["INTASK_TD_USER_GROUPS_FRIEND2"] = "Freunde von Freunden";
+$MESS["INTASK_TD_USER_GROUPS_MEMBERS"] = "Teilnehmer";
+$MESS["INTASK_TD_USER_GROUPS_MODS"] = "Moderatoren";
+$MESS["INTASK_TD_USER_GROUPS_OWNER"] = "Besitzer";
+$MESS["INTASK_TD_USER_GROUPS_RESP"] = "Ausführend";
+$MESS["INTASK_TD_FIELD_DATE_ACTIVE_FROM"] = "Anfang";
+$MESS["INTASK_TD_FIELD_DATE_CREATE"] = "Datum der Aufgabenerstellung";
+$MESS["INTASK_TD_FIELD_DETAIL_TEXT"] = "Aufgabenbeschreibung";
+$MESS["INTASK_TD_FIELD_IBLOCK_SECTION_ID"] = "Aufgabenordner";
+$MESS["INTASK_TD_FIELD_ID"] = "Aufgaben-ID";
+$MESS["INTASK_TD_FIELD_TIMESTAMP_X"] = "Datum der Aufgabenänderung";
+$MESS["INTASK_TD_FIELD_MODIFIED"] = "Aufgabe wurde geändert von";
+$MESS["INTASK_TD_FIELD_NAME"] = "Aufgabenname";
+$MESS["INTASK_TD_USER_GROUPS_TRACK"] = "Verantwortlich";
+$MESS["INTASK_TD_OPERATIONS_WRITE"] = "Update";
+$MESS["INTASK_TD_OPERATIONS_READ"] = "Anzeigen";
+$MESS["INTASK_TD_USER_GROUPS_AUTHORIZED"] = "Autorisierte Nutzer";
+?>

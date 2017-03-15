@@ -1,0 +1,9 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "Das Modul CRM ist nicht installiert.";
+$MESS["CRM_PERMISSION_DENIED"] = "Zugriff verweigert";
+$MESS["CRM_COLUMN_DEAL_CATEGORY_ID"] = "ID";
+$MESS["CRM_COLUMN_DEAL_CATEGORY_NAME"] = "Name";
+$MESS["CRM_COLUMN_DEAL_CATEGORY_SORT"] = "Sortierung";
+$MESS["CRM_COLUMN_DEAL_CATEGORY_CREATED_DATE"] = "Erstellt am";
+$MESS["CRM_DEAL_CATEGORY_DEFAULT_NAME"] = "Neue Pipeline";
+?>

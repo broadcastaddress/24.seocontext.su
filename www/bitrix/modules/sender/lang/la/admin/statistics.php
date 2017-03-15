@@ -1,0 +1,37 @@
+<?
+$MESS["sender_stat_title"] = "Estadística";
+$MESS["sender_stat_flt_mailing"] = "Boletín de Noticias";
+$MESS["sender_stat_flt_mailing_chain"] = "Mensaje";
+$MESS["sender_stat_error_no_data"] = "No hay datos disponibles. El mensaje no ha sido enviado o el envío actual no se ha completado.";
+$MESS["sender_stat_report"] = "Informes del mensaje";
+$MESS["sender_stat_report_title"] = "Mensaje de";
+$MESS["sender_stat_report_subject"] = "Asunto:";
+$MESS["sender_stat_report_date_create"] = "Creado el:";
+$MESS["sender_stat_report_date_sent"] = "Iniciado el:";
+$MESS["sender_stat_report_cnt_all"] = "Total de mensajes enviados:";
+$MESS["sender_stat_report_cnt_in"] = "incluyendo:";
+$MESS["sender_stat_report_cnt_read"] = "Vistos:";
+$MESS["sender_stat_report_cnt_error"] = "Con errores:";
+$MESS["sender_stat_report_cnt_unsub"] = "Dejar suscripción:";
+$MESS["sender_stat_graph_all"] = "Total de correos electrónicos enviados";
+$MESS["sender_stat_graph_read"] = "Vistos";
+$MESS["sender_stat_graph_unsub"] = "Dejar suscripción";
+$MESS["sender_stat_graph_error"] = "Envío de errores";
+$MESS["sender_stat_graphperiod_all"] = "total:";
+$MESS["sender_stat_graphperiod_action"] = "Acciones del destinatarios";
+$MESS["sender_stat_graphperiod_cnt_all"] = "Correos electrónicos enviados";
+$MESS["sender_stat_graphperiod_cnt_read"] = "Vistos";
+$MESS["sender_stat_graphperiod_cnt_unsub"] = "Dejar suscripción";
+$MESS["POST_U_YES"] = "Si";
+$MESS["POST_U_NO"] = "No";
+$MESS["MAIN_ALL"] = "(todo)";
+$MESS["sender_stat_click_title"] = "15 enlaces más populares";
+$MESS["sender_stat_click_cnt"] = "Cantidad";
+$MESS["sender_stat_click_link"] = "Enlace";
+$MESS["sender_stat_click_no_data"] = "No hay datos.";
+$MESS["sender_stat_report_cnt_click"] = "Enlace de clics:";
+$MESS["sender_stat_graph"] = "Mensaje de rendimiento";
+$MESS["sender_stat_graph_click"] = "Los correos electrónicos con enlaces a clics";
+$MESS["sender_stat_graphperiod"] = "Boletín de rendimiento recurrente";
+$MESS["sender_stat_graphperiod_cnt_click"] = "Enlace de clics";
+?>

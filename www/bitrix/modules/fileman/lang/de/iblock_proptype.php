@@ -1,0 +1,34 @@
+<?
+$MESS ['IBLOCK_PROP_MAP_GOOGLE_NOTHING_FOUND'] = "(Ihre Suche ergab keine Treffer)";
+$MESS ['IBLOCK_PROP_MAP_YANDEX_NOTHING_FOUND'] = "(Ihre Suche ergab keine Treffer)";
+$MESS ['IBLOCK_PROP_MAP_GOOGLE_INIT_LON'] = "37,64";
+$MESS ['IBLOCK_PROP_MAP_YANDEX_INIT_LON'] = "37,65";
+$MESS ['IBLOCK_PROP_MAP_GOOGLE_INIT_LAT'] = "55,76";
+$MESS ['IBLOCK_PROP_MAP_YANDEX_INIT_LAT'] = "55,77";
+$MESS ['IBLOCK_PROP_MAP_GOOGLE_REMOVE_POINT_CONFIRM'] = "Wollen Sie den Wert wirklich löschen?";
+$MESS ['IBLOCK_PROP_MAP_YANDEX_REMOVE_POINT_CONFIRM'] = "Wollen Sie den Wert wirklich löschen?";
+$MESS ['IBLOCK_PROP_MAP_GOOGLE'] = "Google Maps-Anbindung";
+$MESS ['IBLOCK_PROP_MAP_YANDEX'] = "Bind to Yandex.Maps";
+$MESS ['IBLOCK_PROP_MAP_GOOGLE_REMOVE_POINT'] = "Markierung entfernen";
+$MESS ['IBLOCK_PROP_MAP_YANDEX_REMOVE_POINT'] = "Markierung entfernen";
+$MESS ['IBLOCK_PROP_MAP_GOOGLE_INSTR'] = "Wählen Sie mit einem Doppelklick einen Punkt auf der Karte.";
+$MESS ['IBLOCK_PROP_MAP_YANDEX_INSTR'] = "Wählen Sie mit einem Doppelklick einen Punkt auf der Karte.";
+$MESS ['IBLOCK_PROP_MAP_GOOGLE_INSTR_VALUE'] = "Sie können die Markierung verschieben oder eine neue Position mit einem Doppelklick bestimmen.";
+$MESS ['IBLOCK_PROP_MAP_YANDEX_INSTR_VALUE'] = "Sie können die Markierung verschieben oder eine neue Position mit einem Doppelklick bestimmen.";
+$MESS ['IBLOCK_PROP_MAP_GOOGLE_NO_KEY_ERRORMESSAGE'] = "Es ist ein Fehler beim Speichern des Maps-API-Schlüssels aufgetreten. Versuchen Sie es später.";
+$MESS ['IBLOCK_PROP_MAP_YANDEX_NO_KEY_ERRORMESSAGE'] = "Es ist ein Fehler beim Speichern des Maps-API-Schlüssels aufgetreten. Versuchen Sie es später.";
+$MESS ['IBLOCK_PROP_MAP_GOOGLE_GOTO_POINT'] = "Zur Markierung wechseln";
+$MESS ['IBLOCK_PROP_MAP_YANDEX_GOTO_POINT'] = "Zur Markierung wechseln";
+$MESS ['IBLOCK_PROP_MAP_GOOGLE_NO_KEY'] = "Maps-API-Schlüssel:";
+$MESS ['IBLOCK_PROP_MAP_YANDEX_NO_KEY'] = "Maps-API-Schlüssel:";
+$MESS ['IBLOCK_PROP_MAP_GOOGLE_NO_KEY_BUTTON'] = "Fertig";
+$MESS ['IBLOCK_PROP_MAP_YANDEX_NO_KEY_BUTTON'] = "Fertig";
+$MESS ['IBLOCK_PROP_MAP_YANDEX_SAVE_KEY_BUTTON'] = "Lizenzschlüssel speichern";
+$MESS ['IBLOCK_PROP_MAP_GOOGLE_SAVE_KEY_BUTTON'] = "Maps-API-Schlüssel speichern";
+$MESS ['IBLOCK_PROP_MAP_GOOGLE_SEARCH'] = "Suche auf der Karte:";
+$MESS ['IBLOCK_PROP_MAP_YANDEX_SEARCH'] = "Suche auf der Karte:";
+$MESS ['IBLOCK_PROP_MAP_YANDEX_NO_KEY_MESSAGE'] = "Specify the map key for domain #DOMAIN#. If you do not have the key, you can obtain it <a href=\"http://api.yandex.ru/maps/form.xml\" target=\"_blank\">here</a>.";
+$MESS ['IBLOCK_PROP_MAP_GOOGLE_NO_KEY_MESSAGE'] = "Fügen Sie den Maps-API-Schlüssel für die #DOMAIN# ein. Wenn Sie keinen API-Schlüssel besitzen, können Sie ihn  <a href=\"http://code.google.com/intl/de_ALL/apis/maps/signup.html\" target=\"_blank\">hier</a> beantragen.";
+$MESS ['IBLOCK_PROP_MAP_GOOGLE_NO_KEY_OKMESSAGE'] = "Der Maps-API-Schlüssel wurde gespeichert. Alle API-Schlüssel können Sie auf der <a href=\"/bitrix/admin/settings.php?lang=de&mid=fileman&tabControl_active_tab=edit4\">Einstellungsseite des Moduls \"Datei-Manager\"</a> verwalten.";
+$MESS ['IBLOCK_PROP_MAP_YANDEX_NO_KEY_OKMESSAGE'] = "Der Maps-API-Schlüssel wurde gespeichert. Alle API-Schlüssel können Sie auf der <a href=\"/bitrix/admin/settings.php?lang=de&mid=fileman&tabControl_active_tab=edit4\">Einstellungsseite des Moduls \"Datei-Manager\"</a> verwalten.";
+?>

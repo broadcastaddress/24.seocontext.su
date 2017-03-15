@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_ACTIVITY_VISIT_DOWNLOAD_RECORD"] = "Скачати запис";
+$MESS["CRM_ACTIVITY_VISIT_DESCRIPTION"] = "Опис";
+?>

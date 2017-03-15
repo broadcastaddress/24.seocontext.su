@@ -1,0 +1,15 @@
+<?
+$MESS["SCALE_MONITORING_HDD"] = "Drives";
+$MESS["SCALE_MONITORING_HDD_PARAMS"] = "(gesamt/genutzt/verfügbar)";
+$MESS["SCALE_MONITORING_NET"] = "Netzwerk";
+$MESS["SCALE_MONITORING_NET_SEC"] = "pro Sekunde";
+$MESS["SCALE_MONITORING_NET_PARAMS"] = "(aus/ein)";
+$MESS["SCALE_MONITORING_HDDACT"] = "Aktiv";
+$MESS["SCALE_MONITORING_HDDACT_PARAMS"] = "(lesen/schreiben)";
+$MESS["SCALE_MONITORING_MEMORY"] = "Speicher";
+$MESS["SCALE_MONITORING_MEMORY_PARAMS"] = "gesamt/genutzt/verfügbar";
+$MESS["SCALE_ITS_AVG_LOAD_NAME"] = "Belastung";
+$MESS["SCALE_ITS_AVG_LOAD_MIN"] = "Minimum";
+$MESS["SCALE_ITS_AVG_LOAD_CURR"] = "Aktuell";
+$MESS["SCALE_ITS_AVG_LOAD_MAX"] = "Maximum";
+?>

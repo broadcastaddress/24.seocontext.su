@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_ACTIVITY_PROVIDER_BASE_SUBJECT"] = "Nueva actividad (#DATE#)";
+$MESS["CRM_ACTIVITY_PROVIDER_BASE_SOURCE_NONE"] = "(ninguno)";
+?>

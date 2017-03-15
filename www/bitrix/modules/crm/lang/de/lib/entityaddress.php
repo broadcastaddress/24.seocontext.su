@@ -1,0 +1,35 @@
+<?
+$MESS["CRM_ENTITY_ADDRESS_1"] = "Straße, Haus";
+$MESS["CRM_ENTITY_ADDRESS_2"] = "Zimmernummer / Raum";
+$MESS["CRM_ENTITY_ADDRESS_CITY"] = "Stadt";
+$MESS["CRM_ENTITY_ADDRESS_POSTAL_CODE"] = "PLZ";
+$MESS["CRM_ENTITY_ADDRESS_REGION"] = "Region";
+$MESS["CRM_ENTITY_ADDRESS_PROVINCE"] = "Bundesland / Kanton";
+$MESS["CRM_ENTITY_ADDRESS_COUNTRY"] = "Land";
+$MESS["CRM_ENTITY_REG_ADDRESS_1"] = "Straße, Haus (für Rechnungen)";
+$MESS["CRM_ENTITY_REG_ADDRESS_2"] = "Zimmernummer / Raum (für Rechnungen)";
+$MESS["CRM_ENTITY_REG_ADDRESS_CITY"] = "Stadt (für Rechnungen)";
+$MESS["CRM_ENTITY_REG_ADDRESS_POSTAL_CODE"] = "PLZ (für Rechnungen)";
+$MESS["CRM_ENTITY_REG_ADDRESS_REGION"] = "Region (für Rechnungen)";
+$MESS["CRM_ENTITY_REG_ADDRESS_PROVINCE"] = "Bundesland / Kanton (für Rechnungen)";
+$MESS["CRM_ENTITY_REG_ADDRESS_COUNTRY"] = "Land (für Rechnungen)";
+$MESS["CRM_ENTITY_SHORT_ADDRESS_1"] = "Straße";
+$MESS["CRM_ENTITY_SHORT_ADDRESS_2"] = "Zimmernummer / Raum";
+$MESS["CRM_ENTITY_SHORT_ADDRESS_CITY"] = "Stadt";
+$MESS["CRM_ENTITY_SHORT_ADDRESS_POSTAL_CODE"] = "PLZ";
+$MESS["CRM_ENTITY_SHORT_ADDRESS_REGION"] = "Region";
+$MESS["CRM_ENTITY_SHORT_ADDRESS_PROVINCE"] = "Bundesland / Kanton";
+$MESS["CRM_ENTITY_SHORT_ADDRESS_COUNTRY"] = "Land";
+$MESS["CRM_ENTITY_SHORT_REG_ADDRESS_1"] = "Straße (für Rechnungen)";
+$MESS["CRM_ENTITY_SHORT_REG_ADDRESS_2"] = "Zimmernummer / Raum (für Rechnungen)";
+$MESS["CRM_ENTITY_SHORT_REG_ADDRESS_CITY"] = "Stadt (für Rechnungen)";
+$MESS["CRM_ENTITY_SHORT_REG_ADDRESS_POSTAL_CODE"] = "PLZ (für Rechnungen)";
+$MESS["CRM_ENTITY_SHORT_REG_ADDRESS_REGION"] = "Region (für Rechnungen)";
+$MESS["CRM_ENTITY_SHORT_REG_ADDRESS_PROVINCE"] = "Bundesland / Kanton (für Rechnungen)";
+$MESS["CRM_ENTITY_SHORT_REG_ADDRESS_COUNTRY"] = "Land (für Rechnungen)";
+$MESS["CRM_ENTITY_FULL_ADDRESS"] = "Adresse";
+$MESS["CRM_ENTITY_FULL_REG_ADDRESS"] = "Rechnungsadresse";
+$MESS["CRM_ENTITY_ADDRESS_CHANGE_EVENT_EMPTY"] = "-Leer-";
+$MESS["CRM_ENTITY_ADDRESS_PRY"] = "Adresse";
+$MESS["CRM_ENTITY_ADDRESS_REG"] = "Juristische Adresse";
+?>

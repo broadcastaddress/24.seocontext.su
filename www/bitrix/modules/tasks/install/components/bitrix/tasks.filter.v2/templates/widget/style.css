@@ -1,0 +1,14 @@
+.task-item-counter {
+	background-color: #f3e0e0;
+	border-radius: 50%;
+	color: #535b67;
+	font-size: 9px;
+	line-height: 12px;
+	height: 13px;
+	min-width: 8px;
+	text-align: center;
+	top: -6px;
+	right: -8px;
+	padding: 0 3px;
+	position: absolute;
+}

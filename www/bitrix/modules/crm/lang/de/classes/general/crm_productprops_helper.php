@@ -1,0 +1,8 @@
+<?
+$MESS["CRM_PRODUCT_PE_PROP_TYPE_S"] = "Zeile";
+$MESS["CRM_PRODUCT_PE_PROP_TYPE_N"] = "Zahl";
+$MESS["CRM_PRODUCT_PE_PROP_TYPE_L"] = "Liste";
+$MESS["CRM_PRODUCT_PE_PROP_TYPE_F"] = "Datei";
+$MESS["CRM_PRODUCT_PE_PROP_TYPE_G"] = "An Bereich anbinden";
+$MESS["CRM_PRODUCT_PE_PROP_TYPE_E"] = "An Element anbinden";
+?>

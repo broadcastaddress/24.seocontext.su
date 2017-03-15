@@ -1,0 +1,33 @@
+<?
+$MESS["TASKS_COMMON_CONFIRM_DELETE"] = "¿Está seguro de que desea eliminar #ENTITY_NAME#?";
+$MESS["TASKS_TASK_STATUS_1"] = "Nuevo";
+$MESS["TASKS_TASK_STATUS_2"] = "Pendiente";
+$MESS["TASKS_TASK_STATUS_3"] = "En progreso";
+$MESS["TASKS_TASK_STATUS_4"] = "Revisión pendiente";
+$MESS["TASKS_TASK_STATUS_5"] = "Completado";
+$MESS["TASKS_TASK_STATUS_6"] = "Diferido";
+$MESS["TASKS_TASK_STATUS_7"] = "Declinado";
+$MESS["TASKS_TASK_STATUS_-1"] = "Atrasado";
+$MESS["TASKS_COMMON_LOADING"] = "Cargando";
+$MESS["TASKS_COMMON_TASK"] = "Tarea";
+$MESS["TASKS_COMMON_TASKS"] = "Tareas";
+$MESS["TASKS_COMMON_CANCEL_SELECT"] = "Cancelar la selección";
+$MESS["TASKS_COMMON_NOT_SELECTED"] = "No hay selección";
+$MESS["TASKS_COMMON_CHANGE"] = "Cambiar";
+$MESS["TASKS_COMMON_ADD"] = "Agregar";
+$MESS["TASKS_COMMON_ADD_MORE"] = "Agregar más";
+$MESS["TASKS_COMMON_DONT_SHOW_AGAIN"] = "No mostrar de nuevo";
+$MESS["TASKS_COMMON_NO"] = "No";
+$MESS["TASKS_COMMON_ALL"] = "Todo";
+$MESS["TASKS_COMMON_ANY"] = "Cualquiera";
+$MESS["TASKS_COMMON_CANCEL"] = "Cancelar";
+$MESS["TASKS_COMMON_SAVE"] = "Guardar";
+$MESS["TASKS_COMMON_SAVE_CHANGES"] = "Guardar cambios";
+$MESS["TASKS_COMMON_DONT_ASK_AGAIN"] = "No volver a preguntar";
+$MESS["TASKS_COMMON_ACCESS_DENIED"] = "Accesos denegado";
+$MESS["TASKS_COMMON_ACTION_NOT_ALLOWED"] = "La acción no es posible";
+$MESS["TASKS_COMMON_HIDE"] = "Ocultar";
+$MESS["TASKS_COMMON_DELETE"] = "Eliminar";
+$MESS["TASKS_COMMON_CLOSE"] = "Cerrar";
+$MESS["TASKS_COMMON_YES"] = "Si";
+?>

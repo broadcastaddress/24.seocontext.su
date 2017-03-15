@@ -1,0 +1,387 @@
+a {text-decoration: underline; color:#c63535;}
+
+h1
+{
+	position:relative;
+	font-size:1.25em;
+	border-bottom:1px solid #e4e7e9;
+	padding-bottom:12px;
+	color:#000000;
+	margin:10px 0;
+}
+
+h2
+{
+	font-size:1.25em;
+}
+
+h3
+{
+	font-size:1.25em;
+	margin-top:0;
+	margin-bottom:5px;
+}
+
+h4
+{
+	font-size:1.25em;
+	border-bottom:1px solid #e4e7e9;
+	padding-bottom:8px;
+	margin-bottom:5px;
+	margin-top:8px;
+}
+
+hr
+{
+	padding: 0px;
+	margin:7px 0;
+	background-color: #e4e7e9;
+	color: #e4e7e9;
+	border: none;
+	height: 1px;
+	line-height: 1px;
+}
+
+small, .smalltext
+{
+	font-size:90%;
+}
+
+
+#header
+{
+	background-color: #f4373b;/*change*/
+}
+
+#header-separator
+{
+	background-color: #fff729;/*change*/
+}
+
+#top-menu-section
+{
+	background-color:#f4373b;/*change*/
+}
+
+.left-column-delimiter
+{
+	background-color:#dbdbdb;/*change*/
+}
+
+#footer
+{
+	background:#f4f4f4;/*change*/
+}
+
+/*Data table*/
+table.data-table
+{
+	border:1px solid #c4c4c4;
+	border-collapse: collapse;
+}
+
+/*Any cell*/
+table.data-table td
+{
+	border:1px solid #c4c4c4;
+	border-left:none;
+	border-right:none;
+	background-color:#FFFFFF;
+	padding:6px 5px;
+}
+
+/*Head cell*/
+table.data-table thead td, table.data-table th, table.data-table thead th
+{
+	background-color:#e0e0e0;
+	font-weight:bold;
+	font-size:12px;
+	background-image:none;
+	border:1px solid #c4c4c4;
+	padding:8px;
+	color:#072838;
+	text-align:left;
+}
+
+/*Head cell selected*/
+table.data-table thead td.selected, table.data-table th.selected, table.data-table thead th.selected
+{
+	background-color:#f6f6f5;
+}
+
+/*Body cell*/
+table.data-table tbody td
+{
+	background-color:#FFF;
+	background-image:none;
+}
+
+/*Selected cell*/
+table.data-table td.selected, table.data-table tr.selected td
+{
+	background-color:#f6f6f6;
+}
+
+/*Foot cell*/
+table.data-table tfoot td
+{
+	background-color:#f6f6f5;
+	padding:4px;
+}
+
+/*End data table*/
+
+
+
+/*Data table events*/
+table.data-table-events
+{
+	margin-bottom:10px;
+}
+
+/*Any cell*/
+table.data-table-events td.body
+{
+	padding:10px 14px;
+}
+
+/*Head cell*/
+table.data-table-events td.header
+{
+	font-weight:bold;
+	font-size:14px;
+	border-top:9px solid #dbdbdb;/*change*/
+	background:url(images/table-header-separator.gif) bottom repeat-x;
+	padding:8px;
+	color:#000;/*change*/
+}
+/*End data table events*/
+
+
+
+/*Data table news*/
+table.data-table-news
+{
+	margin-bottom:10px;
+}
+
+/*Any cell*/
+table.data-table-news td.body
+{
+	padding:10px 14px;
+}
+
+/*Head cell*/
+table.data-table-news td.header
+{
+	font-weight:bold;
+	font-size:14px;
+	border-top:9px solid #ebebeb;/*change*/
+	background:url(images/table-header-separator.gif) bottom repeat-x;
+	padding:8px;
+	color:#000;/*change*/
+}
+/*End data table events*/
+
+
+/*Data table communication*/
+table.data-table-communication
+{
+	margin-bottom:10px;
+}
+
+/*Any cell*/
+table.data-table-communication td.body
+{
+	padding:10px 14px;
+}
+
+/*Head cell*/
+table.data-table-communication td.header
+{
+	font-weight:bold;
+	font-size:14px;
+	border-top:9px solid #f1eec4;/*change*/
+	background:url(images/table-header-separator.gif) bottom repeat-x;
+	padding:8px;
+	color:#000;/*change*/
+}
+/*End data table events*/
+
+/*table.data-table-communication a, table.data-table-news a, table.data-table-events a
+{
+	text-decoration: none;
+}*/
+
+
+/*Error & OK messages*/
+.errortext{color:red;}
+.notetext{color:green;}
+.starrequired{color:red;}
+
+/*News*/
+.news-date-time {color:#8a8a8a}
+.intranet-date {color:#052635}
+
+/*Tabs*/
+.sonet-user-menu-tabs-mltl li a b.p1 {background-image:url(images/tabs/tableft.gif);}
+.sonet-user-menu-tabs-mltl li a b.p2 {background-image:url(images/tabs/tab_bg.gif); color:#7d7d7d; }
+.sonet-user-menu-tabs-mltl li a b.p3 {background-image:url(images/tabs/tabright.gif);}
+
+.sonet-user-menu-tabs-mltl li a.selected b.p1 {background-image:url(images/tabs/tableft-selected.gif);}
+.sonet-user-menu-tabs-mltl li a.selected b.p2 {background-image:url(images/tabs/tab_bg_selected.gif); color:#000;}
+.sonet-user-menu-tabs-mltl li a.selected b.p3 {background-image:url(images/tabs/tabright-selected.gif);}
+
+/*Filter*/
+ul.bx-users-selector li.bx-selected {background-color: #e0e0e0; background-image: url(images/filter/filter_delimiter.gif);}
+div.bx-users-selector-filter {background-color: #e0e0e0;}
+ul.bx-users-selector {background-color: #b9b9b9;}
+div.bx-users-selector-filter table.filter-table tfoot td {border-top-color: #b9b9b9;}
+
+table.bx-users-toolbar {background-color: #e0e0e0;border-color:#e0e0e0;}
+table.bx-users-toolbar td {border-color:#e0e0e0;}
+table.bx-users-toolbar td.bx-users-toolbar-delimiter {background-color: #b9b9b9;}
+
+table.bx-users-toolbar .bx-users-selected {background-color: #f8f6ee;border-color:#b9b9b9; color:inherit;}
+div.bx-users-alphabet {background-color: #f8f6ee;border-color:#b9b9b9; color:#b9b9b9;}
+
+div.bx-calendar-layout .bx-calendar-main-table td.bx-calendar-control {background-color:#e0e0e0;}
+div.bx-calendar-layout .bx-calendar-main-table td.bx-calendar-holiday {background-color:#f8f6ee;}
+div.bx-calendar-layout tr.bx-calendar-currow td {background-color:#e0e0e0 !important}
+.bx-user-info-inner {border-top-color:#e0e0e0;}
+
+
+/*WebDAV*/
+table.wd-menu {background-color: #e0e0e0;}
+table.wd-menu-inner div.controls a{border-color:#e0e0e0;}
+table.wd-menu-inner div.controls a:hover {border-color:#b9b9b9;background-color:#f8f6ee;}
+table.wd-menu div.separator {border-left-color:#b9b9b9}
+
+tr div.show-action a.action{border-color:#fff;}
+tr.selected div.show-action a.action{border-color:#f6f6f6;}
+
+/*WebDAV*/
+table.its-menu {background-color: #e0e0e0;}
+table.its-menu-inner div.controls a{border-color:#e0e0e0;}
+table.its-menu-inner div.controls a:hover {border-color:#b9b9b9;background-color:#f8f6ee;}
+table.its-menu div.separator {border-left-color:#b9b9b9}
+
+/*Forum menu*/ 
+div.forumtoolsection {display:none;}
+table.forum-menu {border-left-color:#c4c4c4; border-top-color:#c4c4c4;} 
+table.forum-menu td.forumtoolbar {background-color: #e0e0e0;  border-color:#c4c4c4 #c4c4c4 #c4c4c4 #FFFFFF;border-top:none;border-left:none;}
+
+.forumtoolsection {border-color:#FFFFFF #c4c4c4 #c4c4c4 #FFFFFF; } 
+.forumtoolseparator {border-left-color: #c4c4c4; border-right-color: #FFFFFF;}
+
+table.forum-menu a, table.forum-menu select, table.forum-menu input, table.forum-menu td {color:#333}
+
+/* menu popup */
+.forum-menu-hidden-in {border-color:#c4c4c4;} 
+table.forum-menu-popup-table td, table.forum-menu-popup-table td a { color: black;} 
+table.forum-menu-popup-table td.forum-menu-popup, table.forum-menu-popup-table td.forum-menu-popup-hover {background-color: #e0e0e0; } 
+table.forum-menu-popup-table td.forum-group{background-color:#e0e0e0; color:#333;} 
+table.forum-menu-popup-table td.forum-menu-popup-hover {background-color: #f6f6f5;} 
+div.forum-group{background-color:#F9FBF9; color:#333;} 
+
+/*Forum index and list*/ 
+table.forum-main {border-color: #c4c4c4;} 
+table.forum-main td {background-color:#f6f6f5;border-color:#c4c4c4;} 
+table.forum-main th {background-color:#e0e0e0;border-color: #c4c4c4;color: #333;} 
+
+div.forum-hr {background-color:#c4c4c4}
+div.filter-check-hover {background-color:#e0e0e0}
+
+a.forum-button:link,a.forum-button:visited,a.forum-button:active,a.forum-button:hover {background: #e0e0e0;border-color: #c4c4c4;color: #333;} 
+table.forum-main td.forum-group {background-color:#e0e0e0; color:#333;} 
+div.forum-title {border-color: #c4c4c4; background-color: #e0e0e0 !important; color:#333; } 
+
+/*Forum messages*/ 
+table.forum-message td {background-color: #f6f6f5;} 
+table.forum-message td.forum-message-user-info {background-color: #f6f6f5;border-color: #c4c4c4;} 
+table.forum-message td.border-top {border-color:#c4c4c4;} 
+table.forum-message td.border-bottom {border-color:#c4c4c4;} 
+
+table.forum-message .forum-message-posts, 
+table.forum-message .forum-message-status, 
+table.forum-message .forum-message-datereg, 
+table.forum-message .forum-message-datecreate {color:#333;} 
+
+a.forum-button-small,a.forum-button-small-vote,a.forum-button-small-unvote {background-color: #e0e0e0;border-color:#c4c4c4;color: #333; }
+a.forum-button-small:hover,a.forum-button-small-vote:hover,a.forum-button-small-unvote:hover {color: #333; } 
+
+/*Forum statistics*/ 
+table.forum-stat th {background-color:#e0e0e0;border-color: #c4c4c4;color: #333;} 
+table.forum-stat td {background-color:#f6f6f5;border-color: #c4c4c4;} 
+table.forum-stat .forum-attention{color: black;} 
+
+/*Post form*/ 
+table.forum-post-form {border-color: #c4c4c4;} 
+table.forum-post-form td {background-color:#f6f6f5;border-color:#c4c4c4;} 
+table.forum-post-form th {background-color:#e0e0e0;border-color: #c4c4c4;} 
+table.forum-smile {border-color: #c4c4c4;} 
+table.forum-smile th {background-color:#e0e0e0;border-color: #c4c4c4;} 
+
+/* Only for user-profile*/ 
+table.fuser-static th {background-color:#e0e0e0; border-color:#c4c4c4;} 
+table.fuser-static td {background-color:#f6f6f5; border-color:#c4c4c4;} 
+
+/* Tab controls*/ 
+table.tabs {border-left-color:#c4c4c4;} 
+table.tabs td.tab-indent-left {border-bottom-color:#c4c4c4;} 
+table.tabs td.tab-indent-right {border-bottom-color:#c4c4c4;} 
+table.tabs td.tab-container {border-color:#c4c4c4; border-left: none;} 
+table.tabs td.tab-container-selected {border-color:#c4c4c4; border-bottom-color:#F9FBF9; background-color:#F9FBF9;} 
+
+table.tabs table td.tab {border-top-color:#c4c4c4;} 
+table.tabs table td.tab-selected {border-top-color:red;} 
+table.tabs table td.tab-hover {border-top-color:#c4c4c4;} 
+
+/* Tab inside edit form */ 
+table.tab {border-color:#c4c4c4;} 
+table.tab td {background-color:#f6f6f5;}
+
+.forum-menu-hidden-in {max-height:100px;height:expression(this.scrollHeight > 100? "100px" : "auto");}
+table.forum-quote td, table.forum-code td {background-color:#e0e0e0; /*th*/border-color:#c4c4c4;}
+
+table.forum-reviews-messages th {background-color:#F6F6F4;}
+table.forum-reviews-form, table.forum-reviews-form td, table.forum-reviews-form th {border: 1px solid #CECECD;}
+table.forum-reviews-form th {background-color:#E0E0DE;}
+table.forum-reviews-form td {background-color:#F6F6F4;}
+
+div.out {border-color:#c4c4c4;}
+div.in {background-color:#e0e0e0;}
+div.forum-title, table.forum-title {background-color:#e0e0e0;border-color:#c4c4c4;}
+div.forum-popup table.forum-popup {border-color:#c4c4c4;}
+
+/*Support*/
+div.ticket-edit-message
+{
+	border-color: #c4c4c4;
+}
+
+/*Blogs*/
+table.blog-table-post th, table.blog-blog-edit th, table.blog-user-table td.head, table.blog-table-post-comment th
+{
+	background-color:#e0e0e0;
+}
+
+
+table.blog-blog-edit td, table.blog-blog-edit-table-smiles, table.blog-table-post td, table.blog-table-post th, table.blog-blog-edit th,
+table.blog-user-table td.head, table.blog-user-table td, table.blog-group td, table.blog-category td, table.blog-comment-form th, table.blog-comment-form td,
+table.blog-table-post-comment td, table.blog-table-post-comment th
+{
+	border-color: #c4c4c4;
+}
+
+.blog-post-date 
+{
+	color:#333;
+}
+
+
+.blogtoolblock {border-color:#c4c4c4;}
+.blogtoolbar {background-color:#e0e0e0;border-color:#c4c4c4;border-top:none;}
+.blogtoolsection {border-color:#c4c4c4}
+.blog-tab-selected {background-color:#e0e0e0; color:#333;}
+.blogtoolseparator {border-left:1px solid #c4c4c4;border-right:1px solid #e0e0e0;}

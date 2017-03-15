@@ -1,0 +1,60 @@
+<?
+$MESS["CRM_CONFIGS_TAB_WHERE_TO_BEGIN"] = "Punto de partida";
+$MESS["CRM_CONFIGS_TAB_SETTINGS_FORMS_AND_REPORTS"] = "Configuraciones de reportes y formularios";
+$MESS["CRM_CONFIGS_TAB_CREATION_ON_THE_BASIS"] = "Generar";
+$MESS["CRM_CONFIGS_TAB_PRINTED_FORMS_OF_DOCUMENTS"] = "Documentos impresos";
+$MESS["CRM_CONFIGS_TAB_RIGHTS"] = "Permisos";
+$MESS["CRM_CONFIGS_TAB_AUTOMATION"] = "Automatización";
+$MESS["CRM_CONFIGS_TAB_WORK_WITH_MAIL"] = "E-Mail";
+$MESS["CRM_CONFIGS_TAB_INTEGRATION"] = "Integración";
+$MESS["CRM_CONFIGS_TAB_OTHER"] = "Otros";
+$MESS["CRM_CONFIGS_STATUS"] = "Estatus";
+$MESS["CRM_CONFIGS_CURRENCY"] = "Monedas";
+$MESS["CRM_CONFIGS_TAX"] = "Impuestos";
+$MESS["CRM_CONFIGS_PS"] = "Sistemas de pago";
+$MESS["CRM_CONFIGS_LOCATIONS"] = "Ubicaciones";
+$MESS["CRM_CONFIGS_PERMS"] = "Permisos de acceso";
+$MESS["CRM_CONFIGS_BP"] = "Business processes";
+$MESS["CRM_CONFIGS_FIELDS"] = "Campos personalizados";
+$MESS["CRM_CONFIGS_CONFIG"] = "Otras configiuraciones";
+$MESS["CRM_CONFIGS_SENDSAVE"] = "Integración de e-mail";
+$MESS["CRM_CONFIGS_MEASURE"] = "Unidades de medida";
+$MESS["CRM_CONFIGS_EXTERNAL_SALE"] = "Tienda web";
+$MESS["CRM_CONFIGS_EXCH1C"] = "Integración con 1C:Enterprise";
+$MESS["CRM_CONFIGS_MAIL_TEMPLATES"] = "Plantillas de e-mail";
+$MESS["CRM_CONFIGS_PRODUCT_PROPS"] = "Propiedades del producto";
+$MESS["CRM_CONFIGS_SLOT"] = "Reportes analíticos";
+$MESS["CRM_CONFIGS_REFERENCE"] = "Referencia";
+$MESS["CRM_CONFIGS_LEAD"] = "Prospecto";
+$MESS["CRM_CONFIGS_DEAL"] = "Negociación";
+$MESS["CRM_CONFIGS_QOUTE"] = "Cotización";
+$MESS["CRM_CONFIGS_CONTACT"] = "Contacto";
+$MESS["CRM_CONFIGS_COMPANY"] = "Compañía";
+$MESS["CRM_CONFIGS_INVOICE"] = "Factura";
+$MESS["CRM_CONFIGS_NO_ACCESS_ERROR"] = "Accesos denegados. ";
+$MESS["CRM_CONFIGS_DESCRIPTION_WHERE_TO_BEGIN"] = "Proporcionar la configuración inicial le ayudará a prepararse para su sistema de CRM para que se adapte a su negocio. Crear los diccionarios; las unidades de medida de los productos; impuestos; monedas y establecer otras preferencias.";
+$MESS["CRM_CONFIGS_DESCRIPTION_SETTINGS_FORMS_AND_REPORTS"] = "Crear campos personalizados para cualquier entidad de CRM. Seleccione los campos que desea incluir en los informes analíticos.";
+$MESS["CRM_CONFIGS_DESCRIPTION_PRINTED_FORMS_OF_DOCUMENTS"] = "Utilice la página de pago para especificar los detalles de su empresa, logotipo, sello y firma.";
+$MESS["CRM_CONFIGS_DESCRIPTION_RIGHTS"] = "Antes de comenzar: asegúrese de que todos los administradores que trabajan con los clientes tienen derechos de acceso correctamente configurado para acceder a registros de clientes.";
+$MESS["CRM_CONFIGS_DESCRIPTION_AUTOMATION"] = "Automatizar los trabajos relacionados con el cliente: utilizar los flujos de trabajo para que el sistema procese nuevos prospectos, contactos y negociaciones; asignar tareas.";
+$MESS["CRM_CONFIGS_DESCRIPTION_WORK_WITH_MAIL"] = "Para procesar e-mails, conectar su buzón de correo electrónico de su empresa al CRM. Todos los mensajes entrantes se distribuirán a los respectivos contactos, compañías y negociaciones; las tareas serán auto creadas y asignadas a los representantes de ventas.";
+$MESS["CRM_CONFIGS_DESCRIPTION_INTEGRATION"] = "Si usted tiene una tienda web impulsada por Bitrix, puede configurar el intercambio de datos de la orden. Todas las nuevas órdenes estarán auto exportadas a Bitrix24 como negociaciones.";
+$MESS["CRM_CONFIGS_DESCRIPTION_CREATION_ON_THE_BASIS"] = "Se han auto creado nuevas entidades utilizando las existentes manteniendo toda la información esencial. Utilice el campo para lograr una mejor asignación de la flexibilidad en la creación de nuevas entidades.";
+$MESS["CRM_CONFIGS_DESCRIPTION_OTHER"] = "Abrir esta página para establecer otras preferencias del CRM.";
+$MESS["CRM_CONFIGS_TAB_APPS"] = "Aplicaciones";
+$MESS["CRM_CONFIGS_CRM_APPLICATION"] = "Aplicaciones del CRM";
+$MESS["CRM_CONFIGS_MIGRATION_OTHER_CRM"] = "Migrar desde otros CRM";
+$MESS["CRM_CONFIGS_DESCRIPTION_APP"] = "<b>Migrar datos desde otros CRM</b><br>
+¿Había estado utilizando otros CRM? Mantenga su información segura mediante la migración a Bitrix24: deje que las aplicaciones lo haga por usted.<br><br>
+<b>Aplicaciones del CRM</b><br>
+Amplíe su Bitrix24 con herramientas útiles para ayudar a vender más. Añadir servicios para gestionar boletines, páginas de destino, chats, llamadas; calcular KPI y más. La gama de aplicaciones está creciendo cada día.";
+$MESS["CRM_CONFIGS_PRESET"] = "Plantillas de datos de la compañía o contacto";
+$MESS["CRM_CONFIGS_TAB_PS_LIST"] = "Opciones de pago";
+$MESS["CRM_CONFIGS_TRACKER"] = "Ajustes de seguimiento";
+$MESS["CRM_CONFIGS_MYCOMPANY"] = "Datos de la compañía";
+$MESS["CRM_CONFIGS_MAIL_TRACKER"] = "Cuentas de correo electrónico del CRM";
+$MESS["CRM_CONFIGS_DEAL_CATEGORY"] = "Pipelines de Negociación";
+$MESS["CRM_CONFIGS_AUTOMATION_LEAD"] = "Prospectos";
+$MESS["CRM_CONFIGS_AUTOMATION_DEAL"] = "Negociaciones";
+$MESS["CRM_CONFIGS_MAIL_TRACKER_SH"] = "Conectar el correo electrónico de la compañía";
+?>

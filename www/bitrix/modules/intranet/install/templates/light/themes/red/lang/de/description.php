@@ -1,0 +1,4 @@
+<?
+$MESS["THEME_NAME"] = "Rot";
+$MESS["THEME_DESCRIPTION"] = "";
+?>

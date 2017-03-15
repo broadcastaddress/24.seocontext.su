@@ -1,0 +1,5 @@
+<?
+$MESS["CRM_WEBFORM_SCRIPT_BUTTON_TEXT"] = "Name der Schaltfläche";
+$MESS["CRM_WEBFORM_SCRIPT_WIDGET_FORM_DEFAULT_TITLE"] = "Füllen Sie das Formular aus";
+$MESS["CRM_WEBFORM_SCRIPT_WIDGET_FORM_CALLBACK_TITLE"] = "Wir rufen Sie zurück";
+?>

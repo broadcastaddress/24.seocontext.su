@@ -1,0 +1,29 @@
+<?
+$MESS["B24_BANNER_MOBILE_TITLE"] = "Aplicativos móveis";
+$MESS["B24_BANNER_MOBILE_SUBTITLE"] = "para iOS e Android";
+$MESS["B24_BANNER_MOBILE_URL"] = "http://www.bitrix24.com/features/mobile-and-desktop-apps.php";
+$MESS["B24_BANNER_MOBILE_URL_INTRANET"] = "http://www.bitrixsoft.com/products/intranet/features/bitrixmobile.php";
+$MESS["B24_BANNER_MESSENGER_TITLE"] = "Cliente de desktop";
+$MESS["B24_BANNER_MESSENGER_SUBTITLE"] = "com Bitrix24.Drive";
+$MESS["B24_BANNER_MESSENGER_URL"] = "http://www.bitrix24.com/features/mobile-and-desktop-apps.php";
+$MESS["B24_BANNER_BUTTON_INSTALL"] = "Instalar";
+$MESS["B24_BANNER_CLOSE"] = "Fechar";
+$MESS["B24_BANNER_TRIAL_TITLE"] = "Teste características do plano de profissionais";
+$MESS["B24_BANNER_TRIAL_SUBTITLE"] = "gratuitamente por 30 dias";
+$MESS["B24_BANNER_BUTTON_TRY"] = "Experimente agora";
+$MESS["B24_BANNER_TRIAL_EXPIRED_TITLE"] = "Há <br>#DAYS#";
+$MESS["B24_BANNER_TRIAL_EXPIRED_TITLE_1"] = "Há <br>#DAYS#";
+$MESS["B24_BANNER_TRIAL_EXPIRED_SUBTITLE"] = "até o final do modo de demonstração";
+$MESS["B24_BANNER_BUTTON_BUY"] = "Compra";
+$MESS["B24_BANNER_NETWORK_HINT_TITLE"] = "Conectar";
+$MESS["B24_BANNER_NETWORK_HINT_SUBTITLE"] = "instantaneamente com clientes e parceiros de negócios.";
+$MESS["B24_BANNER_NETWORK_START"] = "Conectar";
+$MESS["B24_BANNER_MARKETPLACE_TITLE"] = "Catálogo de Aplicativos";
+$MESS["B24_BANNER_MARKETPLACE_SUBTITLE"] = "para Bitrix24";
+$MESS["B24_BANNER_BUTTON_SHOW"] = "Saiba mais";
+$MESS["B24_BANNER_WEBINAR_TITLE"] = "Webnários semanais";
+$MESS["B24_BANNER_WEBINAR_SUBTITLE"] = "A maneira mais rápida de conhecer Bitrix24";
+$MESS["B24_BANNER_BUTTON_SEE"] = "Reserve sua vaga";
+$MESS["B24_BANNER_DISK_TITLE"] = "Bitrix24 Profissional";
+$MESS["B24_BANNER_DISK_SUBTITLE"] = "Obtenha Usuários Ilimitados e Espaço Ilimitado";
+?>

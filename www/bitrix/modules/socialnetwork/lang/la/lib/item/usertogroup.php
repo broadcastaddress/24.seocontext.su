@@ -1,0 +1,3 @@
+<?
+$MESS["SOCIALNETWORK_ITEM_USERTOGROUP_AUTO_MEMBER_ADD_IM"] = "Ahora eres miembro de \"#GROUP_NAME#\"";
+?>

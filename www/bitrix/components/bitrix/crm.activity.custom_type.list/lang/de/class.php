@@ -1,0 +1,8 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "Das Modul CRM ist nicht installiert.";
+$MESS["CRM_PERMISSION_DENIED"] = "Zugriff verweigert";
+$MESS["CRM_COLUMN_ACT_CUST_TYPE_ID"] = "ID";
+$MESS["CRM_COLUMN_ACT_CUST_TYPE_NAME"] = "Name";
+$MESS["CRM_COLUMN_ACT_CUST_TYPE_SORT"] = "Sortierung";
+$MESS["CRM_COLUMN_ACT_CUST_TYPE_CREATED_DATE"] = "Erstellt am";
+?>

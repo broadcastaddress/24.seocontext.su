@@ -1,0 +1,385 @@
+* {font-size: 100.01%;}
+
+html
+{
+	width:100%;
+	height: 100%;
+}
+
+body
+{
+	height: 100%;
+	margin:0;
+	padding:0;
+	background:white;
+	font-size: 80.01%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:#052635;
+}
+
+textarea
+{
+	font-size:14px;
+}
+
+input, select
+{
+	font-size:14px; 
+}
+
+
+#page-container
+{
+	margin:0 13px -36px;
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	min-width:850px;
+	width:expression((document.documentElement.clientWidth || document.body.clientWidth) < 840 ? "850px" : "auto");
+}
+
+#print-link-back
+{
+	display:none;
+	float:right;
+	padding:10px;
+}
+
+#header
+{
+	height:81px;
+	position:relative;
+	background-image:url(images/header-background.gif);
+	background-repeat:repeat-x;
+}
+
+#header-logo
+{
+	position:absolute;
+	top:0;
+	left:0;
+	height:81px;
+	width:481px;
+	background:url(images/header-logo.jpg) no-repeat;
+}
+
+#company-info
+{
+	height:81px;
+	width:400px;
+	position:relative;
+	background:url(images/header-logo.jpg) no-repeat;
+	padding-left:136px;
+	font-weight:bold;
+	font-size:14px;
+	color:white;
+}
+
+#company-default-logo
+{
+	padding-top:10px;
+}
+
+#company-logo
+{
+/*	background:url(images/logo.gif) center right no-repeat; */
+	width:90px;
+	height:100%;
+}
+
+#company-name-default
+{
+	padding-left:50px;
+	margin-top:3px;
+	font-size:13px;
+	color:white;
+	font-weight:bold;
+}
+
+#company-name
+{
+	position:absolute;
+	top:32px;
+	left:185px;
+}
+
+#auth
+{
+	position:absolute;
+	right:23px;
+	top:15px;
+	height:66px;
+	font-size:11px;
+	text-align:right;
+	width:600px;
+}
+
+#header-separator
+{
+	height:4px;
+	background-image:url(images/header-separator.gif);
+	background-repeat:repeat-x;
+	font-size:1px;
+}
+
+#top-menu-section
+{
+	height:32px;
+	background-image:url(images/topmenu-section-background.gif);
+	background-repeat:repeat-x;
+}
+
+#top-menu
+{
+	
+	margin-left:5px;
+}
+
+#top-menu-left-corner
+{
+	background:url(images/topmenu-left-corner.gif) left bottom no-repeat;
+	margin-right:150px;
+	height:32px;
+}
+
+#site-icons
+{
+	width:130px;
+	overflow:hidden;
+	float:right;
+	height:32px;
+	background:url(images/topmenu-right-corner.gif) right no-repeat;
+}
+
+a.favourite-icon, a.print-icon, a.sitemap-icon
+{
+	float: right;
+	width:20px;
+	height:32px;
+	margin-right:15px;
+}
+
+a.favourite-icon {background:url(images/icons/favourite.gif) no-repeat;}
+a.print-icon {background:url(images/icons/printer.gif) no-repeat;}
+a.sitemap-icon {background:url(images/icons/sitemap.gif) no-repeat;}
+
+#breadcumb-section
+{
+	margin-left:16px;
+}
+
+#navigation 
+{
+	padding:10px 0;
+	font-size:11px;
+	color:#7f7f7f;
+	margin-right:220px;
+}
+
+#navigation a
+{
+	text-decoration:none;
+	color:#7f7f7f;
+}
+
+#search
+{
+	float:right;
+	width:210px;
+	overflow:hidden;
+	text-align:right;
+	vertical-align:middle;
+}
+
+#search-main-page
+{
+	overflow:hidden;
+	position:absolute;
+	top:0;
+	right:0;
+	width:250px;
+	text-align:right;
+}
+
+#search form
+{
+	margin:0;
+	padding:4px 5px 0 0;
+	height:100%;
+}
+
+#search-main-page form
+{
+	margin:0;
+	padding:0;
+	height:100%;
+}
+
+#search span.search-text, #search-main-page span.search-text
+{
+	font-size:12px;
+	font-weight:normal;
+	vertical-align:middle;
+}
+
+#search input.search-submit, #search-main-page input.search-submit
+{
+	height:21px;
+	vertical-align:middle;
+	width:22px;
+}
+
+#search input.search-field, #search-main-page input.search-field
+{
+	background:white;
+	color:#000000;
+	font-size:11px;
+	padding-left:5px;
+	vertical-align:middle;
+	width:115px;
+}
+
+#page-content
+{
+	font-size:0.9em;
+	padding:0 10px;
+}
+
+#main-page
+{
+	padding-bottom:15px;
+	margin:0 10px;
+}
+
+#main-table
+{
+	border-collapse: collapse;
+	table-layout: fixed;
+	width: 100%;
+}
+
+#left-column
+{
+	width:200px;
+	padding-right:9px;
+	vertical-align:top;
+	border-right:1px solid #dbdbdb;
+	padding-bottom:15px;
+}
+
+#main-column
+{
+	padding-left:15px;
+	vertical-align:top;
+	width:100%;
+	padding-bottom:15px;
+}
+
+.left-column-delimiter
+{
+	height:9px;
+	font-size:1px;
+}
+
+#space-for-footer
+{
+	height:35px;
+}
+
+#footer
+{
+	height:35px;
+	overflow:hidden;
+	border-top:1px solid #cccccc;
+}
+
+#copyright
+{
+	float:left;
+	margin-left:19px;
+	padding-top:10px;
+	font-size:11px;
+}
+
+#footer-links
+{
+	float:right;
+	margin-right:19px;
+	padding-top:8px;
+}
+
+#footer-links a
+{
+	font-size:0.9em;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+td.main-page-left-column, td.main-page-center-column
+{
+	border-right:1px solid #dbdbdb;
+	padding-right:10px;
+}
+
+/*Ajax window*/
+div.waitwindow 
+{
+	background-color:#FCF7D1;
+	background-image:url(images/wait.gif);
+	background-position:10px center;
+	background-repeat:no-repeat;
+	border:1px solid #E1B52D;
+	color:black;
+	font-family:Verdana,Arial,sans-serif;
+	font-size:11px;
+	padding:10px;
+	position:absolute;
+	width:170px;
+	z-index:10000;
+	text-align:center;
+}
+
+*{-moz-force-broken-image-icon:1 !important;}
+
+
+.gdheader {font-weight:bold; font-size:14px; padding:8px; color:#000; background:url(images/table-header-separator.gif) bottom repeat-x;}
+.gdparent {border: 0px solid #becfd8; position: relative; background-color: white;}
+
+.gdcorn, .gdbcorn
+{
+	border: 1px solid #E0E0E0
+	height:0px;
+	left:0px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	width:0px;
+}
+
+a.gdremove, a.gdsettings, a.gdhide, a.gdshow, a.gdshow:hover, a.gdremove:hover, a.gdsettings:hover, a.gdhide:hover
+{
+	float:right; 
+	height:31px; 
+	top: 0px;
+	margin-top:-8px; 
+	margin-left:0px; 
+	position: relative;
+	background-position: 0px 0px;
+}
+
+a.gdsettings {background-image:url(images/hidn/01.gif); width:16px; }
+a.gdhide {background-image:url(images/hidn/02.gif);width:18px; }
+a.gdremove {background-image:url(images/hidn/03.gif);width:20px; }
+.gdhided a.gdhide {background-image:url(images/hidn/04.gif);width:18px; background-position: 0px 0px;}
+
+a.gdsettings:hover {background-image:url(images/hidn/over_01.gif);width:16px; }
+a.gdhide:hover {background-image:url(images/hidn/over_02.gif);width:18px; }
+a.gdremove:hover {background-image:url(images/hidn/over_03.gif);width:20px; }
+.gdhided a.gdhide:hover {background-image:url(images/hidn/over_04.gif);width:18px; background-position: 0px 0px;}
+
+.gdnoparams {display:none;}
+
+.gdhided .gdcontent {display:none;}
+
+.gdoptions {padding: 4px; background-color: #E8E8E8;}
+.gdsettrow {margin: 4px; }

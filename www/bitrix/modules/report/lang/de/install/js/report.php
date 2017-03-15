@@ -1,0 +1,6 @@
+<?
+$MESS["REPORT_JS_STATUS_ACTION_SUCCESS"] = "Erfolgreich";
+$MESS["REPORT_JS_STATUS_ACTION_ERROR"] = "Fehlgeschlagen";
+$MESS["REPORT_JS_SHARING_RIGHT_READ"] = "Lesen";
+$MESS["REPORT_JS_SHARING_RIGHT_EDIT"] = "Bearbeiten";
+?>

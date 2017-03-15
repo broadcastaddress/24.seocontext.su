@@ -1,0 +1,1 @@
+<?$arTemplate = Array("NAME"=>"Extranet/Modern template");?>

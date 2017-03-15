@@ -1,0 +1,29 @@
+<?
+$MESS["MB_TASKS_TASK_EDIT_PULLDOWN_PULL"] = "Desliza hacia abajo para actualizar";
+$MESS["MB_TASKS_TASK_EDIT_PULLDOWN_DOWN"] = "Versión para actualizar";
+$MESS["MB_TASKS_TASK_EDIT_PULLDOWN_LOADING"] = "Actualización de datos...";
+$MESS["MB_TASKS_TASK_EDIT_ORIGINATOR"] = "Creado por";
+$MESS["MB_TASKS_TASK_EDIT_RESPONSIBLE"] = "Persona responsable";
+$MESS["MB_TASKS_TASK_EDIT_PRIORITY"] = "Prioridad";
+$MESS["MB_TASKS_TASK_EDIT_PRIORITY_LOW"] = "Bajo";
+$MESS["MB_TASKS_TASK_EDIT_PRIORITY_AVERAGE"] = "Promedio";
+$MESS["MB_TASKS_TASK_EDIT_PRIORITY_HIGH"] = "Alta";
+$MESS["MB_TASKS_TASK_EDIT_ACCOMPLICES"] = "Participantes";
+$MESS["MB_TASKS_TASK_EDIT_AUDITORS"] = "Observadores";
+$MESS["MB_TASKS_TASK_EDIT_DEADLINE"] = "Fecha límite";
+$MESS["MB_TASKS_TASK_EDIT_GROUP"] = "Proyecto";
+$MESS["MB_TASKS_TASK_EDIT_GROUP_NONE"] = "Ningún grupo";
+$MESS["MB_TASKS_TASK_EDIT_PLACEHOLDER_FOR_TITLE"] = "Nombre de la tarea";
+$MESS["MB_TASKS_TASK_EDIT_PLACEHOLDER_FOR_DESCRIPTION"] = "descripción de la tarea";
+$MESS["MB_TASKS_TASK_EDIT_TITLE_NEW_TASK"] = "Nueva tarea";
+$MESS["MB_TASKS_TASK_EDIT_TITLE_EDIT_TASK"] = "Editar tarea ##TASK_ID#";
+$MESS["MB_TASKS_TASK_EDIT_BTN_CANCEL"] = "Cancelar";
+$MESS["MB_TASKS_TASK_EDIT_BTN_SELECT"] = "Seleccione";
+$MESS["MB_TASKS_TASK_EDIT_BTN_CREATE"] = "Crear";
+$MESS["MB_TASKS_TASK_EDIT_BTN_SAVE"] = "Guardar";
+$MESS["MB_TASKS_TASK_EDIT_BTN_REMOVE"] = "Eliminar";
+$MESS["MB_TASKS_TASK_EDIT_BTN_ADD_ACCOMPLICES"] = "Agregar participantes";
+$MESS["MB_TASKS_TASK_EDIT_BTN_ADD_AUDITORS"] = "Agregara observadores";
+$MESS["MB_TASKS_TASK_EDIT_NO_TITLE"] = "No se especifica el nombre de la tarea.";
+$MESS["MB_TASKS_TASK_EDIT_ERROR"] = "Error";
+?>

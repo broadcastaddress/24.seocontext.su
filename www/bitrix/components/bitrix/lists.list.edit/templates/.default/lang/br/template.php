@@ -1,0 +1,29 @@
+<?
+$MESS["CT_BLLE_TOOLBAR_LIST_TITLE"] = "Visualizar e editar os elementos da lista";
+$MESS["CT_BLLE_TOOLBAR_FIELDS"] = "Listar Campos";
+$MESS["CT_BLLE_TOOLBAR_FIELDS_TITLE"] = "Configurar campos da lista";
+$MESS["CT_BLLE_TAB_EDIT"] = "Configurações";
+$MESS["CT_BLLE_TAB_EDIT_TITLE"] = "Parâmetros gerais de lista";
+$MESS["CT_BLLE_FIELD_NAME"] = "Nome da lista";
+$MESS["CT_BLLE_FIELD_SORT"] = "Ordenar";
+$MESS["CT_BLLE_FIELD_PICTURE"] = "Imagem";
+$MESS["CT_BLLE_TAB_MESSAGES"] = "Títulos";
+$MESS["CT_BLLE_TAB_MESSAGES_TITLE"] = "Títulos para seções e elementos da lista";
+$MESS["CT_BLLE_FIELD_ELEMENTS_NAME"] = "Elementos";
+$MESS["CT_BLLE_FIELD_ELEMENT_NAME"] = "Elemento";
+$MESS["CT_BLLE_FIELD_ELEMENT_ADD"] = "Adicionar Elemento";
+$MESS["CT_BLLE_FIELD_ELEMENT_EDIT"] = "Editar Elemento";
+$MESS["CT_BLLE_FIELD_ELEMENT_DELETE"] = "Excluir Elemento";
+$MESS["CT_BLLE_FIELD_SECTIONS_NAME"] = "Seções";
+$MESS["CT_BLLE_FIELD_SECTION_NAME"] = "Seção";
+$MESS["CT_BLLE_FIELD_SECTION_ADD"] = "Adicionar Seção";
+$MESS["CT_BLLE_FIELD_SECTION_EDIT"] = "Editar Seção";
+$MESS["CT_BLLE_FIELD_SECTION_DELETE"] = "Excluir Seção";
+$MESS["CT_BLLE_TAB_ACCESS"] = "Acesso";
+$MESS["CT_BLLE_TAB_ACCESS_TITLE"] = "Gerenciar permissões de acesso das seções e elementos da lista";
+$MESS["CT_BLLE_ACCESS_RIGHTS"] = "Grupos de usuários autorizados a acessarem a lista";
+$MESS["CT_BLLE_TOOLBAR_DELETE"] = "Excluir Lista";
+$MESS["CT_BLLE_TOOLBAR_DELETE_TITLE"] = "Excluir a lista e todas as informações associadas";
+$MESS["CT_BLLE_TOOLBAR_DELETE_WARNING"] = "Tem certeza de que quer excluir esta lista?";
+$MESS["CT_BLLE_FIELD_BIZPROC"] = "Ativar Processos de Negócios";
+?>

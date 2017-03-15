@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_ACTIVITY_LIST_ROW_COUNT"] = "Total: #ROW_COUNT#";
+$MESS["CRM_ACTIVITY_LIST_REBUILD_ACT_STATISTICS_NOT_REQUIRED_SUMMARY"] = "No activity statistics need to be updated.";
+$MESS["CRM_ACTIVITY_LIST_REBUILD_ACT_STATISTICS_PROGRESS_SUMMARY"] = "Activities processed: #PROCESSED_ITEMS# of #TOTAL_ITEMS#.";
+$MESS["CRM_ACTIVITY_LIST_REBUILD_ACT_STATISTICS_COMPLETED_SUMMARY"] = "Done processing statistical data for activities. Activities processed: #PROCESSED_ITEMS#.";
+?>

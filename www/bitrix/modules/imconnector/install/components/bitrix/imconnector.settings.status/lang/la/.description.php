@@ -1,0 +1,5 @@
+<?
+$MESS["IMCONNECTOR_COMPONENT_GROUP_NAME"] = "Conectores de IM";
+$MESS["IMCONNECTOR_COMPONENT_SETTINGS_STATUS_NAME_COMPONENT"] = "Estado del conector";
+$MESS["IMCONNECTOR_COMPONENT_SETTINGS_STATUS_DESCRIPTION_COMPONENT"] = "Este componente muestra el estado de configuración de conector";
+?>

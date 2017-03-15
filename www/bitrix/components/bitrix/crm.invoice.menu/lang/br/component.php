@@ -1,0 +1,35 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "O módulo de CRM não está instalado. ";
+$MESS["CRM_PERMISSION_DENIED"] = "Acesso negado";
+$MESS["INVOICE_ADD"] = "Criar fatura";
+$MESS["INVOICE_ADD_TITLE"] = "Criar fatura";
+$MESS["INVOICE_COPY"] = "Copiar";
+$MESS["INVOICE_COPY_TITLE"] = "Copiar fatura";
+$MESS["INVOICE_ADD_ACTIVITY"] = "Adicionar";
+$MESS["INVOICE_ADD_ACTIVITY_TITLE"] = "Adicionar";
+$MESS["INVOICE_EDIT"] = "Editar";
+$MESS["INVOICE_EDIT_TITLE"] = "Editar fatura";
+$MESS["INVOICE_SHOW"] = "Visualizar";
+$MESS["INVOICE_SHOW_TITLE"] = "Visualizar fatura";
+$MESS["INVOICE_PAYMENT_HTML"] = "Imprimir";
+$MESS["INVOICE_PAYMENT_HTML_TITLE"] = "Imprimir";
+$MESS["INVOICE_PAYMENT_PDF"] = "Visualizar PDF";
+$MESS["INVOICE_PAYMENT_PDF_TITLE"] = "Visualizar fatura em PDF";
+$MESS["INVOICE_PAYMENT_EMAIL"] = "Enviar e-mail";
+$MESS["INVOICE_PAYMENT_EMAIL_TITLE"] = "Enviar fatura por e-mail";
+$MESS["INVOICE_DELETE"] = "Deletar fatura";
+$MESS["INVOICE_DELETE_TITLE"] = "Deletar fatura";
+$MESS["INVOICE_DELETE_DLG_TITLE"] = "Deletar fatura";
+$MESS["INVOICE_DELETE_DLG_MESSAGE"] = "Você tem certeza que deseja deletar este item?";
+$MESS["INVOICE_DELETE_DLG_BTNTITLE"] = "Deletar";
+$MESS["INVOICE_LIST"] = "Faturas";
+$MESS["INVOICE_LIST_TITLE"] = "Faturas";
+$MESS["INVOICE_EXPORT_CSV"] = "Exportar faturas para CSV";
+$MESS["INVOICE_EXPORT_CSV_TITLE"] = "Exportar faturas para CSV";
+$MESS["INVOICE_EXPORT_EXCEL"] = "Exportar faturas para o Excel";
+$MESS["INVOICE_EXPORT_EXCEL_TITLE"] = "Exportar faturas para o Excel";
+$MESS["INVOICE_PAYMENT_HTML_BLANK"] = "Imprimir fatura simples";
+$MESS["INVOICE_PAYMENT_HTML_BLANK_TITLE"] = "Imprimir fatura sem carimbo ou assinaturas";
+$MESS["INVOICE_PAYMENT_PDF_BLANK"] = "Baixar PDF de fatura simples";
+$MESS["INVOICE_PAYMENT_PDF_BLANK_TITLE"] = "Baixar PDF da fatura sem carimbo ou assinaturas";
+?>

@@ -1,0 +1,13 @@
+<?
+$MESS["SALE_ORDER_ENTITY_ID"] = "ID";
+$MESS["SALE_ORDER_ENTITY_DATE_INSERT"] = "Дата замовлення";
+$MESS["SALE_ORDER_ENTITY_DATE_INS"] = "Дата замовлення";
+$MESS["SALE_ORDER_ENTITY_PRODUCTS_QUANT"] = "Кількість товару";
+$MESS["SALE_ORDER_ENTITY_TAX_VALUE"] = "Податки";
+$MESS["SALE_ORDER_ENTITY_PRICE_DELIVERY"] = "Доставка";
+$MESS["SALE_ORDER_ENTITY_DISCOUNT_ALL"] = "Знижка";
+$MESS["SALE_ORDER_ENTITY_PRICE"] = "Сума";
+$MESS["SALE_ORDER_ENTITY_PAYED"] = "Замовлення оплачене";
+$MESS["SALE_ORDER_ENTITY_SUM_PAID_FORREP"] = "Оплачено";
+$MESS["SALE_ORDER_ENTITY_LID"] = "Магазин";
+?>

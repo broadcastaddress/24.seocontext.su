@@ -1,0 +1,30 @@
+<?
+$MESS["F_REAL_IP"] = "/ реальний";
+$MESS["F_ANCHOR"] = "Посилання на це повідомлення";
+$MESS["F_PRIVATE_MESSAGE"] = "Повідомлення";
+$MESS["F_USER_ID_USER"] = "ID користувача";
+$MESS["F_USER_ID"] = "ID відвідувача";
+$MESS["F_POINTS"] = "Балів:";
+$MESS["F_INSERT_NAME"] = "Вставити у відповідь ім'я";
+$MESS["F_EDIT_HEAD"] = "Змінено:";
+$MESS["F_EDIT"] = "змінити";
+$MESS["F_EDIT_TOPIC"] = "Змінити тему";
+$MESS["F_NAME"] = "Ім'я";
+$MESS["F_REPLY"] = "Відповісти";
+$MESS["F_NO_VOTE_DO"] = "Віддати голос";
+$MESS["F_PRIVATE_MESSAGE_TITLE"] = "Надіслати повідомлення автору";
+$MESS["F_EMAIL_TITLE"] = "Надіслати листа на e-mail автора повідомлення";
+$MESS["F_SHOW"] = "Показати";
+$MESS["F_SHOW_TOPIC"] = "Показати тему";
+$MESS["F_ATTACH_FILES"] = "Прикріплені файли";
+$MESS["F_AUTHOR_PROFILE"] = "Профіль автора повідомлення";
+$MESS["F_DATE_REGISTER"] = "Реєстрація:";
+$MESS["F_HIDE"] = "Приховати";
+$MESS["F_HIDE_TOPIC"] = "Приховати тему";
+$MESS["F_NO_VOTE_UNDO"] = "Зняти голос";
+$MESS["F_NUM_MESS"] = "Повідомлень:";
+$MESS["F_DELETE"] = "Видалити";
+$MESS["F_DELETE_TOPIC"] = "Видалити тему";
+$MESS["F_QUOTE"] = "Цитувати";
+$MESS["F_QUOTE_HINT"] = "Для вставки цитати в форму відповіді виділіть її та натисніть сюди";
+?>

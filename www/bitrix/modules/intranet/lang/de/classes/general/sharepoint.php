@@ -1,0 +1,31 @@
+<?
+$MESS["SP_LIST_FIELD_NAME"] = "Name";
+$MESS["SP_LIST_FIELD_SORT"] = "Sortierung";
+$MESS["SP_LIST_FIELD_ACTIVE_FROM"] = "Aktiv von";
+$MESS["SP_LIST_FIELD_ACTIVE_TO"] = "Aktiv bis";
+$MESS["SP_LIST_FIELD_PREVIEW_PICTURE"] = "Vorschaubild";
+$MESS["SP_LIST_FIELD_PREVIEW_TEXT"] = "Vorschautext";
+$MESS["SP_LIST_FIELD_DETAIL_PICTURE"] = "Detailliertes Bild";
+$MESS["SP_LIST_FIELD_DETAIL_TEXT"] = "Detaillierter Text";
+$MESS["SP_LIST_FIELD_DATE_CREATE"] = "Erstellt am";
+$MESS["SP_LIST_FIELD_CREATED_BY"] = "Erstellt von";
+$MESS["SP_LIST_FIELD_TIMESTAMP_X"] = "Geändert am";
+$MESS["SP_LIST_FIELD_MODIFIED_BY"] = "Geändert von";
+$MESS["SP_LIST_FIELD_CREATE_NONE"] = "(Wählen Sie den Feldtyp aus)";
+$MESS["SP_LIST_FIELD_S"] = "Zeile";
+$MESS["SP_LIST_FIELD_N"] = "Zahl";
+$MESS["SP_LIST_FIELD_L"] = "Liste";
+$MESS["SP_LIST_FIELD_F"] = "Datei";
+$MESS["SP_LIST_FIELD_G"] = "An Bereiche binden";
+$MESS["SP_LIST_FIELD_E"] = "An Elemente binden";
+$MESS["SP_IGNORE"] = "(nicht angegeben)";
+$MESS["SP_ERROR_WRONG_IBLOCK_ID"] = "Ungültiger Informationsblock. ";
+$MESS["SP_ERROR_WRONG_SP_LIST_ID"] = "Ungültige Liste-ID.";
+$MESS["SP_ERROR_IBLOCK_EXISTS"] = "Der Informationsblock ist mit einer SharePoint-Liste bereits verlinkt.";
+$MESS["SP_ERROR_LIST_EXISTS"] = "Die SharePoint-Liste ist mit einem Informationsblock bereits verlinkt.";
+$MESS["SP_ERROR_WRONG_URL"] = "Ungültige URL des SharePoint-Servers.";
+$MESS["SP_ERROR_MODULE_NOT_INSTALLED"] = "Das Modul ist nicht installiert.";
+$MESS["SP_ERROR_CLASS_NOT_EXISTS"] = "Die Handler-Klasse existiert nicht.";
+$MESS["SP_ERROR_MAX_ERRORS"] = "Die maximal zugelassene Anzahl der Fehler des Services ist überschritten.";
+$MESS["SP_ERROR_METHOD_NOT_EXISTS"] = "Der Client #CLASS# unterstützt nicht die Methode #METHOD#.";
+?>

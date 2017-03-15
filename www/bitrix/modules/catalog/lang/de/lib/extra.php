@@ -1,0 +1,5 @@
+<?
+$MESS["EXTRA_ENTITY_ID_FIELD"] = "ID des Aufschlags";
+$MESS["EXTRA_ENTITY_NAME_FIELD"] = "Name";
+$MESS["EXTRA_ENTITY_PERCENTAGE_FIELD"] = "Betrag";
+?>

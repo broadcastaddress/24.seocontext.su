@@ -1,0 +1,5 @@
+<?
+$MESS["CRM_LEAD_LIST_REBUILD_DUPLICATE_INDEX_COMPLETED_SUMMARY"] = "Lead duplicadas foram re-indexado. Itens processados: #PROCESSED_ITEMS#.";
+$MESS["CRM_LEAD_LIST_REBUILD_DUPLICATE_INDEX_PROGRESS_SUMMARY"] = "Leads processados: #PROCESSED_ITEMS# of #TOTAL_ITEMS#.";
+$MESS["CRM_LEAD_LIST_REBUILD_DUPLICATE_INDEX_NOT_REQUIRED_SUMMARY"] = "Lead duplicada index não precisa ser recriado.";
+?>

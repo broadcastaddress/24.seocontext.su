@@ -1,0 +1,10 @@
+.bx-messenger-box { width: 100%!important; }
+.bx-messenger-box-contact { display: none!important; }
+.bx-messenger-box-dialog { margin-left:0!important; transition: none; }
+.bx-messenger-textarea:before {  content: "";  height: 3px;  width: 110%;  background: rgba(0, 0, 0, 0) linear-gradient(to right, #2fc7f7 0%, #35e8f6 50%, #7ce3a7 74%, #bcf664 100%) repeat scroll 0 0;  position: absolute;  margin-left: -20px;  margin-top: -10px;  }
+.bx-messenger-panel {opacity: 0}
+.bx-messenger-textarea-resize { background: transparent; }
+.bx-desktop-tab-content-im { padding:0; }
+.bx-messenger-textarea-input { font-size: 14px;}
+.bx-desktop-appearance-menu { display: none; }
+.bx-desktop-appearance-content { margin-left: 0; }

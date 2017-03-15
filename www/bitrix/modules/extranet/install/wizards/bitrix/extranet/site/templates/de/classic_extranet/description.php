@@ -1,0 +1,1 @@
+<?$arTemplate = Array("NAME"=>"Extranet/Klassisch", "DESCRIPTION"=>"Template mit einer festen Breite");?>

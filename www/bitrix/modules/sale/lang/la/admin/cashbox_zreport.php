@@ -1,0 +1,29 @@
+<?
+$MESS["SALE_ACCESS_DENIED"] = "Acceso denegado.";
+$MESS["SALE_CASHBOX_ZREPORT_TITLE"] = "Z Informes";
+$MESS["SALE_F_CASHBOX"] = "Cajas registradoras";
+$MESS["SALE_Z_REPORT_CREATE"] = "Creado el ";
+$MESS["SALE_YES"] = "Si";
+$MESS["SALE_NO"] = "No";
+$MESS["SALE_CASHBOX_ZREPORT_ID"] = "ID";
+$MESS["SALE_CASHBOX_ZREPORT_CASHBOX_ID"] = "nombre de la caja registradora";
+$MESS["SALE_CASHBOX_ACTIVE"] = "Activo";
+$MESS["SALE_CASHBOX_ZREPORT_DATE_CREATE"] = "Creado el";
+$MESS["SALE_CASHBOX_ZREPORT_CASH_SUM"] = "Cantidad en efectivo";
+$MESS["SALE_CASHBOX_ZREPORT_CASHLESS_SUM"] = "Importe de transacción";
+$MESS["SALE_CASHBOX_CALCULATE_SUM"] = "Total diario";
+$MESS["SALE_CASHBOX_CUMULATIVE_SUM"] = "Total acumulado";
+$MESS["SALE_CASHBOX_RETURNED_SUM"] = "Totales de devoluciones";
+$MESS["SALE_CASHBOX_EDIT"] = "Editar";
+$MESS["SALE_CASHBOX_EDIT_DESCR"] = "Editar los parámetros de la caja registradora";
+$MESS["SALE_CASHBOX_DELETE"] = "Eliminar";
+$MESS["SALE_CASHBOX_DELETE_DESCR"] = "Eliminar";
+$MESS["SALE_ZREPORT_FRAME_TITLE_1"] = "Total acumulado por informes Z";
+$MESS["SALE_ZREPORT_FRAME_TITLE_2"] = "Total por recibos (día actual)";
+$MESS["SALE_ZREPORT_FRAME_TITLE_3"] = "Total por recibos de transacción (día actual)";
+$MESS["SALE_ZREPORT_FRAME_RETURN"] = "Devoluciones";
+$MESS["SALE_CASHBOX_NOT_CONNECTED"] = "La caja registradora no está conectada.";
+$MESS["SALE_CASHBOX_ADD_NEW_ZREPORT"] = "Agregar nuevo informe Z";
+$MESS["CASHBOX_CREATE_ZREPORT_WINDOW_TITLE"] = "Nuevo informe Z";
+$MESS["CASHBOX_CREATE_ZREPORT_WINDOW_INFO"] = "Seleccione la caja registradora para agregar un informe Z";
+?>

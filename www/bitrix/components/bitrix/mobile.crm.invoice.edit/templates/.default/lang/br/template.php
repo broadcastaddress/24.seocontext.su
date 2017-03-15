@@ -1,0 +1,31 @@
+<?
+$MESS["M_CRM_INVOICE_EDIT_PULL_TEXT"] = "Puxe para atualizar";
+$MESS["M_CRM_INVOICE_EDIT_DOWN_TEXT"] = "Solte para atualizar";
+$MESS["M_CRM_INVOICE_EDIT_LOAD_TEXT"] = "Atualizando formulário";
+$MESS["M_CRM_INVOICE_EDIT_CREATE_TITLE"] = "Criar fatura";
+$MESS["M_CRM_INVOICE_EDIT_UPDATE_TITLE"] = "Editar negócio";
+$MESS["M_CRM_INVOICE_EDIT_SECTION_GENERAL"] = "Informações da fatura";
+$MESS["M_CRM_INVOICE_EDIT_FIELD_HINT_REQUIRED"] = "Campo obrigatório";
+$MESS["M_CRM_INVOICE_EDIT_FIELD_TOPIC"] = "Tópico";
+$MESS["M_CRM_INVOICE_EDIT_DATE_BILL"] = "Fatura criada em";
+$MESS["M_CRM_INVOICE_EDIT_DATE_PAY_BEFORE"] = "Pagar antes";
+$MESS["M_CRM_INVOICE_EDIT_DEAL"] = "Negócio ";
+$MESS["M_CRM_INVOICE_EDIT_CLIENT"] = "Cliente";
+$MESS["M_CRM_INVOICE_EDIT_PAYER_INFO"] = "Informações do pagante";
+$MESS["M_CRM_INVOICE_EDIT_LOCATION"] = "Localização";
+$MESS["M_CRM_INVOICE_EDIT_PAY_SYSTEM"] = "Método de pagamento";
+$MESS["M_CRM_INVOICE_EDIT_CURRENCY"] = "Moeda";
+$MESS["M_CRM_INVOICE_EDIT_FIELD_RESPONSIBLE"] = "Responsável";
+$MESS["M_CRM_INVOICE_EDIT_MANAGER_COMMENTS"] = "Comentário do representante de vendas";
+$MESS["M_CRM_INVOICE_EDIT_USER_COMMENTS"] = "Memo na fatura";
+$MESS["M_CRM_INVOICE_EDIT_NOT_SPECIFIED"] = "não especificados";
+$MESS["M_CRM_INVOICE_EDIT_CREATE_BTN"] = "Criar";
+$MESS["M_CRM_INVOICE_EDIT_UPDATE_BTN"] = "Salvar";
+$MESS["M_CRM_INVOICE_EDIT_CANCEL_BTN"] = "Cancelar";
+$MESS["M_CRM_INVOICE_EDIT_USER_SELECTOR_CANCEL_BTN"] = "Cancelar";
+$MESS["M_CRM_INVOICE_EDIT_USER_SELECTOR_OK_BTN"] = "Selecionar";
+$MESS["M_CRM_INVOICE_EDIT_ADD_PRODUCT"] = "#NOME?";
+$MESS["M_CRM_INVOICE_EDIT_SUM_TOTAL"] = "Total";
+$MESS["M_CRM_INVOICE_EDIT_PRODUCT_ROW_TEMPLATE"] = "#PRODUCT_NAME#<br/><strong>- #QUANTITY# pcs</strong> a <strong>#FORMATTED_PRICE#</strong>";
+$MESS["M_CRM_INVOICE_EDIT_SUM_BRUTTO"] = "Montante total";
+?>

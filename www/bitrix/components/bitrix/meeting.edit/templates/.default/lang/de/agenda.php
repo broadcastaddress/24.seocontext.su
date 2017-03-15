@@ -1,0 +1,29 @@
+<?
+$MESS["ME_AGENDA"] = "Agenda";
+$MESS["ME_PROTO"] = "Protokoll";
+$MESS["ME_PROTO_OUTSIDE"] = "Themen außerhalb der Agenda";
+$MESS["ME_PROTO_ADD"] = "Einen Punkt zum Protokoll hinzufügen";
+$MESS["ME_AGENDA_ADD"] = "Thema hinzufügen";
+$MESS["ME_AGENDA_ADD_DESCRIPTION"] = "Beschreibung hinzufügen";
+$MESS["ME_AGENDA_TASK"] = "Aufgabe";
+$MESS["ME_AGENDA_ADD_TASK"] = "Zur Aufgabe machen";
+$MESS["ME_AGENDA_TASK_ADDED"] = "Angebundene Aufgabe";
+$MESS["ME_AGENDA_DEADLINE_DEFAULT"] = "Deadline";
+$MESS["ME_AGENDA_REPORT"] = "Bericht";
+$MESS["ME_AGENDA_HIDE_COMMENTS"] = "Kommentar ausblenden";
+$MESS["ME_AGENDA_CONFIRM_AGENDA"] = "Soll dieser Punkt aus der Agenda entfernt werden?";
+$MESS["ME_AGENDA_CONFIRM_PROTO"] = "Soll dieser Punkt aus dem Protokoll entfernt werden?";
+$MESS["ME_TASK_ADD"] = "Aus der Aufgabe hinzufügen";
+$MESS["ME_ADD_EX"] = "Aus der Besprechung hinzufügen";
+$MESS["ME_AGENDA_TT_DRAG"] = "Themen tauschen";
+$MESS["ME_AGENDA_TT_SHIFT"] = "Themen neu einordnen";
+$MESS["ME_AGENDA_TT_ADDSUB"] = "Unterpunkt hinzufügen";
+$MESS["ME_AGENDA_TT_TASKS_C"] = "Angehängte Aufgaben";
+$MESS["ME_AGENDA_TT_COMMENTS_C"] = "Kommentare";
+$MESS["ME_AGENDA_TT_DELETE"] = "Löschen";
+$MESS["ME_AGENDA_TT_EDIT"] = "Bearbeiten";
+$MESS["ME_AGENDA_TT_SAVE"] = "Speichern";
+$MESS["ME_AGENDA_TT_CANCEL"] = "Abbrechen";
+$MESS["ME_AGENDA_TT_CHECK"] = "Als abgeschlossen markieren";
+$MESS["ME_AGENDA_NO_RESPONSIBLE"] = "(nicht angegeben)";
+?>

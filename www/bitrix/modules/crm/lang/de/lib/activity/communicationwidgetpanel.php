@@ -1,0 +1,36 @@
+<?
+$MESS["CRM_COMM_WGT_GROWTH"] = "Wachstum der Kundendatenbank";
+$MESS["CRM_COMM_WGT_COMPANY_GROWTH_COUNT"] = "Anzahl der Unternehmen";
+$MESS["CRM_COMM_WGT_CONTACT_GROWTH_COUNT"] = "Anzahl der Kontakte";
+$MESS["CRM_COMM_WGT_COMMUNICATIONS"] = "Bevorzugter Kommunikationskanal";
+$MESS["CRM_COMM_WGT_PROVIDER_TOTAL_QTY"] = "#PROVIDER_NAME#: Gesamtlast";
+$MESS["CRM_COMM_WGT_PROVIDER_STATUS"] = "#PROVIDER_NAME#: Status";
+$MESS["CRM_COMM_WGT_STREAMS"] = "Streams der Anfragen";
+$MESS["CRM_COMM_WGT_MARKS"] = "Kundenzufriedenheit";
+$MESS["CRM_COMM_WGT_STATUSES"] = "Verarbeitung der Anfragen";
+$MESS["CRM_COMM_WGT_PROVIDER_SUM"] = "#PROVIDER_NAME#: Gesamtbetrag der Bestellungen";
+$MESS["CRM_COMM_WGT_SOURCES"] = "Connector-Last";
+$MESS["CRM_COMM_WGT_MARK_NONE"] = "Ohne Bewertung";
+$MESS["CRM_COMM_WGT_MARK_NEGATIVE"] = "Negativ";
+$MESS["CRM_COMM_WGT_MARK_POSITIVE"] = "Positiv";
+$MESS["CRM_COMM_WGT_MARK_ALL"] = "Alle";
+$MESS["CRM_COMM_WGT_MARK_SOURCE_VK"] = "VK";
+$MESS["CRM_COMM_WGT_MARK_SOURCE_TG"] = "Telegram";
+$MESS["CRM_COMM_WGT_MARK_SOURCE_SK"] = "Skype";
+$MESS["CRM_COMM_WGT_MARK_SOURCE_FB"] = "Facebook";
+$MESS["CRM_COMM_WGT_DEAL_SUCCESS_SUM"] = "Gesamtbetrag der bekommenen Aufträge";
+$MESS["CRM_COMM_WGT_DEAL_PROCESS_SUM"] = "Gesamtbetrag der Aufträge in Arbeit";
+$MESS["CRM_COMM_WGT_DEAL_FAILED_SUM"] = "Gesamtbetrag der nicht bekommenen Aufträge";
+$MESS["CRM_COMM_WGT_PAID_INTIME_COUNT"] = "Rechtzeitig bezahlte Rechnungen";
+$MESS["CRM_COMM_WGT_OVERALL_INVOICES"] = "Erstellte Rechnungen";
+$MESS["CRM_COMM_WGT_FINANCE_INDEX"] = "Verhältnis der rechtzeitig bezahlten Rechnungen";
+$MESS["CRM_COMM_WGT_INVOICES_ACTIVE_SUM"] = "Gesamtbetrag der aktiven Rechnungen";
+$MESS["CRM_COMM_WGT_INVOICES_PAID_SUM"] = "Gesamtbetrag der bezahlten Rechnungen";
+$MESS["CRM_COMM_WGT_INVOICES_WAITING"] = "Noch nicht bezahlt";
+$MESS["CRM_COMM_WGT_DEAL_SUM_PERIOD"] = "Gesamtbetrag der Aufträge";
+$MESS["CRM_COMM_WGT_CONVERSION"] = "Konvertierung";
+$MESS["CRM_COMM_WGT_DEALS"] = "Aufträge";
+$MESS["CRM_COMM_WGT_SUCCESS_DEALS"] = "Aufträge bekommen";
+$MESS["CRM_COMM_WGT_PAID_INVOICES"] = "Rechnungen bezahlt";
+$MESS["CRM_COMM_WGT_PAYMENTS"] = "Zahlungen";
+?>

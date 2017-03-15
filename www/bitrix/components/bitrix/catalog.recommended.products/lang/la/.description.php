@@ -1,0 +1,6 @@
+<?
+$MESS["CATALOG_RECOMMENDED_PRODUCTS_COMPONENT_DEFAULT_TEMPLATE_NAME"] = "Productos recomendados";
+$MESS["CATALOG_RECOMMENDED_PRODUCTS_COMPONENT_DEFAULT_TEMPLATE_DESCRIPTION"] = "Muestra los productos recomendados para un usuario actual";
+$MESS["CP_CATALOG_SERVICES_PARENT_SECTION"] = "Información sobre el producto";
+$MESS["CP_CATALOG_SERVICES_MAIN_SECTION"] = "e-Store";
+?>

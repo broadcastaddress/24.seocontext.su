@@ -1,0 +1,9 @@
+<?
+$MESS["CONFIG_STATISTIC_ENTITY_ID_FIELD"] = "Ідентифікатор";
+$MESS["CONFIG_STATISTIC_ENTITY_CONFIG_ID_FIELD"] = "Ідентифікатор налаштування";
+$MESS["CONFIG_STATISTIC_ENTITY_SESSION_FIELD"] = "Кількість сесій";
+$MESS["CONFIG_STATISTIC_ENTITY_MESSAGE_FIELD"] = "Кількість повідомлень";
+$MESS["CONFIG_STATISTIC_ENTITY_CLOSED_FIELD"] = "Кількість закритих";
+$MESS["CONFIG_STATISTIC_ENTITY_IN_WORK_FIELD"] = "Кількість в роботі";
+$MESS["CONFIG_STATISTIC_ENTITY_LEADS_FIELD"] = "Кількість лідів";
+?>

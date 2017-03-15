@@ -1,0 +1,15 @@
+<?
+$MESS ['CTRL_LOG_DETAIL_CONTROLLER_MEMBER'] = "Client";
+$MESS ['CTRL_LOG_DETAIL_CLOSE'] = "Schießen";
+$MESS ['CTRL_LOG_DETAIL_TIMESTAMP_X'] = "Erstellt";
+$MESS ['CTRL_LOG_DETAIL_DESCRIPTION'] = "Beschreibung";
+$MESS ['CTRL_LOG_DETAIL_STATUS_ERR'] = "Fehler";
+$MESS ['CTRL_LOG_DETAIL_ID'] = "ID";
+$MESS ['CTRL_LOG_DETAIL_TITLE'] = "Protokolleintrag";
+$MESS ['CTRL_LOG_DETAIL_NOT_FOUND'] = "Keine Protokolleinträge gefunden.";
+$MESS ['CTRL_LOG_DETAIL_NAME'] = "Name";
+$MESS ['CTRL_LOG_DETAIL_STATUS'] = "Status";
+$MESS ['CTRL_LOG_DETAIL_STATUS_OK'] = "Erfolg";
+$MESS ['CTRL_LOG_DETAIL_TASK'] = "Aufgabe";
+$MESS ['CTRL_LOG_DETAIL_USER'] = "Benutzer";
+?>

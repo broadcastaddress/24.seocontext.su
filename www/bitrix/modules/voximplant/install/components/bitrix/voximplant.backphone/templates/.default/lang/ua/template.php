@@ -1,0 +1,30 @@
+<?
+$MESS["TELEPHONY_PUT_PHONE"] = "Вказати номер телефону компанії";
+$MESS["TELEPHONY_EMPTY_PHONE"] = "Ви не вказали номер телефону";
+$MESS["TELEPHONY_EMPTY_PHONE_DESC"] = "Абоненти, будуть бачити номер станції, через яку пройде дзвінок";
+$MESS["TELEPHONY_VERIFY_CODE"] = "На вказаний вами номер буде зроблений дзвінок і продиктований код перевірки.";
+$MESS["TELEPHONY_VERIFY_CODE_2"] = "Зараз на вказаний телефон надійде дзвінок і вам буде продиктований код перевірки.";
+$MESS["TELEPHONY_PUT_CODE"] = "Введіть перевірочний код:";
+$MESS["TELEPHONY_WRONG_CODE"] = "Невірний код";
+$MESS["TELEPHONY_EXAMPLE"] = "38 (044) 111-22-33";
+$MESS["TELEPHONY_PHONE"] = "Абоненти будуть бачити такий номер";
+$MESS["TELEPHONY_CONFIRM_PHONE"] = "Ваш номер не підтверджений";
+$MESS["TELEPHONY_CONFIRM"] = "Підтвердити";
+$MESS["TELEPHONY_CANCEL"] = "Скасувати";
+$MESS["TELEPHONY_RETRY"] = "Передзвонити";
+$MESS["TELEPHONY_EDIT"] = "Змінити";
+$MESS["TELEPHONY_OR"] = "або";
+$MESS["TELEPHONY_DELETE"] = "видалити";
+$MESS["TELEPHONY_CONFIRM_DATE"] = "Номер телефону підтверджено, він буде активний до #DATE#, після чого автоматично відключений до повторного його підтвердження. Ви можете продовжити дату чергового підтвердження переприв'язавши номер.";
+$MESS["TELEPHONY_VERIFY_PHONE"] = "Підтвердити вказаний номер";
+$MESS["TELEPHONY_PUT_PHONE_AGAING"] = "Ввести номер заново";
+$MESS["TELEPHONY_VERIFY_CODE_3"] = "У вас є 10 спроб введення перевірочного коду, після чого вказаний номер буде заблокований.";
+$MESS["TELEPHONY_REJOIN"] = "Переприв'язати номер.";
+$MESS["TELEPHONY_JOIN"] = "Прив'язати";
+$MESS["TELEPHONY_JOIN_TEXT"] = "Ви можете змінити номер, видаливши поточний і прив'язавши новий.";
+$MESS["TELEPHONY_RECALL"] = "Повторити дзвінок";
+$MESS["TELEPHONY_DELETE_CONFIRM"] = "Ви впевнені що хочете переприв'язати номер телефону?";
+$MESS["TELEPHONY_ERROR_PHONE"] = "Зазначений не коректний номер, номер потрібно вказувати в міжнародному форматі.";
+$MESS["TELEPHONY_ERROR_BLOCK"] = "Зазначений вами номер заблокований. Зв'яжіться з технічною підтримкою.";
+$MESS["TELEPHONY_ERROR_REMOVE"] = "Помилка відключення номера, будь ласка повторіть спробу пізніше.";
+?>

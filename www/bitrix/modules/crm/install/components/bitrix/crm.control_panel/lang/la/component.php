@@ -1,0 +1,37 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "El módulo CRM no está instalado";
+$MESS["CRM_PERMISSION_DENIED"] = "Acesso denegado";
+$MESS["CRM_CTRL_PANEL_ITEM_MY_ACTIVITY"] = "Actividades";
+$MESS["CRM_CTRL_PANEL_ITEM_COMPANY"] = "Compañías";
+$MESS["CRM_CTRL_PANEL_ITEM_CONTACT"] = "Contactos";
+$MESS["CRM_CTRL_PANEL_ITEM_DEAL"] = "Negociaciones";
+$MESS["CRM_CTRL_PANEL_ITEM_LEAD"] = "Prospectos";
+$MESS["CRM_CTRL_PANEL_ITEM_REPORT"] = "Informes";
+$MESS["CRM_CTRL_PANEL_ITEM_MORE"] = "Más...";
+$MESS["CRM_CTRL_PANEL_ITEM_FUNNEL"] = "Embudo de Ventas";
+$MESS["CRM_CTRL_PANEL_ITEM_EVENT"] = "Eventos";
+$MESS["CRM_CTRL_PANEL_ITEM_CATALOGUE"] = "Catálogo";
+$MESS["CRM_CTRL_PANEL_ITEM_SETTINGS"] = "Configuración";
+$MESS["CRM_CTRL_PANEL_ITEM_MY_ACTIVITY_TITLE"] = "Actividades";
+$MESS["CRM_CTRL_PANEL_ITEM_CONTACT_TITLE"] = "Contactos";
+$MESS["CRM_CTRL_PANEL_ITEM_COMPANY_TITLE"] = "Compañías";
+$MESS["CRM_CTRL_PANEL_ITEM_DEAL_TITLE"] = "Negociaciones";
+$MESS["CRM_CTRL_PANEL_ITEM_LEAD_TITLE"] = "Prospectos";
+$MESS["CRM_CTRL_PANEL_ITEM_REPORT_TITLE"] = "Informes";
+$MESS["CRM_CTRL_PANEL_ITEM_MORE_TITLE"] = "Más";
+$MESS["CRM_CTRL_PANEL_ITEM_CATALOGUE_2"] = "Productos";
+$MESS["CRM_CTRL_PANEL_ITEM_INVOICE"] = "Facturas";
+$MESS["CRM_CTRL_PANEL_ITEM_INVOICE_TITLE"] = "Lista de facturas";
+$MESS["CRM_CTRL_PANEL_ITEM_EVENT_2"] = "Historial";
+$MESS["CRM_CTRL_PANEL_ITEM_STREAM"] = "Flujo";
+$MESS["CRM_CTRL_PANEL_ITEM_STREAM_TITLE"] = "Flujo de actividad en el CRM";
+$MESS["CRM_CTRL_PANEL_ITEM_FUNNEL_BRIEF"] = "Embudo";
+$MESS["CRM_CTRL_PANEL_ITEM_QUOTE"] = "Cotizaciones";
+$MESS["CRM_CTRL_PANEL_ITEM_QUOTE_TITLE"] = "Ver todas las cotizaciones";
+$MESS["CRM_CTRL_PANEL_ITEM_MARKETPLACE"] = "Aplicaciones";
+$MESS["CRM_CTRL_PANEL_ITEM_WEBFORM"] = "Formularios del CRM";
+$MESS["CRM_CTRL_PANEL_ITEM_BUTTON"] = "Icono del sitio web";
+$MESS["CRM_CTRL_PANEL_ITEM_START"] = "Iniciar";
+$MESS["CRM_CTRL_PANEL_ITEM_START_TITLE"] = "Página de inicio que muestra el resumen del canal";
+$MESS["CRM_CTRL_PANEL_ITEM_INVOICING"] = "Estado de cuenta";
+?>

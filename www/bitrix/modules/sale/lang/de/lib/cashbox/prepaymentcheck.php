@@ -1,0 +1,5 @@
+<?
+$MESS["SALE_CASHBOX_PREPAYMENT_DELIVERY"] = "Lieferung";
+$MESS["SALE_CASHBOX_PREPAYMENT_NAME"] = "Vorauszahlung";
+$MESS["SALE_CASHBOX_PREPAYMENT_NO_ITEM_NAME"] = "Vorauszahlung für Bestellung ##ORDER_ID#";
+?>

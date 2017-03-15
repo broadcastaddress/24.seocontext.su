@@ -1,0 +1,16 @@
+<?
+$MESS["SONET_MODULE_NOT_INSTALL"] = "O Módulo de rede social não está instalado";
+$MESS["SONET_C30_DATE_FILTER_NO_NO_NO_1"] = "(não)";
+$MESS["SONET_C30_DATE_FILTER_TODAY"] = "hoje";
+$MESS["SONET_C30_DATE_FILTER_YESTERDAY"] = "ontem";
+$MESS["SONET_C30_DATE_FILTER_WEEK"] = "esta semana";
+$MESS["SONET_C30_DATE_FILTER_WEEK_AGO"] = "semana passada";
+$MESS["SONET_C30_DATE_FILTER_MONTH"] = "este mês";
+$MESS["SONET_C30_DATE_FILTER_MONTH_AGO"] = "mês passado";
+$MESS["SONET_C30_DATE_FILTER_LAST"] = "recente";
+$MESS["SONET_C30_DATE_FILTER_EXACT"] = "exatamente";
+$MESS["SONET_C30_DATE_FILTER_LATER"] = "depois";
+$MESS["SONET_C30_DATE_FILTER_EARLIER"] = "antes";
+$MESS["SONET_C30_DATE_FILTER_INTERVAL"] = "intervalo de data";
+$MESS["SONET_C30_DATE_FILTER_DAYS"] = "dias";
+?>

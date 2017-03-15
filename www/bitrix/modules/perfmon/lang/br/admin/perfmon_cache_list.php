@@ -1,0 +1,36 @@
+<?
+$MESS["PERFMON_CACHE_ID"] = "ID";
+$MESS["PERFMON_CACHE_HIT_ID"] = "acertar";
+$MESS["PERFMON_CACHE_NN"] = "não.";
+$MESS["PERFMON_CACHE_COMPONENT_NAME"] = "componente";
+$MESS["PERFMON_CACHE_MODULE_NAME"] = "modulo";
+$MESS["PERFMON_CACHE_CACHE_SIZE"] = "size";
+$MESS["PERFMON_CACHE_OP_MODE"] = "operações";
+$MESS["PERFMON_CACHE_BASE_DIR"] = "tipo";
+$MESS["PERFMON_CACHE_INIT_DIR"] = "diretorio";
+$MESS["PERFMON_CACHE_FILE_NAME"] = "arquivo";
+$MESS["PERFMON_CACHE_CACHE_PATH"] = "arquivo de cache";
+$MESS["PERFMON_CACHE_TITLE"] = "Monitor de desempenho: Cache";
+$MESS["PERFMON_CACHE_COMPONENT_ID"] = "instância do componente";
+$MESS["PERFMON_CACHE_FIND"] = "Pesquisar";
+$MESS["PERFMON_CACHE_OP_MODE_R"] = "ler";
+$MESS["PERFMON_CACHE_OP_MODE_W"] = "escrever";
+$MESS["PERFMON_CACHE_OP_MODE_C"] = "redefinir";
+$MESS["PERFMON_CACHE_GROUP_NONE"] = "Marromdesagrupado";
+$MESS["PERFMON_CACHE_GROUP_COMP"] = "Grupos por componentes";
+$MESS["PERFMON_CACHE_GROUP_BASE_DIR"] = "grupo por tipo";
+$MESS["PERFMON_CACHE_GROUP_INIT_DIR"] = "grupo por diretorio";
+$MESS["PERFMON_CACHE_GROUP_FILE_NAME"] = "grupo por arquivo";
+$MESS["PERFMON_CACHE_COUNT"] = "operações de cache";
+$MESS["PERFMON_CACHE_COUNT_R"] = "leitura de cache";
+$MESS["PERFMON_CACHE_COUNT_W"] = "escrita de cache";
+$MESS["PERFMON_CACHE_COUNT_C"] = "redefinir cache";
+$MESS["PERFMON_CACHE_MAX_CACHE_SIZE"] = "cache(max)";
+$MESS["PERFMON_CACHE_MIN_CACHE_SIZE"] = "cache(min)";
+$MESS["PERFMON_CACHE_SUM_CACHE_SIZE"] = "cache(total)";
+$MESS["PERFMON_CACHE_AVG_CACHE_SIZE"] = "cache(avg)";
+$MESS["PERFMON_CACHE_HIT_RATIO"] = "Hit rate";
+$MESS["PERFMON_CACHE_MANAGED"] = "gerenciados";
+$MESS["PERFMON_CACHE_UNMANAGED"] = "não gerenciados";
+$MESS["PERFMON_CACHE_PAGE"] = "cache";
+?>

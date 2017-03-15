@@ -1,0 +1,23 @@
+<?
+$MESS["IMOL_CHAT_ERROR_IM_LOAD"] = "Ошибка загрузки модуля Веб-мессенджер";
+$MESS["IMOL_CHAT_ERROR_PULL_LOAD"] = "Ошибка загрузки модуля Push & Pull";
+$MESS["IMOL_CHAT_ERROR_CONNECTOR_LOAD"] = "Ошибка загрузки модуля Коннектора для внешних мессенджеров";
+$MESS["IMOL_CHAT_ERROR_CONNECTOR_SEND"] = "Ошибка отправки сообщения";
+$MESS["IMOL_CHAT_CHAT_NAME_COLOR_GUEST"] = "#COLOR# гость №#NUMBER#";
+$MESS["IMOL_CHAT_CHAT_NAME_GUEST"] = "Гость №#NUMBER#";
+$MESS["IMOL_CHAT_CHAT_NAME"] = "#USER_NAME# - #LINE_NAME#";
+$MESS["IMOL_CHAT_ANSWER_M"] = "#USER# начал работу с диалогом";
+$MESS["IMOL_CHAT_ANSWER_F"] = "#USER# начала работу с диалогом";
+$MESS["IMOL_CHAT_SKIP_M"] = "#USER# отказался от диалога";
+$MESS["IMOL_CHAT_SKIP_F"] = "#USER# отказалась от диалога";
+$MESS["IMOL_CHAT_NEXT_IN_QUEUE"] = "Обращение перенаправлено на #USER_TO# по правилам очереди";
+$MESS["IMOL_CHAT_TO_QUEUE"] = "Обращение перенаправлено по правилам очереди";
+$MESS["IMOL_CHAT_TRANSFER_M"] = "#USER_FROM# переадресовал диалог на #USER_TO#";
+$MESS["IMOL_CHAT_TRANSFER_F"] = "#USER_FROM# переадресовала диалог на #USER_TO#";
+$MESS["IMOL_CHAT_STEALTH_ON"] = "[b]Включен режим скрытой переписки.[/b][br]Все отправленные сообщения не будут видны внешнему собеседнику.";
+$MESS["IMOL_CHAT_STEALTH_OFF"] = "[b]Режим скрытой переписки выключен.[/b][br]Все отправленные сообщения будут видны внешнему собеседнику.";
+$MESS["IMOL_CHAT_LEAD_ADD"] = "В CRM был создан лид \"#LEAD_NAME#\"";
+$MESS["IMOL_CHAT_PIN_ON"] = "Диалог закреплен за вами до #DATE#";
+$MESS["IMOL_CHAT_PIN_OFF"] = "Диалог откреплен.";
+$MESS["IMOL_CHAT_TRANSFER_LINE_M"] = "#USER_FROM# из очереди \"#LINE_FROM#\" переадресовал диалог в очередь \"#LINE_TO#\"";
+$MESS["IMOL_CHAT_TRANSFER_LINE_F"] = "#USER_FROM# из очереди \"#LINE_FROM#\" переадресовала диалог в очередь \"#LINE_TO#\"";

@@ -1,0 +1,2 @@
+<?php
+$MESS['TASKS_COMPONENT_IFRAME_AJAX_TASK_DEFAULT_NAME'] = 'Новая задача';

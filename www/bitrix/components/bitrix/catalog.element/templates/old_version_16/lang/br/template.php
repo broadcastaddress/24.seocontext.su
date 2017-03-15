@@ -1,0 +1,33 @@
+<?
+$MESS["CATALOG_QUANTITY"] = "Quantidade ";
+$MESS["CATALOG_QUANTITY_FROM_TO"] = "de #FROM# para #TO#";
+$MESS["CATALOG_QUANTITY_FROM"] = "#FROM# e mais";
+$MESS["CATALOG_QUANTITY_TO"] = "até #TO#";
+$MESS["CATALOG_PRICE_VAT"] = "impostos incluídos";
+$MESS["CATALOG_PRICE_NOVAT"] = "impostos não incluídos";
+$MESS["CATALOG_VAT"] = "Taxa de imposto";
+$MESS["CATALOG_NO_VAT"] = "não tributados";
+$MESS["CATALOG_VAT_INCLUDED"] = "Taxa de imposto incluído no preço";
+$MESS["CATALOG_VAT_NOT_INCLUDED"] = "Taxa de imposto não incluído no preço";
+$MESS["CT_BCE_QUANTITY"] = "Quantidade ";
+$MESS["CT_BCE_CATALOG_BUY"] = "Comprar ";
+$MESS["CT_BCE_CATALOG_ADD"] = "Adicionar ao carrinho ";
+$MESS["CT_BCE_CATALOG_COMPARE"] = "Compare";
+$MESS["CT_BCE_CATALOG_NOT_AVAILABLE"] = "Não disponível no estoque";
+$MESS["OSTATOK"] = "Quantidade em estoque";
+$MESS["COMMENTARY"] = "Comentários";
+$MESS["ECONOMY_INFO"] = "(Poupança - #ECONOMY#)";
+$MESS["FULL_DESCRIPTION"] = "A inscrição completa";
+$MESS["CT_BCE_CATALOG_TITLE_ERROR"] = "Erro";
+$MESS["CT_BCE_CATALOG_TITLE_BASKET_PROPS"] = "Propriedades do item para passar à lista de compras";
+$MESS["CT_BCE_CATALOG_BASKET_UNKNOWN_ERROR"] = "Erro desconhecido, adicionar um item ao carrinho de compras";
+$MESS["CT_BCE_CATALOG_BTN_SEND_PROPS"] = "Selecionar";
+$MESS["CT_BCE_CATALOG_BTN_MESSAGE_CLOSE"] = "Fechar";
+$MESS["CATALOG_NOVINKA"] = "Novo";
+$MESS["CATALOG_ADD_TO_BASKET"] = "Adicionar ao carrinho ";
+$MESS["CATALOG_MORE_PHOTO"] = "Mais fotos";
+$MESS["CATALOG_DOWNLOAD"] = "Download";
+$MESS["CATALOG_BACK"] = "Voltar à seção";
+$MESS["CATALOG_BUY"] = "Comprar";
+$MESS["CATALOG_NOT_AVAILABLE"] = "(Não disponível em estoque)";
+?>

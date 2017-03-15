@@ -1,0 +1,10 @@
+.ol-stat-grid-wrap .bx-interface-grid td{vertical-align: middle;}
+.ol-stat-user-img.user-avatar {
+	background-position: 0 -1312px;
+	display: inline-block;
+	height: 30px;
+	margin-right: 11px;
+	vertical-align: middle;
+	width: 30px;
+	float:none;
+}

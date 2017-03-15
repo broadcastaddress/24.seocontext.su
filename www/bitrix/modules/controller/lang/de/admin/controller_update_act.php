@@ -1,0 +1,31 @@
+<?
+$MESS ['SUPA_ASTE_FLAG'] = "Kann den Beta-Version Installationsmodus nicht erkennen";
+$MESS ['SUPA_ASE_SOURCES'] = "Der Quellcode kann nicht downloadet werden";
+$MESS ['SUPA_ASE_PACK'] = "Die Dateien können nicht extrahieret werden";
+$MESS ['SUPA_ASE_NO_LIST'] = "Die Modulliste kann nicht abgerufen werden";
+$MESS ['SUP_CANT_OPEN_FILE'] = "Die Datei ist schreibgeschützt";
+$MESS ['SUPA_AUE_UPD'] = "Fehler beim Versuch, den SiteUpdate zu aktualisieren";
+$MESS ['SUPA_ACE_ACT'] = "Fehler beim Aktivierungsversuch des Coupons";
+$MESS ['SUPA_ASE_CHECK'] = "Fehler bei der Dateiüberprüfung";
+$MESS ['SUPA_AERR_LOGIN1'] = "Loginname auf <a href=\"http://www.bitrixsoft.com\">www.bitrixsoft.com</a> muss mindestens drei Zeichen enthalten.";
+$MESS ['SUPA_ASE_UPD'] = "Fehler beim Modulupdate";
+$MESS ['SUPA_AERR_EMAIL1'] = "Bitte prüfen Sie die Richtigkeit der E-Mail-Adresse";
+$MESS ['SUPA_AERR_CONTACT_EMAIL1'] = "Bitte prüfen Sie die Richtigkeit der E-Mail-Adresse der Kontaktperson";
+$MESS ['SUP_ENTER_CORRECT_KEY'] = "Bitte geben Sie den richtigen Lizenzschlüssel ein";
+$MESS ['SUPA_AERR_URI'] = "Bitte geben Sie die Site-URL, die mit diesem Lizenzschlüssel laufen wird.";
+$MESS ['SUPA_AERR_EMAIL'] = "Bitte geben Sie die Kontakt-E-Mail an";
+$MESS ['SUPA_AERR_FNAME'] = "Vorname für den Account auf der Seite <a href=\"http://www.bitrixsoft.com\" target=\"_blank\">www.bitrixsoft.com</a> wurde nicht angegeben.";
+$MESS ['SUPA_AERR_LNAME'] = "Nachname des Account-Eigentümers auf <a href=\"http://www.bitrixsoft.com\" target=\"_blank\">www.bitrixsoft.com</a> wurde nicht definiert";
+$MESS ['SUPA_AERR_LOGIN'] = "Bitte geben Sie das Login für die Verwendung auf <a href=\"http://www.bitrixsoft.com\">www.bitrixsoft.com</a>";
+$MESS ['SUPA_AERR_NAME'] = "Bitte geben Sie den Namen der Firma an, die den Schlüssel besitzt";
+$MESS ['SUPA_AERR_PASSW'] = "Bitte geben Sie das Passwort für die Verwendung auf <a href=\"http://www.bitrixsoft.com\">www.bitrixsoft.com</a>";
+$MESS ['SUP_ENTER_KEY'] = "Bitte geben Sie Ihren Lizenzschlüssel ein";
+$MESS ['SUPA_AERR_CONTACT_EMAIL'] = "Geben Sie die E-Mail-Adresse der Kontaktperson ein";
+$MESS ['SUPA_AERR_CONTACT_PERSON'] = "Geben Sie den Vor- und Nachnamen der Kontaktperson ein.";
+$MESS ['SUPA_AERR_CONTACT_PHONE'] = "Geben Sie die Telefonnummer der Kontaktperson ein";
+$MESS ['SUPA_AERR_PHONE'] = "Geben Sie die Telefonnummer des Produkteigentümers ein";
+$MESS ['SUPA_AME_SUBSCR'] = "Fehler beim Abonnieren";
+$MESS ['SUPA_ACE_CPN'] = "Der Gutscheincode für die Aktivierung wurde nicht angegeben";
+$MESS ['SUPA_AERR_PASSW_CONF'] = "Das Passwort und die Passworbestätigung sind nicht identisch";
+$MESS ['SUPA_AME_EMAIL'] = "E-Mail Adresse für das Abonnement wurde nicht angegeben";
+?>

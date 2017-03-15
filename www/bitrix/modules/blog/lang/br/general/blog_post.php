@@ -1,0 +1,29 @@
+<?
+$MESS["BLG_GP_EMPTY_TITLE"] = "O título da mensagem não está especificado";
+$MESS["BLG_GP_EMPTY_DETAIL_TEXT"] = "O texto da mensagem está vazio";
+$MESS["BLG_GP_EMPTY_BLOG_ID"] = "A mensagem do blog não está especificada";
+$MESS["BLG_GP_ERROR_NO_BLOG"] = "O blog com a ID '#ID#' não foi encontrado";
+$MESS["BLG_GP_EMPTY_AUTHOR_ID"] = "O autor da mensagem não está especificado";
+$MESS["BLG_GP_ERROR_NO_AUTHOR"] = "A ID do autor da mensagem está incorreta";
+$MESS["BLG_GP_ERROR_DATE_CREATE"] = "A data de criação da mensagem está incorreta";
+$MESS["BLG_GP_ERROR_DATE_PUBLISH"] = "A data de publicação da mensagem está incorreta";
+$MESS["BLG_GP_ERROR_ATTACH_IMG"] = "A imagem anexada está incorreta";
+$MESS["BLG_SONET_TITLE"] = "adicionou o post \"#TITLE#\" no blog";
+$MESS["BLG_GP_CODE_EXIST"] = "Um post do blog com o código <b>#CODE#</b> já existe. Por favor, mude o endereço do post. ";
+$MESS["BLG_GP_RESERVED_CODE"] = "O post não pode ter um código <b>#CODE#</b>. Por favor, mude o endereço do post. ";
+$MESS["BLG_GP_IM_1"] = "enviou para você a mensagem \"#title#\"";
+$MESS["BLG_GP_IM_4"] = "adicionou um comentário em \"#title#\"";
+$MESS["BLG_GP_IM_5"] = "adicionou um comentário em sua conversa \"#title#\"";
+$MESS["BLG_GP_IM_6"] = "mencionou você na conversa \"#title#\"";
+$MESS["BLG_GP_IM_7"] = "mencionou você em um comentário da conversa \"#title#\"";
+$MESS["SONET_IM_NEW_POST"] = "Uma nova mensagem #title# foi adicionada ao grupo #group_name#.";
+$MESS["BLG_GP_IM_1_FEMALE"] = "dirigiu uma mensagem para você \"#title#\"";
+$MESS["BLG_GP_IM_4_FEMALE"] = "deixou um comentário em \"#title#\"";
+$MESS["BLG_GP_IM_5_FEMALE"] = "deixou um comentário no seu post \"#title#\"";
+$MESS["BLG_GP_IM_6_FEMALE"] = "mencionou você em \"#title#\"";
+$MESS["BLG_GP_IM_7_FEMALE"] = "mencionou você no comentário em \"#title#\"";
+$MESS["BLG_GP_IM_8"] = "compartilhou seu post \"#title#\" com outros usuários";
+$MESS["BLG_GP_IM_8_FEMALE"] = "compartilhou seu post \"#title#\" com outros usuários";
+$MESS["BLG_GP_IM_9"] = "Compartilhou o post \"#title#\" com você.";
+$MESS["BLG_GP_IM_9_FEMALE"] = "Compartilhou o post \"#title#\" com você.";
+?>

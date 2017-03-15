@@ -1,0 +1,7 @@
+<?
+$MESS["BOTTOM_MENU_PRINT_VERSION"] = "Druckversion";
+$MESS["BOTTOM_MENU_CONTACTS"] = "Kontakt";
+$MESS["BOTTOM_MENU_SEARCH"] = "Suchen";
+$MESS["BOTTOM_MENU_MAP"] = "Sitemap";
+$MESS["BOTTOM_MENU_HELP"] = "Help";
+?>

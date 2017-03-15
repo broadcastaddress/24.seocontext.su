@@ -1,0 +1,5 @@
+<?
+$MESS["CRM_DATA_CONTEXT_ENTITY"] = "Menge";
+$MESS["CRM_DATA_CONTEXT_FUND"] = "Betrag";
+$MESS["CRM_DATA_CONTEXT_PERCENT"] = "Prozent";
+?>

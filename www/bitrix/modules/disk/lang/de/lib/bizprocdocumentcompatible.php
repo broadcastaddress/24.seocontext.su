@@ -1,0 +1,37 @@
+<?
+$MESS["DISK_BZ_D_FIELD_ID"] = "Datei-ID";
+$MESS["DISK_BZ_D_FIELD_CREATE_TIME"] = "Datei erstellt am (Datum und Uhrzeit):";
+$MESS["DISK_BZ_D_FIELD_CREATED_BY"] = "Erstellt von:";
+$MESS["DISK_BZ_D_FIELD_UPDATE_TIME"] = "Datei geändert am (Datum und Uhrzeit):";
+$MESS["DISK_BZ_D_FIELD_UPDATED_BY"] = "Geändert von:";
+$MESS["DISK_BZ_D_FIELD_DELETE_TIME"] = "Datei gelöscht am (Datum und Uhrzeit):";
+$MESS["DISK_BZ_D_FIELD_DELETED_BY"] = "Gelöscht von:";
+$MESS["DISK_BZ_D_IDENTIFICATOR"] = "(ID)";
+$MESS["DISK_BZ_D_NAME_LASTNAME"] = "(Vor- und Nachname)";
+$MESS["DISK_BZ_D_FIELD_STORAGE_ID"] = "Speicher";
+$MESS["DISK_BZ_D_FIELD_NAME"] = "Dateiname";
+$MESS["DISK_BZ_D_FIELD_SIZE"] = "Dateigröße";
+$MESS["DISK_BZ_D_FIELD_CODE"] = "Mnemonischer Code";
+$MESS["DISK_BZ_D_FIELD_FILE"] = "Datei";
+$MESS["DISK_BZ_D_AUTHOR"] = "Erstellt von";
+$MESS["DISK_IBD_DOCUMENT_XFORMOPTIONS1"] = "Jede Variante muss in einer neuen Zeile angegeben werden. Unterscheidet sich der Wert der Variante von der Bezeichnung,  muss er in den eckigen Klammern vor der Bezeichnung angegeben werden. Z.B.: [v1]Variante 1.";
+$MESS["DISK_IBD_DOCUMENT_XFORMOPTIONS2"] = "Wenn Sie alles ausgefüllt haben, klicken Sie auf \"Einstellen\"";
+$MESS["DISK_IBD_DOCUMENT_XFORMOPTIONS3"] = "Einstellen";
+$MESS["DISK_FILED_NOT_SET"] = "nicht eingestellt";
+$MESS["DISK_DOC_TYPE_STRING"] = "Zeile";
+$MESS["DISK_DOC_TYPE_TEXT"] = "Text";
+$MESS["DISK_DOC_TYPE_DOUBLE"] = "Zahl";
+$MESS["DISK_DOC_TYPE_INT"] = "Ganze Zahl";
+$MESS["DISK_DOC_TYPE_SELECT"] = "Liste";
+$MESS["DISK_DOC_TYPE_BOOL"] = "Ja/Nein";
+$MESS["DISK_DOC_TYPE_DATA"] = "Datum";
+$MESS["DISK_DOC_TYPE_DATETIME"] = "Datum/Uhrzeit";
+$MESS["DISK_DOC_TYPE_USER"] = "Anbinden an Nutzer";
+$MESS["DISK_DOC_TYPE_FILE"] = "Datei";
+$MESS["DISK_YES"] = "Ja";
+$MESS["DISK_NO"] = "Nein";
+$MESS["DISK_ADD"] = "Hinzufügen";
+$MESS["DISK_INVALID1"] = "Der Wert des Feldes ist nicht eine ganze Zahl";
+$MESS["DISK_UNKNOW"] = "Unbekannter Fehler";
+$MESS["DISK_BZ_D_NAME_NOT_CODE"] = "Mnemonischer Code fehlt";
+?>

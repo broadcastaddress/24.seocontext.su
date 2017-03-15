@@ -1,0 +1,15 @@
+<?
+$MESS["CRM_EVENT_ENTITY_ID"] = "ID";
+$MESS["CRM_EVENT_ENTITY_ENTITY_ID"] = "Ідентифікатор сутності";
+$MESS["CRM_EVENT_ENTITY_EVENT_BY"] = "Тип події";
+$MESS["CRM_EVENT_ENTITY_EVENT_NAME"] = "Заголовок";
+$MESS["CRM_EVENT_ENTITY_DATE_CREATE"] = "Дата події";
+$MESS["CRM_EVENT_ENTITY_CREATED_BY"] = "Створив";
+$MESS["CRM_EVENT_ENTITY_CREATED_BY_ID"] = "Ідентифікатор творця";
+$MESS["CRM_EVENT_RELATIONS_ENTITY_EVENT_ID"] = "Ідентифікатор події";
+$MESS["CRM_EVENT_RELATIONS_ENTITY_EVENT_BY"] = "Подія";
+$MESS["CRM_EVENT_RELATIONS_ENTITY_ENTITY_ID"] = "Ідентифікатор сутності";
+$MESS["CRM_EVENT_RELATIONS_ENTITY_ENTITY_TYPE"] = "Тип сутності";
+$MESS["CRM_EVENT_RELATIONS_ENTITY_ASSIGNED_BY_ID"] = "Ідентифікатор відповідального";
+$MESS["CRM_EVENT_RELATIONS_ENTITY_ASSIGNED_BY"] = "Відповідальний";
+?>

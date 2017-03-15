@@ -1,0 +1,1 @@
+<?$arTemplate = Array("NAME"=>"Extranet/Modern", "DESCRIPTION"=>"Template mit einer dynamischen Breite");?>

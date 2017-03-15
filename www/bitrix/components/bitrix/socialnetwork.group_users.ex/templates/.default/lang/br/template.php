@@ -1,0 +1,30 @@
+<?
+$MESS["SONET_GUE_T_MODS_SUBTITLE"] = "Moderadores";
+$MESS["SONET_GUE_T_USERS_SUBTITLE"] = "Membros";
+$MESS["SONET_GUE_T_BAN_SUBTITLE"] = "Usuários desativados";
+$MESS["SONET_GUE_T_ACTIONS_TITLE"] = "Ações";
+$MESS["SONET_GUE_T_OWNER"] = "proprietário";
+$MESS["SONET_GUE_T_ACTION_ADDTOUSERS"] = "Convidar usuários";
+$MESS["SONET_GUE_T_ACTION_ADDTOMODERATORS"] = "Definir como moderador";
+$MESS["SONET_GUE_T_ACTION_EXCLUDEFROMGROUP"] = "Remover do grupo";
+$MESS["SONET_GUE_T_ACTION_EXCLUDEFROMGROUP_CONFIRM"] = "Tem certeza de que deseja remover esses usuários do grupo de trabalho?";
+$MESS["SONET_GUE_T_ACTION_BANFROMGROUP"] = "Banir";
+$MESS["SONET_GUE_T_ACTION_EXCLUDEFROMMODERATORS"] = "Excluir dos moderadores";
+$MESS["SONET_GUE_T_ACTION_UNBANFROMGROUP"] = "Desbanir";
+$MESS["SONET_GUE_T_ACTION_SETGROUPOWNER"] = "Alterar o proprietário";
+$MESS["SONET_GUE_T_ACTION_SETGROUPOWNER_CONFIRM"] = "Tem certeza de que deseja alterar o proprietário do grupo de trabalho?";
+$MESS["SONET_GUE_T_USER_ID_NOT_DEFINED"] = "Nenhum usuário selecionado.";
+$MESS["SONET_GUE_T_USER_ID_INCORRECT"] = "Selecionar um usuário.";
+$MESS["SONET_GUE_T_OWNER_CANT_EXCLUDE_HIMSELF"] = "O proprietário não pode retirar-se de um grupo";
+$MESS["SONET_GUE_T_GROUP_ID_NOT_DEFINED"] = "O grupo de trabalho não foi encontrado";
+$MESS["SONET_GUE_T_NOT_ATHORIZED"] = "Você ainda não logou.";
+$MESS["SONET_GUE_T_MODULE_NOT_INSTALLED"] = "O módulo de rede social não está instalado";
+$MESS["SONET_GUE_T_NO_PERMS"] = "Você não tem permissão para gerenciar este grupo de trabalho.";
+$MESS["SONET_GUE_T_SESSION_WRONG"] = "Sua sessão expirou. Por favor, tente novamente.";
+$MESS["SONET_GUE_T_ACTION_FAILED"] = "Ação retornou resultado incorreto: #ERROR#";
+$MESS["SONET_GUE_T_WAIT"] = "Por favor, aguarde ...";
+$MESS["SONET_GUE_T_SAME_OWNER"] = "O usuário especificado já é proprietário de um grupo de trabalho.";
+$MESS["SONET_GUE_T_FIRED"] = "desligado";
+$MESS["SONET_GUE_T_FIRED_M"] = "desligado";
+$MESS["SONET_GUE_T_FIRED_F"] = "desligada";
+?>

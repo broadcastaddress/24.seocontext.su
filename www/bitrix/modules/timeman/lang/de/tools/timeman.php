@@ -1,0 +1,35 @@
+<?
+$MESS["TM_TASK_STATUS_-2"] = "Neue";
+$MESS["TM_TASK_STATUS_-1"] = "Überfällig";
+$MESS["TM_TASK_STATUS_1"] = "Neue";
+$MESS["TM_TASK_STATUS_2"] = "Angenommen";
+$MESS["TM_TASK_STATUS_3"] = "In Arbeit";
+$MESS["TM_TASK_STATUS_4"] = "Abgeschlossen";
+$MESS["TM_TASK_STATUS_5"] = "Geschlossen";
+$MESS["TM_TASK_STATUS_6"] = "Verschoben";
+$MESS["TM_TASK_STATUS_7"] = "Abgelehnt";
+$MESS["TM_TASK_SET_STATUS_2"] = "Wiederaufnehmen";
+$MESS["TM_TASK_SET_STATUS_3"] = "Ausführung beginnen";
+$MESS["TM_TASK_SET_STATUS_4"] = "Abschließen";
+$MESS["TM_TASK_SET_STATUS_6"] = "Verschieben";
+$MESS["TM_TASK_STATUS"] = "Status";
+$MESS["TM_TASK_DATE_START"] = "Beginn";
+$MESS["TM_TASK_DATE_END"] = "Ende";
+$MESS["TM_TASK_DEADLINE"] = "Deadline";
+$MESS["TM_TASK_CREATED_DATE"] = "Erstellt am";
+$MESS["TM_TASK_CREATED_BY"] = "Erstellt von";
+$MESS["TM_TASK_CREATED_BY_PL"] = "Erstellt von";
+$MESS["TM_TASK_RESPONSIBLE_ID"] = "Verantwortliche Person";
+$MESS["TM_TASK_RESPONSIBLE_ID_PL"] = "Verantwortliche Personen";
+$MESS["TM_TASK_AUDITORS"] = "Beobachter";
+$MESS["TM_TASK_AUDITORS_PL"] = "Beobachter";
+$MESS["TM_TASK_ACCOMPLICES"] = "Mitwirkende(r) ";
+$MESS["TM_TASK_ACCOMPLICES_PL"] = "Mitwirkende";
+$MESS["TM_CALENDAR_CHOOSE"] = "Wählen Sie Kalender aus";
+$MESS["TM_TASK_SET_STATUS_2_1"] = "Annehmen";
+$MESS["TM_TASK_SET_STATUS_7"] = "Ablehnen";
+$MESS["TM_CONFIRM_LATE_OPEN"] = "Möchten Sie wirklich den Arbeitstag um #TIME# beginnen?";
+$MESS["TM_IN"] = "In";
+$MESS["TM_TILL"] = "#today# bis #time#";
+$MESS["TM_DAY_CLOSED_ADMIN"] = "Arbeitstag wurde von dem Vorgesetzten geschlosen.";
+?>

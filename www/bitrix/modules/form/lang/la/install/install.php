@@ -1,0 +1,29 @@
+<?
+$MESS["FORM_MODULE_NAME"] = "Formularios WEB";
+$MESS["FORM_MODULE_DESCRIPTION"] = "Este módulo maneja varios formularios web, permite almacenar y filtrar datos en formularios.";
+$MESS["FORM_INSTALL_TITLE"] = "Instalación del módulo Web Forms";
+$MESS["FORM_UNINSTALL_TITLE"] = "Desinstalación del módulo Web Forms";
+$MESS["FORM_SELECT_INITITAL"] = "Seleccione la carpeta para los archivos DEMO:";
+$MESS["FORM_NO"] = "no";
+$MESS["FORM_ATTENTION"] = "Atención! El módulo será desinstalado.";
+$MESS["FORM_SAVE_TABLES"] = "Guardar tablas";
+$MESS["FORM_DELETE"] = "Desinstalar";
+$MESS["FORM_DELETE_COMLETE"] = "Desintalación completada.";
+$MESS["FORM_BACK"] = "Ir atrás";
+$MESS["FORM_ERRORS"] = "Errores:";
+$MESS["FORM_INSTALL"] = "Instalar";
+$MESS["FORM_COMPLETE"] = "Instalación completada.";
+$MESS["FORM_DENIED"] = "Acceso denegado";
+$MESS["FORM_OPENED"] = "acceso concedido";
+$MESS["FORM_FULL"] = "acceso total";
+$MESS["FORM_URL_PUBLIC"] = "Carpetas para archivos demo:";
+$MESS["FORM_RESET"] = "Resetear";
+$MESS["FORM_SITE"] = "Sitio";
+$MESS["FORM_LINK"] = "Link";
+$MESS["COPY_PUBLIC_FILES"] = "Copiar en carpetas públicas";
+$MESS["INSTALL_PUBLIC_REW"] = "Sobreescribir archivos existentes";
+$MESS["FORM_YOU_CAN_SAVE_TABLES"] = "Para guardar los datos almacenados en la base de datos haga check en &quot;Guardar tablas&quot;";
+$MESS["FORM_WRONG_MAIN_VERSION"] = "Para instalar este módulo usted tiene que actualizar la versión de su KERNEL a la versión #VER#";
+$MESS["FORM_DEMO_DIR"] = "Siga el siguiente link para ver los archivo DEMO en acción:";
+$MESS["COPY_FOLDER"] = "Carpeta en la que los archivos serán copiados (relativa a la raiz del sitio):";
+?>

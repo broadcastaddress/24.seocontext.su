@@ -1,0 +1,32 @@
+<?
+$MESS["TASKS_BAD_TITLE"] = "O nome da tarefa não foi especificado.";
+$MESS["TASKS_BAD_RESPONSIBLE_ID"] = "A pessoa responável não foi especificada";
+$MESS["TASKS_BAD_RESPONSIBLE_ID_EX"] = "O usuário especificado no campo &quot;Responsável&quot; não foi encontrado.";
+$MESS["TASKS_BAD_PARENT_ID"] = "A tarefa especificada no campo &quot;Subtarefa&quot; não foi encontrada.";
+$MESS["TASKS_DEPENDS_ON_SELF"] = "A tarefa não pode depender dela mesma.";
+$MESS["TASKS_PARENT_SELF"] = "A tarefa não pode ser uma subtarefa dela mesma";
+$MESS["TASKS_BAD_TASK_ID"] = "ID da tarefa inválido";
+$MESS["TASKS_BAD_TASK_ID_EX"] = "A tarefa não foi encontrada";
+$MESS["TASKS_BAD_DEPENDS_ON_ID"] = "A tarefa anterior não foi especificada";
+$MESS["TASKS_BAD_DEPENDS_ON_ID_EX"] = "A tarefa anterior não foi encontrada";
+$MESS["TASKS_BAD_FILE_ID"] = "O aqruivo não foi especificado";
+$MESS["TASKS_BAD_FILE_ID_EX"] = "Arquivo não encontrado";
+$MESS["TASKS_BAD_USER_ID"] = "Usuário não especificado";
+$MESS["TASKS_BAD_USER_ID_EX"] = "Usuário não encontrado";
+$MESS["TASKS_BAD_NAME"] = "A Tag não foi especificada";
+$MESS["TASKS_BAD_REMIND_DATE"] = "O dia do lemrete não foi especificado";
+$MESS["TASKS_UNKNOWN_ADD_ERROR"] = "Erro ao criar a tarefa";
+$MESS["TASKS_UNKNOWN_UPDATE_ERROR"] = "Erro ao atualizar a tarefa";
+$MESS["TASKS_ERR_USER_IN_USE"] = "O usuário não pode ser deletado porque ele é o criador, responsável, participante ou observador de uma ou mais tarefas.";
+$MESS["TASKS_BAD_PLAN_DATES"] = "A data planejada para o final é antes da data de início.";
+$MESS["TASKS_CHECKLISTITEM_BAD_TITLE"] = "O título não foi definido.";
+$MESS["TASKS_CHECKLISTITEM_BAD_COMPLETE_FLAG"] = "A flag de conclusão é incorreta.";
+$MESS["TASKS_ACCESS_DENIED"] = "Permissões insuficientes para realizar a operação.";
+$MESS["TASKS_ACTION_NOT_ALLOWED"] = "Essa ação não é permitida.";
+$MESS["TASKS_FAILED_TO_DO_ACTION"] = "Não é possível completar a ação.";
+$MESS["TASKS_ERR_GROUP_IN_USE"] = "Este grupo não pode ser excluído o Porque tarefas associadas lo com ele. ";
+$MESS["TASKS_BAD_CREATED_BY"] = "O criador da tarefa não foi definido.";
+$MESS["TASKS_TASK_CREATE_ACCESS_DENIED"] = "Permissão insuficiente para criar uma tarefa.";
+$MESS["TASKS_CHECKLISTITEM_UNKNOWN_FIELD"] = "A matriz da fonte contém um campo desconhecido.";
+$MESS["TASKS_CHECKLISTITEM_BAD_SORT_DIRECTION"] = "O pedido de classificação na matriz de classificação está incorreto.";
+?>

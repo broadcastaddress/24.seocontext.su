@@ -1,0 +1,37 @@
+<?
+$MESS["sender_stat_title"] = "Statistik";
+$MESS["sender_stat_flt_mailing"] = "Newsletter";
+$MESS["sender_stat_flt_mailing_chain"] = "Ausgabe";
+$MESS["sender_stat_error_no_data"] = "Keine Daten. Ausgabe wurde nicht gesendet oder der Versand wurde nicht abgeschossen.";
+$MESS["sender_stat_report"] = "Bericht über Ausgabe";
+$MESS["sender_stat_report_title"] = "Ausgabe von";
+$MESS["sender_stat_report_subject"] = "Betreff:";
+$MESS["sender_stat_report_date_create"] = "Erstellt am:";
+$MESS["sender_stat_report_date_sent"] = "Wann gesendet:";
+$MESS["sender_stat_report_cnt_all"] = "E-Mails gesendet gesamt:";
+$MESS["sender_stat_report_cnt_in"] = "Darunter:";
+$MESS["sender_stat_report_cnt_read"] = "Davon gelesen:";
+$MESS["sender_stat_report_cnt_click"] = "Angeklickte Links:";
+$MESS["sender_stat_report_cnt_error"] = "Mit Fehlern:";
+$MESS["sender_stat_report_cnt_unsub"] = "Newsletter abbestellt:";
+$MESS["sender_stat_graph"] = "Effektivität der Ausgabe";
+$MESS["sender_stat_graph_all"] = "E-Mails gesendet gesamt";
+$MESS["sender_stat_graph_read"] = "E-Mails angezeigt";
+$MESS["sender_stat_graph_click"] = "Haben Links angeklickt";
+$MESS["sender_stat_graph_unsub"] = "Haben Newsletter abbestellt";
+$MESS["sender_stat_graph_error"] = "Anzahl Fehler beim Versand";
+$MESS["sender_stat_graphperiod"] = "Effektivität eines regelmäßigen Ausgabeversands";
+$MESS["sender_stat_graphperiod_all"] = "Gesamt:";
+$MESS["sender_stat_graphperiod_action"] = "Aktionen der Nachrichtenempfänger";
+$MESS["sender_stat_graphperiod_cnt_all"] = "Nachrichten gesendet";
+$MESS["sender_stat_graphperiod_cnt_read"] = "Haben gelesen";
+$MESS["sender_stat_graphperiod_cnt_click"] = "Haben Links angeklickt";
+$MESS["sender_stat_graphperiod_cnt_unsub"] = "Haben abbestellt";
+$MESS["POST_U_YES"] = "Ja";
+$MESS["POST_U_NO"] = "Nein";
+$MESS["MAIN_ALL"] = "(alle)";
+$MESS["sender_stat_click_title"] = "Top-15 der angeklickten Links";
+$MESS["sender_stat_click_cnt"] = "Anzahl";
+$MESS["sender_stat_click_link"] = "Link";
+$MESS["sender_stat_click_no_data"] = "Keine Daten";
+?>

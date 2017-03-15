@@ -1,0 +1,24 @@
+#panel, #header, #header-separator, #top-menu-section, #footer, #site-icons, #site-icons-main-page, #breadcumb-section, #left-column, #search-main-page
+{
+	display:none;
+}
+
+#main-column
+{
+	width:950px;
+}
+
+body
+{
+	background:white;
+}
+
+#print-link-back
+{
+	display:block;
+}
+
+h1
+{
+	position:static;
+}

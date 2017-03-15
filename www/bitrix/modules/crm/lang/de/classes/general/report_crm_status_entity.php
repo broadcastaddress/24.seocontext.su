@@ -1,0 +1,5 @@
+<?
+$MESS["CRM_STATUS_ENTITY_ENTITY_ID"] = "Einheits-ID";
+$MESS["CRM_STATUS_ENTITY_STATUS_ID"] = "Status-ID";
+$MESS["CRM_STATUS_ENTITY_NAME"] = "Überschrift";
+?>

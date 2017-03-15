@@ -1,0 +1,33 @@
+<?
+$MESS["INTERANET_MODULE_NOT_INSTALL"] = "O módulo Intranet não está instalado.";
+$MESS["SONET_LOADING"] = "Carregando...";
+$MESS["SONET_GROUP"] = "Grupo";
+$MESS["SONET_FILES"] = "Arquivos";
+$MESS["SONET_PHOTO"] = "Foto";
+$MESS["SONET_FILES_IS_NOT_ACTIVE"] = "O recurso \"Arquivos\" não está habilitado.";
+$MESS["SONET_PHOTO_IS_NOT_ACTIVE"] = "O recurso \"Fotos\" não está habilitado.";
+$MESS["SONET_P_MODULE_IS_NOT_INSTALLED"] = "O módulo Galeria de Fotos não está instalado.";
+$MESS["SONET_WD_MODULE_IS_NOT_INSTALLED"] = "O módulo Biblioteca de Documentos não está instalado.";
+$MESS["SONET_IB_MODULE_IS_NOT_INSTALLED"] = "O módulo Blocos de Informação não está instalado.";
+$MESS["SONET_IBLOCK_ID_EMPTY"] = "O bloco de informação não está especificado.";
+$MESS["SONET_ACCESS_DENIED"] = "Acesso negado";
+$MESS["SONET_GROUP_NOT_EXISTS"] = "O grupo não existe.";
+$MESS["SONET_GROUP_PREFIX"] = "Grupo:";
+$MESS["SONET_CREATE_WEBDAV"] = "Criar Biblioteca";
+$MESS["SONET_WEBDAV_NOT_EXISTS"] = "Nenhum documento.";
+$MESS["IBLOCK_DEFAULT_UF"] = "Galeria Padrão";
+$MESS["SONET_GALLERY_IS_NOT_ACTIVE"] = "Sua galeria de fotos está atualmente inativa. Por favor, contate o administrador.";
+$MESS["SONET_GALLERIES_IS_NOT_ACTIVE"] = "Suas galerias de fotos estão atualmente inativas. Por favor, contate o administrador.";
+$MESS["SONET_GALLERY_NOT_FOUND"] = "Nenhuma foto.";
+$MESS["SONET_FILES_LOG"] = "#AUTHOR_NAME# adicionou um arquivo #TITLE#.";
+$MESS["SONET_FILES_LOG_TEXT"] = "Novo arquivo #TITLE# na URL.";
+$MESS["SONET_PHOTO_LOG_1"] = "#AUTHOR_NAME# adicionou um arquivo #TITLE#";
+$MESS["SONET_PHOTO_LOG_2"] = "Fotos (#COUNT#)";
+$MESS["SONET_PHOTO_LOG_TEXT"] = "Novas fotos: <div class='notificationlog'>#LINKS#</div> <a href=\"#HREF#\">Abrir álbum</a>.";
+$MESS["SONET_PHOTO_LOG_MAIL_TEXT"] = "Neovas fotos: #LINKS# e outros.";
+$MESS["SONET_LOG_TEMPLATE_AUTHOR"] = "Autor: <a href=\"#AUTHOR_URL#\">#AUTHOR_NAME#</a>.";
+$MESS["SONET_LOG_TEMPLATE_AUTHOR_MAIL"] = "Autor: #AUTHOR_NAME# (#AUTHOR_URL#).";
+$MESS["SONET_LOG_TEMPLATE_GUEST"] = "Autor: #AUTHOR_NAME#.";
+$MESS["SONET_LOG_GUEST"] = "Convidado";
+$MESS["INTR_IRM_NAME_TEMPLATE_DEFAULT"] = "#NOBR##NAME# #LAST_NAME##/NOBR#";
+?>

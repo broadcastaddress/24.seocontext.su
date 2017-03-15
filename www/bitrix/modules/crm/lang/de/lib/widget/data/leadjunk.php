@@ -1,0 +1,5 @@
+<?
+$MESS["CRM_LEAD_JUNK_PRESET_OVERALL_COUNT"] = "Anzahl der Junk Leads";
+$MESS["CRM_LEAD_JUNK_PRESET_OVERALL_COUNT_SHORT"] = "Anzahl der Leads";
+$MESS["CRM_LEAD_JUNK_CATEGORY"] = "Junk Leads";
+?>

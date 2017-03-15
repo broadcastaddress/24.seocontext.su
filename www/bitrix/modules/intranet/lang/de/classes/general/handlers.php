@@ -1,0 +1,35 @@
+<?
+$MESS["INTR_HIRED"] = "Angenommen";
+$MESS["INTR_OUTLOOK_PREFIX_CONTACTS"] = "Intranet-Portal";
+$MESS["INTR_OUTLOOK_TITLE_CONTACTS"] = "Mitarbeiter";
+$MESS["INTR_OUTLOOK_TITLE_CONTACTS_EXTRANET"] = "Kontakte";
+$MESS["INTR_OUTLOOK_TITLE_TASKS"] = "Meine Aufgaben";
+$MESS["INTR_OUTLOOK_TASK_NO_TITLE"] = "(unbenannt)";
+$MESS["INTR_SET_WIZ_TITLE"] = "Starten Sie den Konfigurationsassistent um die Portalvorlage zu ändern";
+$MESS["INTR_SET_WIZ_TEXT"] = "Konfigurationsassistent";
+$MESS["INTR_SET_EXT_TITLE"] = "Extranet-Konfigurationsassistent starten";
+$MESS["INTR_SET_EXT_TEXT"] = "Extranet-Konfigurationsassistent";
+$MESS["INTR_SET_CLEAN_TITLE"] = "Starten Sie den Demodaten-Bereinigungsassistent";
+$MESS["INTR_SET_CLEAN_TEXT"] = "Bereinigungsassistent";
+$MESS["INTR_SET_BUT_TITLE"] = "Starten Sie den Konfigurationsassistent um die Portalvorlage zu ändern";
+$MESS["INTR_SET_BUT_TEXT"] = "Seiten-#BR#Assistent";
+$MESS["INTR_SET_BUT_HINT"] = "Mit dem Konfigurationsassistenten kann das Unternehmensportal zum zweiten Mal konfiguriert werden.<br /><br />";
+$MESS["INTR_SET_BUT_HINT_EXTRANET"] = "<b>Der Konfigurationsassistent des Extranets</b> &mdash; ein Programm zum Erstellen und Starten einer Extranet-Website.<br /><br />";
+$MESS["INTR_SET_BUT_HINT_CLEARING"] = "<b>Bereinigungsassistent</b> &mdash; ein Tool zum Entfernen der Demo-Daten, bevor das Unternehmensportal mit einem aktuellen Content gefüllt wird.";
+$MESS["INTR_SOCNET_LOG_NEWS"] = "Nachrichteneinheit";
+$MESS["INTR_SOCNET_LOG_NEWS_TITLE"] = "Eine Nachrichteinheit  \"#TITLE#\" wurde hinzugefügt oder aktualisiert";
+$MESS["INTR_SOCNET_LOG_NEWS_TITLE_MAIL"] = "Im Newsfeed \"#ENTITY#\" wurde eine Nachrichteinheit \"#TITLE#\"  hinzugefügt oder aktualisiert ";
+$MESS["INTR_SOCNET_LOG_NEWS_COMMENT_TITLE"] = "Kommentar zu \"#TITLE#\"";
+$MESS["INTR_SOCNET_LOG_NEWS_COMMENT_TITLE_MAIL"] = "Zum Newsfeed \"#ENTITY#\" wurde ein Kommentar zu \"#TITLE#\" hinzugefügt";
+$MESS["INTR_SOCNET_LOG_NEWS_SETTINGS"] = "Alle Events in diesem Newsfeed";
+$MESS["INTR_SOCNET_LOG_NEWS_SETTINGS_1"] = "Newsfeed #TITLE#";
+$MESS["INTR_SOCNET_LOG_NEWS_SETTINGS_2"] = "Einträge des Newsfeeds #TITLE#";
+$MESS["INTR_SOCNET_LOG_LIST_N_ALL"] = "Alle News";
+$MESS["INTR_SOCNET_LOG_N"] = "Newsfeed";
+$MESS["INTR_SOCNET_LOG_XDI_N"] = "Newsfeed";
+$MESS["INTR_SOCNET_LOG_ENTITY_MAIL"] = "Newsfeed";
+$MESS["INTR_SONET_ADD_COMMENT_SOURCE_ERROR"] = "Der Kommentar zu einer Ereignisquelle konnte nicht hinzugefügt werden";
+$MESS["INTR_SONET_LOG_DATA_TITLE_IMPORTANT_24"] = "Wichtige Nachricht";
+$MESS["INTR_IBLOCK_TOP_SECTION_WARNING"] = "Die Unternehmensstruktur darf nur einen Topbereich enthalten.";
+$MESS["INTR_IBLOCK_REQUIRED"] = "Das Modul Intranet erfordert das Modul Informationsblöcke.";
+?>

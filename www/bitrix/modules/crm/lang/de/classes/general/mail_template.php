@@ -1,0 +1,9 @@
+<?
+$MESS["CRM_MAIL_TEMPLATE_SCOPE_PERSONAL"] = "Nur für mich";
+$MESS["CRM_MAIL_TEMPLATE_SCOPE_COMMON"] = "Für alle";
+$MESS["CRM_MAIL_TEMPLATE_FIELD_OWNER_ID"] = "Besitzer";
+$MESS["CRM_MAIL_TEMPLATE_FIELD_ENTITY_TYPE_ID"] = "Einheit";
+$MESS["CRM_MAIL_TEMPLATE_FIELD_TITLE"] = "Name";
+$MESS["CRM_MAIL_TEMPLATE_ERROR_NOT_EXISTS"] = "Das Element mit der ID = #ID# wurde nicht gefunden.";
+$MESS["CRM_MAIL_TEMPLATE_ERROR_FIELD_NOT_SPECIFIED"] = "Definieren Sie bitte den Wert für das Feld \"#FIELD#\".";
+?>

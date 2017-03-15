@@ -1,0 +1,29 @@
+<?
+$MESS["F_DELETE_CONFIRM"] = "El mensaje podría ser irreversiblemente borrado. Continuar?";
+$MESS["F_ANCHOR_TITLE"] = "Vínculo";
+$MESS["JQOUTE_AUTHOR_WRITES"] = "escribió";
+$MESS["JS_NO_MESSAGES"] = "Ningún mensaje ha sido seleccionado. Por favor seleccione mensajes.";
+$MESS["F_REPLY"] = "Respuesta";
+$MESS["F_HIDE_MESSAGES"] = "Ocultar mensajes";
+$MESS["F_SHOW_MESSAGES"] = "Mostrar mensajes";
+$MESS["F_DELETE_MESSAGES_CONFIRM"] = "Esto podría borrar irreversiblemente los mensajes. ¿Continuar?";
+$MESS["F_CLOSED"] = "Cerrado";
+$MESS["F_DELETE_MESSAGES"] = "Borrar mensajes";
+$MESS["F_DELETE_TOPIC"] = "Borrar tema";
+$MESS["F_DELETE_TOPIC_CONFIRM"] = "Esto podría borrar irreversiblemente los mensajes. ¿Continuar?";
+$MESS["F_EDIT_TOPIC"] = "Modificar tema";
+$MESS["F_HIDE_TOPIC"] = "Ocultar tema";
+$MESS["F_PINN_TOPIC"] = "Pegar tema";
+$MESS["F_SHOW_TOPIC"] = "Mostrar tema";
+$MESS["F_UNPINN_TOPIC"] = "Despegar tema";
+$MESS["F_MANAGE_TOPIC"] = "Administrar tema";
+$MESS["F_MANAGE_MESSAGES"] = "Administrar mensajes";
+$MESS["JS_NO_ACTION"] = "No hay ninguna acción seleccionada. Por favor seleccione una acción.";
+$MESS["F_CLOSE_TOPIC"] = "Cerrar tema";
+$MESS["F_OPEN_TOPIC"] = "Abrir tema";
+$MESS["F_HIDE"] = "Ocultar";
+$MESS["F_WAIT"] = "Por favor espere...";
+$MESS["F_SHOW"] = "Mostrar";
+$MESS["F_POSTS"] = "Mensajes";
+$MESS["F_COLLAPSE"] = "Ocultar";
+?>

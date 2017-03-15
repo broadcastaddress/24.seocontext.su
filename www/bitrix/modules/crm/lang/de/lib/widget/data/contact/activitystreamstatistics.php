@@ -1,0 +1,8 @@
+<?
+$MESS["CRM_CONTACT_ACTIVITY_STREAM_STAT_TOTAL"] = "Anzahl der Anrufe (nach Stream)";
+$MESS["CRM_CONTACT_ACTIVITY_STREAM_STAT_INCOMING_QTY"] = "Anzahl der eingehenden Anrufe";
+$MESS["CRM_CONTACT_ACTIVITY_STREAM_STAT_OUTGOING_QTY"] = "Anzahl der ausgehenden Anrufe";
+$MESS["CRM_CONTACT_ACTIVITY_STREAM_STAT_REVERSING_QTY"] = "Anzahl der Rückrufe";
+$MESS["CRM_CONTACT_ACTIVITY_STREAM_STAT_MISSING_QTY"] = "Anzahl der vermissten Anrufe";
+$MESS["CRM_CONTACT_ACTIVITY_STREAM_STAT_GROUP_BY_STREAM"] = "Activity Stream";
+?>

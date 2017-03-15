@@ -1,0 +1,7 @@
+<?
+$MESS["CRM_WEBFORM_RESULT_ENTITY_DC_NONE"] = "Dubletten erlauben";
+$MESS["CRM_WEBFORM_RESULT_ENTITY_DC_REPLACE"] = "Ersetzen";
+$MESS["CRM_WEBFORM_RESULT_ENTITY_DC_MERGE"] = "Vereinigen";
+$MESS["CRM_WEBFORM_RESULT_ENTITY_ACTIVITY_SUBJECT"] = "CRM-Formular # ausfüllen";
+$MESS["CRM_WEBFORM_RESULT_ENTITY_ACTIVITY_RESPONSIBLE_IM_NOTIFY"] = "Die Aufgabe \"#title#\" wurde Ihnen zugewiesen";
+?>

@@ -1,0 +1,34 @@
+<?
+$MESS["CRM_EDIT_BTN_TTL"] = "Clique para editar";
+$MESS["CRM_LOCK_BTN_TTL"] = "Não foi possível editar este item";
+$MESS["CRM_INVOICE_SHOW_TITLE"] = "Fatura ##ACCOUNT_NUMBER# &mdash; #ORDER_TOPIC#";
+$MESS["CRM_INVOICE_SHOW_LEGEND"] = "Fatura ##ACCOUNT_NUMBER# ";
+$MESS["CRM_INVOICE_DATE_INSERT"] = "Criada em";
+$MESS["CRM_INVOICE_DATE_BILL"] = "Fatura criada em";
+$MESS["CRM_INVOICE_DATE_UPDATE"] = "Modificada em";
+$MESS["CRM_INVOICE_DATE_PAY_BEFORE"] = "Pagar antes";
+$MESS["CRM_INVOICE_CLIENT"] = "Cliente";
+$MESS["CRM_FIELD_PAYER_INFO"] = "Detalhes bancários";
+$MESS["CRM_INVOICE_SIDEBAR_STATUS"] = "Status";
+$MESS["CRM_DEAL_OPENED"] = "Visualização permitida a todos os usuários";
+$MESS["CRM_DEAL_NOT_OPENED"] = "A visualização desta negociação é limitada";
+$MESS["CRM_DEAL_LINK"] = "Fatura da negociação";
+$MESS["CRM_COMPANY_LINK"] = "Empresa";
+$MESS["CRM_CONTACT_LINK"] = "Contato";
+$MESS["CRM_TAB_PRODUCT_ROWS"] = "Produtos";
+$MESS["CRM_TAB_PRODUCT_ROWS_TITLE"] = "Produtos em negociação";
+$MESS["CRM_INVOICE_COMMENT"] = "Comentário do representante comercial";
+$MESS["CRM_INVOICE_PRICE_SHORT"] = "Total";
+$MESS["CRM_DEAL_CLIENT_NOT_ASSIGNED"] = "[não designado]";
+$MESS["INVOICE_USER_DESCRIPTION"] = "Comentários dos usuários (serão impressos na fatura)";
+$MESS["CRM_INVOICE_TITLE"] = "Fatura";
+$MESS["CRM_INVOICE_FIELD_PAY_VOUCHER_DATE"] = "Data de pagamento";
+$MESS["CRM_INVOICE_FIELD_PAY_VOUCHER_NUM"] = "Documento #";
+$MESS["CRM_INVOICE_FIELD_DATE_MARKED"] = "Data de cancelamento";
+$MESS["CRM_INVOICE_FIELD_REASON_MARKED"] = "Comentário";
+$MESS["CRM_TAB_HISTORY"] = "Histórico";
+$MESS["CRM_TAB_HISTORY_TITLE"] = "Histórico de alterações da fatura";
+$MESS["CRM_QUOTE_LINK"] = "Orçamento";
+$MESS["CRM_TAB_1"] = "Informações da fatura";
+$MESS["CRM_TAB_1_TITLE"] = "Parâmetros da fatura";
+?>

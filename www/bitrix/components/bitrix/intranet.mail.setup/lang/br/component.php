@@ -1,0 +1,35 @@
+<?
+$MESS["NTR_MAIL_PAGE_TITLE"] = "Integração Caixa de Correio";
+$MESS["MAIL_MODULE_NOT_INSTALLED"] = "O módulo Correio não está instalado.";
+$MESS["INTR_MAIL_INP_LOGIN_EMPTY"] = "O campo \"Login\" é necessário.";
+$MESS["INTR_MAIL_INP_PASSWORD_EMPTY"] = "O campo \"Password\" é necessário.";
+$MESS["INTR_MAIL_INP_SERVER_EMPTY"] = "O campo \"Servidor\" é necessário.";
+$MESS["INTR_MAIL_INP_PORT_EMPTY"] = "O campo \"Porta\" é necessário.";
+$MESS["INTR_MAIL_INP_PORT_BAD"] = "A porta especificada está incorreta.";
+$MESS["INTR_MAIL_SAVE_ERROR"] = "Erro ao salvar dados de conexão.";
+$MESS["INTR_MAIL_CSRF"] = "Erro de segurança ao enviar o formulário.";
+$MESS["INTR_MAIL_INP_LINK_EMPTY"] = "O campo \"URL do cliente Web\" está vazio";
+$MESS["INTR_MAIL_INP_SERVER_BAD"] = "Valor inválido no campo 'Servidor'";
+$MESS["INTR_MAIL_INP_LINK_BAD"] = "Valor inválido no campo \"URL do cliente Web '";
+$MESS["MAIL_SERVICES_NOT_FOUND"] = "Serviços de e-mail não estão configurados.";
+$MESS["INTR_MAIL_B24_PAGE_TITLE"] = "Bitrix24.Mail";
+$MESS["INTR_MAIL_DOMAIN_PAGE_TITLE"] = "Adicionar Domínio de E-Mail";
+$MESS["INTR_MAIL_MANAGE_PAGE_TITLE"] = "Gerenciar caixas de e-mail";
+$MESS["INTR_MAIL_INP_DOMAIN_EMPTY"] = "O nome do domínio é obrigatório.";
+$MESS["INTR_MAIL_INP_TOKEN_EMPTY"] = "Token é obrigatório.";
+$MESS["INTR_MAIL_INP_DOMAINTOKEN_BAD"] = "O token fornecido não corresponde ao domínio.";
+$MESS["INTR_MAIL_INP_DOMAIN_REMOVE"] = "Domínio foi desvinculado com sucesso.";
+$MESS["INTR_MAIL_INP_PASSWORD2_BAD"] = "Sua senha e a confirmação da senha não coincidem.";
+$MESS["INTR_MAIL_AUTH"] = "Erro de autenticação";
+$MESS["INTR_MAIL_FORM_ERROR"] = "Erro no processamento do formulário.";
+$MESS["INTR_MAIL_AJAX_ERROR"] = "Erro ao processar o pedido.";
+$MESS["INTR_MAIL_CONTROLLER_INVALID"] = "Serviço indisponível.";
+$MESS["INTR_MAIL_MANAGE_CREATE"] = "Criar";
+$MESS["INTR_MAIL_MANAGE_CHANGE"] = "Editar";
+$MESS["INTR_MAIL_MANAGE_PASSWORD"] = "Alterar senha";
+$MESS["INTR_MAIL_MANAGE_DELETE"] = "Excluir caixa de e-mail";
+$MESS["INTR_MAIL_MAILBOX_OCCUPIED"] = "Este e-mail já está em uso.";
+$MESS["INTR_MAIL_DOMAIN_ICON"] = "b24mail-en.png";
+$MESS["INTR_MAIL_UNAVAILABLE"] = "Os serviços de e-mail não estão disponíveis. Por favor, contate o administrador da intranet. ";
+$MESS["INTR_MAIL_INP_DOMAIN_WAIT"] = "Aguardando domínio para completar anexação ao E-mail Hospedado no Yandex";
+?>

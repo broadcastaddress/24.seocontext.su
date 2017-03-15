@@ -1,0 +1,71 @@
+.crm-counter {
+	margin: 0 0 3px 0;
+	background: #f7f9fb;
+	height: 53px;
+	padding: 0 17px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.crm-counter-title {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	overflow: hidden;
+	font-size: 14px;
+	color: #525c68;
+	padding: 17px 1px;
+}
+
+.crm-counter-overdue {
+	color: #c63734;
+	display: inline-block;
+	vertical-align: middle;
+	border-bottom: 1px solid transparent;
+	text-decoration: none;
+	-webkit-transition: .1s;
+	-moz-transition: .1s;
+	transition: .1s;
+}
+
+.crm-counter-overdue:hover {
+	text-decoration: none;
+	color: #c63734;
+	border-bottom: 1px solid #c63734;
+}
+
+.crm-counter-link {
+	font-size: 14px;
+	color: #525c68;
+	display: inline-block;
+	vertical-align: middle;
+	border-bottom: 1px solid transparent;
+	text-decoration: none;
+	-webkit-transition: .1s;
+	-moz-transition: .1s;
+	transition: .1s;
+}
+
+.crm-counter-link:hover {
+	color: #525c68;
+	text-decoration: none;
+	border-bottom: 1px solid #525c68;
+}
+
+.crm-counter-total {
+	display: inline-block;
+	text-decoration: none;
+	vertical-align: top;
+	font-size: 10px;
+	line-height: 16px;
+	padding: 0 6px;
+	margin: 0 3px 0 0;
+	background: #f54819;
+	color: #fff;
+	border-radius: 16px;
+	font-family: 'OpenSans-Bold';
+}
+
+.crm-counter-total:hover {
+	text-decoration: none;
+	color: #fff;
+}

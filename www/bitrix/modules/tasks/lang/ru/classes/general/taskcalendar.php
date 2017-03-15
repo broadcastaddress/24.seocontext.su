@@ -1,0 +1,4 @@
+<?php
+$MESS["TASKS_CALENDAR_NAME"] = "Задачи";
+$MESS["TASKS_CALENDAR_DESCRIPTION"] = "Задачи";
+?>

@@ -1,0 +1,30 @@
+<?
+$MESS["sender_group_adm_tab_grp"] = "Gruppe";
+$MESS["sender_group_adm_tab_grp_title"] = "Allgemeine Gruppenparameter";
+$MESS["sender_group_adm_tab_param"] = "Parameter";
+$MESS["sender_group_adm_tab_param_title"] = "Nutzerparameter einstellen";
+$MESS["sender_group_title_add"] = "Empfängergruppe erstellen";
+$MESS["sender_group_title_edit"] = "Empfängergruppe # bearbeiten";
+$MESS["sender_group_list"] = "Gruppen";
+$MESS["sender_group_list_title"] = "Zurück zu Gruppen";
+$MESS["sender_group_add"] = "Hinzufügen";
+$MESS["sender_group_add_title"] = "Gruppe hinzufügen";
+$MESS["sender_group_del"] = "Löschen";
+$MESS["sender_group_del_title"] = "Gruppe löschen";
+$MESS["sender_group_del_confirm"] = "Möchten Sie diese Gruppe wirklich löschen?";
+$MESS["sender_group_field_active"] = "Aktiv:";
+$MESS["sender_group_field_name"] = "Name der Gruppe:";
+$MESS["sender_group_field_sort"] = "Sortierung:";
+$MESS["sender_group_field_desc"] = "Beschreibung (max. 2.000 Zeichen):";
+$MESS["sender_group_conn_title"] = "Empfänger, die in die Gruppe eingeschlossen werden";
+$MESS["sender_group_conn_desc"] = "Sie können Empfänger zu einer Liste für den Newsletter mithilfe der Filter-Tools gruppieren. So erhalten nur die Nutzer Ihre E-Mail, welche Sie anschreiben möchten. Benutzen Sie dafür Einstellungen der Abonnentenauswähl.";
+$MESS["sender_group_conn_desc_example"] = "Sie können bspw. Ihren aktiven Nutzern über ein Sonderangebot mitteilen, oder Sie schreiben Nutzer an, die in Ihrem Onlineshop etwas gekauft haben. Oder aber Sie vereinigen beide Nutzertypen in einer Gruppe.";
+$MESS["sender_group_conn_add"] = "Filter hinzufügen";
+$MESS["group_edit_connector"] = "Adresstypen:";
+$MESS["group_edit_connector_add"] = "Typ hinzufügen:";
+$MESS["group_edit_connector_add_button"] = "Hinzufügen";
+$MESS["sender_group_conn_not_availabe"] = "Keine Empfängerquellen sind verfügbar";
+$MESS["sender_group_conn_cnt"] = "Ausgewählt";
+$MESS["sender_group_conn_cnt_all"] = "Empfänger gesamt ausgewählt";
+$MESS["sender_group_conn_not_selected"] = "Es gibt keine Filter. Erstellen Sie bitte einen.";
+?>

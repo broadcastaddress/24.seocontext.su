@@ -1,0 +1,29 @@
+<?
+$MESS["M_CRM_COMPANY_VIEW_PULL_TEXT"] = "Puxe para baixo para atualizar ...";
+$MESS["M_CRM_COMPANY_VIEW_DOWN_TEXT"] = "Solte para atualizar ...";
+$MESS["M_CRM_COMPANY_VIEW_LOAD_TEXT"] = "Atualizando ...";
+$MESS["M_CRM_COMPANY_VIEW_ACTION_CALL_TO"] = "Chamar";
+$MESS["M_CRM_COMPANY_VIEW_ACTIVITY_LIST"] = "Atividade";
+$MESS["M_CRM_COMPANY_VIEW_DEAL_LIST"] = "Negócios";
+$MESS["M_CRM_COMPANY_VIEW_CONTACT_LIST"] = "Contactos";
+$MESS["M_CRM_COMPANY_VIEW_EVENT_LIST"] = "Histórico";
+$MESS["M_CRM_COMPANY_VIEW_RESPONSIBLE"] = "Responsável";
+$MESS["M_CRM_COMPANY_VIEW_COMMENT"] = "Comentar";
+$MESS["M_CRM_COMPANY_VIEW_COMMENT_CUT"] = "Leia mais ...";
+$MESS["M_CRM_COMPANY_VIEW_ADDRESS"] = "Endereço";
+$MESS["M_CRM_COMPANY_VIEW_ADDRESS_LEGAL"] = "Endereço Legal";
+$MESS["M_CRM_COMPANY_VIEW_PHONE"] = "Telefone";
+$MESS["M_CRM_COMPANY_VIEW_EMAIL"] = "E-mail";
+$MESS["M_CRM_COMPANY_VIEW_WEB"] = "Site";
+$MESS["M_CRM_COMPANY_VIEW_IM"] = "Messenger";
+$MESS["M_CRM_COMPANY_VIEW_TYPE"] = "Tipo";
+$MESS["M_CRM_COMPANY_VIEW_INDUSTRY"] = "Indústria";
+$MESS["M_CRM_COMPANY_VIEW_REVENUE"] = "Receita anual";
+$MESS["M_CRM_COMPANY_VIEW_EMPLOYEES"] = "Funcionários";
+$MESS["M_CRM_COMPANY_VIEW_BANKING_DETAILS"] = "Dados bancários";
+$MESS["M_CRM_COMPANY_VIEW_EDIT"] = "Editar";
+$MESS["M_CRM_COMPANY_VIEW_DELETE"] = "Excluir";
+$MESS["M_CRM_COMPANY_VIEW_DELETION_TITLE"] = "Excluir empresa";
+$MESS["M_CRM_COMPANY_VIEW_DELETION_CONFIRMATION"] = "Tem certeza de que deseja excluir a empresa?";
+$MESS["M_CRM_COMPANY_VIEW_CREATE_INVOICE"] = "Criar fatura";
+?>

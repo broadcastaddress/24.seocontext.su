@@ -1,0 +1,31 @@
+<?
+$MESS["IMBOT_BOT_NAME"] = "Mia";
+$MESS["IMBOT_BOT_COLOR"] = "PINK";
+$MESS["IMBOT_BOT_GENDER"] = "F";
+$MESS["IMBOT_BOT_BIRTHDAY"] = "1992-03-02";
+$MESS["IMBOT_BOT_EMAIL"] = "mia@bitrix24.de";
+$MESS["IMBOT_BOT_SITE"] = "http://bitrix24.de";
+$MESS["IMBOT_BOT_WORK_POSITION"] = "Intelligente Assistentin";
+$MESS["IMBOT_BOT_WELCOME_MESSAGE"] = "Ich bin Ihr persönlicher Assistent und werde Ihnen helfen, Bitrix24 zu meistern. [br] Sie können mir Fragen zu Bitrix24 stellen, oder einfach mit mir plaudern. [br] Schreiben Sie mir, ich bin doch immer hier :)";
+$MESS["IMBOT_BOT_WELCOME_MESSAGE_CHAT"] = "Ich bin Ihr persönlicher Assistent und werde Ihnen helfen, Bitrix24 zu meistern. [br] Erwähnen Sie mich in der Nachricht oder klicken Sie auf meinen Avatar, damit ich im Chat antworten kann :)";
+$MESS["IMBOT_BOT_WELCOME_NEW_B24"] = "Danke, dass Sie einen Bitrix24 Account erstellt haben.";
+$MESS["IMBOT_BOT_WELCOME_NEW_USER"] = "Willkommen bei Bitrix24!";
+$MESS["IMBOT_BOT_WELCOME_AUTH_USER"] = "Hallo #USER_NAME#! Ich bin Ihre neue Assistentin!";
+$MESS["IMBOT_BOT_MESSAGE_HELLO_DAY"] = "Guten Tag #USER_NAME#!";
+$MESS["IMBOT_BOT_MESSAGE_HELLO_EVENING"] = "Guten Abend #USER_NAME#!";
+$MESS["IMBOT_BOT_MESSAGE_HELLO_MORNING"] = "Guten Morgen #USER_NAME#!";
+$MESS["IMBOT_BOT_MESSAGE_CALEND_1_1"] = "Sie haben für heute folgende Termine geplant:";
+$MESS["IMBOT_BOT_MESSAGE_CALEND_2"] = "Sie haben für heute noch keine Termine geplant.";
+$MESS["IMBOT_BOT_MESSAGE_CALEND_3"] = "von #TIME_1# bis #TIME_2#";
+$MESS["IMBOT_BOT_MESSAGE_CALEND_4"] = "Ganzen Tag";
+$MESS["IMBOT_BOT_MESSAGE_TASKS_1"] = "#URL_START# #TASKS_COUNT# Aufgabe#URL_END# erfordert Ihre Aufmerksamkeit.";
+$MESS["IMBOT_BOT_MESSAGE_TASKS_2"] = "#URL_START# #TASKS_COUNT# Aufgaben#URL_END# erfordert Ihre Aufmerksamkeit.";
+$MESS["IMBOT_BOT_MESSAGE_TASKS_3"] = "#URL_START# #TASKS_COUNT# Aufgaben#URL_END# erfordert Ihre Aufmerksamkeit.";
+$MESS["IMBOT_BOT_MESSAGE_NEW_1"] = "Slash Befehle sind jetzt in jedem Chat verfügbar :)";
+$MESS["IMBOT_BOT_CHANGE_LANG"] = "Yes, I speak English too 8) ";
+$MESS["IMBOT_BOT_WELCOME_MESSAGE_LINES"] = "Ich bin Ihr virtueller Assistent. [br] Wie kann ich Ihnen helfen? [br] Um mit einem Mitarbeiter zu sprechen, [send=0]antworten Sie mit 0[/send].";
+$MESS["IMBOT_BOT_WELCOME_LINES_REDIRECT"] = "Sie werden jetzt mit einem Mitarbeiter verbunden.[br] Kann ich in der Zwischenzeit noch etwas für Sie tun?";
+$MESS["IMBOT_BOT_MESSAGE_CALEND_1_2"] = "Vergessen Sie nicht, was Sie heute geplant haben:";
+$MESS["IMBOT_BOT_MESSAGE_CALEND_1_3"] = "Heute nicht verpassen:";
+$MESS["IMBOT_BOT_MESSAGE_CALEND_1_4"] = "Schnellerinnerung:";
+?>
