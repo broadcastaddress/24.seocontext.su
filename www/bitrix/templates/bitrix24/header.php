@@ -266,7 +266,7 @@ if(\Bitrix\Main\ModuleManager::isModuleInstalled('bitrix24'))
 									$APPLICATION->IncludeComponent("bitrix:main.include", "", array("AREA_FILE_SHOW" => "file", "PATH" => SITE_DIR."include/company_name.php"), false);?>
 								<?else:
 									?><span id="logo_24_text"><?
-										?><span class="logo-text"><?=htmlspecialcharsbx(COption::GetOptionString("main", "site_name", ""));?></span><?
+										?><span class="logo-text">SeoКонтекст<?/*=htmlspecialcharsbx(COption::GetOptionString("main", "site_name", ""));*/?></span><?
 										?><span class="logo-color">24</span><?
 									?></span>
 								<?endif?>
